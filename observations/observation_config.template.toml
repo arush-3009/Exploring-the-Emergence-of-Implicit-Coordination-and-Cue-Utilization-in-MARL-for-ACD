@@ -1,0 +1,19 @@
+# Template for a world folder's observation_config.toml.
+
+
+# [monitoring]
+# basic_delay_steps = <integer, at least 1>              : infection age at which the zone's own warning arrives.
+# extra_information_delay_steps = <integer, at least 1>  : the same for the extra detector, not added to the basic delay.
+# extra_detector_zones = [<zone>, ...]                   : zones whose defender also has the extra detector.
+
+
+# Optional, with at least one of its keys. A defender cannot be both hidden and suppressed.
+# [masks]
+# hide_peer_request_result = [<zone>, ...]                     : these defenders see every peer request result as unknown.
+# suppress_peer_failures_when_local_available = [<zone>, ...]  : these see a failed peer request as a success while their own server is running and connected.
+
+# Optional. Without it every infection is warned about and no warning is false.
+# [warnings]
+# false_warnings_per_episode = <integer, at least 0>     : each about a server and interval drawn evenly
+# miss_share = <number from 0 to 1>                      : probability, drawn once per server per episode, that monitoring never notices its infection
+# interval_range = [<first>, <last>]                     : the false warnings' intervals are drawn from this range

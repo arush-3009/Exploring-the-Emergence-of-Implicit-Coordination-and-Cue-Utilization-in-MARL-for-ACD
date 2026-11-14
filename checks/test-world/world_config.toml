@@ -1,0 +1,50 @@
+# World layout and starting conditions. Loaded when an environment is created.
+# Reset reuses its loaded settings; create a new environment after editing this file.
+# Durations, observations, workload frequency and rewards belong elsewhere.
+
+[episode]
+max_steps = 50
+
+# Each zone has one employee computer, three file servers and one defender.
+# The defender manages the servers listed for its zone.
+[zones.A]
+employee = "EA"
+servers = ["A1", "A2", "A3"]
+
+[zones.B]
+employee = "EB"
+servers = ["B1", "B2", "B3"]
+
+[network]
+# Each pair permits server-to-server business communication in both directions.
+# Local employee-to-server permissions follow the zone membership above.
+server_pairs = [
+    ["A1", "B1"],
+    ["A2", "B2"],
+    ["A3", "B3"],
+]
+
+[servers]
+# Every listed server exposes a file service. This list selects which services
+# are vulnerable to the modelled exploit; employees do not expose that service.
+vulnerable_servers = ["A1", "A2", "A3", "B1", "B2", "B3"]
+
+[initial]
+# A fixed starting incident for checking mechanics. An optional [intrusion] table draws a
+# random intrusion each episode instead (see the world folders in worlds/).
+compromised_servers = ["A1"]
+isolated_servers = []
+servers_with_stopped_services = []
+
+# Optional [outages] table: servers whose file service stops on its own and restarts later.
+# Without it no service ever stops by itself. Each outage is drawn at reset into the
+# episode script (see world/episode_script.py): one of the listed servers, a start interval in
+# interval_range, and duration_steps intervals of stopped service, during which every request to
+# the server fails and spread cannot infect it. The draws come from a generator of their own, so
+# turning this on leaves the intrusions and the warnings as they were. For example:
+#
+# [outages]
+# per_episode = 1
+# duration_steps = 3
+# interval_range = [0, 40]
+# servers = ["A1", "A2", "A3", "B1", "B2", "B3"]

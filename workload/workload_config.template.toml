@@ -1,0 +1,4 @@
+# Template for a world folder's workload_config.toml.
+
+# [requests]
+# per_route_per_interval = <integer, at least 1>     required requests on every route in every interval

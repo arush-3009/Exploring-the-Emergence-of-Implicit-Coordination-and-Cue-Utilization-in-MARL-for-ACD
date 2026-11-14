@@ -1,0 +1,12 @@
+# Template for a world folder's reward_config.toml. It lists every table and key the rewards validator
+# accepts, with no value set, and is never loaded. A line "# key = ..." names a key and what it accepts.
+# Every value is a finite number of at least 0; the shared reward subtracts each weighted count per interval.
+
+# [penalties]
+# per_compromised_server = <number>     per infected server per interval
+# per_failed_request = <number>         per failed required request
+# per_inspection = <number>             per accepted Inspect start
+
+# Optional. A zone listed here uses its own weight instead of per_compromised_server.
+# [compromise_penalties_by_zone]
+# <zone> = <number>

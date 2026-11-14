@@ -1,0 +1,14 @@
+[monitoring]
+basic_delay_steps = 6
+extra_information_delay_steps = 2
+extra_detector_zones = ["A"]
+
+[warnings]
+false_warnings_per_episode = 1
+# Per-server, per-episode suppression of both infection detectors.
+miss_share = 0.2
+interval_range = [1, 37]
+
+[masks]
+# A keeps its cue in both conditions. Only B is masked in cue-hidden.
+hide_peer_request_result = []

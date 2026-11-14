@@ -1,0 +1,17 @@
+# The experiment's warm-start settings. Studies 2 and 4 weaken A's Restore target on top of these.
+
+[teacher]
+rule = "inspect-then-restore"
+episodes = 600
+
+[actor_fit]
+epochs = 300
+learning_rate = 0.001
+minibatch_size = 256
+action_target_weight = 0.95
+wait_target_weight = 0.6
+
+[critic_fit]
+epochs = 30
+learning_rate = 0.001
+minibatch_size = 256

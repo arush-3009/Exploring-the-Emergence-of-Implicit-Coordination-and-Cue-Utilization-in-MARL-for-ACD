@@ -1,0 +1,24 @@
+[project]
+name = "exploring-the-emergence-of-implicit-coordination-and-cue-utilization-in-marl-for-acd"
+version = "0.1.0"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
+    "torch>=2.14.1",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+    "ruff>=0.16.10",
+]
+
+# The code runs on the CPU only.
+[tool.uv.sources]
+torch = [{ index = "pytorch-cpu", marker = "sys_platform == 'linux'" }]
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true

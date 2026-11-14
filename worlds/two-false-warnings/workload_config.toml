@@ -1,0 +1,5 @@
+# Ordinary work demand, separate from attack attempts and action durations.
+# A route is one directed source -> target pair, derived from world settings.
+# Each request includes its reply. Repeated requests are separate required work.
+[requests]
+per_route_per_interval = 1

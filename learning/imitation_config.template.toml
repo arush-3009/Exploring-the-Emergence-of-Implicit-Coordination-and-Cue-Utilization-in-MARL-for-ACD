@@ -1,0 +1,18 @@
+# Template for an imitation_config.toml i.e. warm start's settings.
+
+# [teacher]
+# rule = <"restore-on-warning", "inspect-then-restore" or "inspect-then-restore-prob-restore-weakened">
+# episodes = <integer, at least 1>                 teacher episodes the fit uses
+
+# [actor_fit]
+# epochs = <integer, at least 1>
+# learning_rate = <number above 0>
+# minibatch_size = <integer, at least 1>
+# action_target_weight = <number above 0, at most 1>   target probability of the teacher's action when it acts
+# wait_target_weight = <number above 0, at most 1>     target probability of the teacher's action when it waits
+# restore_target_weight = <number above 0, at most 1>  optional, required by the weakened teacher, replaces the target of Restore
+
+# [critic_fit]
+# epochs = <integer, at least 1>
+# learning_rate = <number above 0>
+# minibatch_size = <integer, at least 1>

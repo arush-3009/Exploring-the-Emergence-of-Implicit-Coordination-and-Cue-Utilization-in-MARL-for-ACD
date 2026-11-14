@@ -1,0 +1,47 @@
+[episode]
+max_steps = 50
+
+# Each zone has one employee computer, three file servers and one defender.
+# The defender manages the servers listed for its zone.
+[zones.A]
+employee = "EA"
+servers = ["A1", "A2", "A3"]
+
+[zones.B]
+employee = "EB"
+servers = ["B1", "B2", "B3"]
+
+[network]
+# Each pair permits server-to-server business communication in both directions.
+# Local employee-to-server permissions follow zone membership.
+server_pairs = [
+    ["A1", "B1"],
+    ["A2", "B2"],
+    ["A3", "B3"],
+]
+
+[servers]
+# Every listed server exposes a file service. This list selects which services
+# are vulnerable to the modelled exploit; employees do not expose that service.
+vulnerable_servers = ["A1", "A2", "A3", "B1", "B2", "B3"]
+
+[initial]
+# No server starts infected; the [intrusion] table below brings the infection instead.
+compromised_servers = []
+isolated_servers = []
+servers_with_stopped_services = []
+
+[intrusion]
+# Each reset draws the episode's intrusion. Every listed server and every start interval
+# in the range (first and last included) is equally likely. At the start of its interval
+# the server becomes infected from outside, and spread and monitoring follow as usual.
+servers = ["A1", "A2", "A3", "B1", "B2", "B3"]
+start_interval_range = [0, 30]
+# Share of episodes with no intrusion at all.
+clean_episode_share = 0.2
+
+[outages]
+per_episode = 1
+duration_steps = 3
+interval_range = [1, 37]
+servers = ["A1", "A2", "A3", "B1", "B2", "B3"]

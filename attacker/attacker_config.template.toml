@@ -1,0 +1,4 @@
+# Template for a world folder's attacker_config.toml.
+
+# [spread]
+# duration_steps = <integer, at least 1>     intervals a spread attempt takes, counting its first

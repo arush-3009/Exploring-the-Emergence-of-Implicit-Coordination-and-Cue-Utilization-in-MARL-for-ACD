@@ -1,0 +1,17 @@
+# Inspect warnings before restoring. The same warm start for every test.
+[teacher]
+rule = "inspect-then-restore"
+episodes = 600
+
+[actor_fit]
+epochs = 300
+learning_rate = 0.001
+minibatch_size = 256
+action_target_weight = 0.95
+# Leave 40% of the target probability for other actions when the teacher waits.
+wait_target_weight = 0.6
+
+[critic_fit]
+epochs = 30
+learning_rate = 0.001
+minibatch_size = 256

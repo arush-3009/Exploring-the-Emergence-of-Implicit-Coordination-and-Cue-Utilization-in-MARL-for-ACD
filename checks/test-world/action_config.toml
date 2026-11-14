@@ -1,0 +1,11 @@
+# Total transitions occupied by a targeted defensive action.
+# "Wait" is one ordinary world transition and does not translate to a targeted job.
+[duration_steps]
+inspect = 2
+isolate = 1
+restore = 4
+reconnect = 1
+
+[restore]
+# When true, a finished restore also patches the server, so spread cannot infect it again this episode.
+patches_server = false

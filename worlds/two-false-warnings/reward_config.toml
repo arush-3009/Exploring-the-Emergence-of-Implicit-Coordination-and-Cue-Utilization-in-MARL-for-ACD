@@ -1,0 +1,6 @@
+# Non-negative costs. The reward subtracts these weighted counts each interval.
+[penalties]
+per_compromised_server = 2.0
+per_failed_request = 1.0
+# Charged once when an Inspect job starts, including one unfinished at the horizon.
+per_inspection = 0.5

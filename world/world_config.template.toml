@@ -1,0 +1,34 @@
+# Template for a world folder's world_config.toml.
+
+# [episode]
+# max_steps = <integer, at least 1>                  intervals per episode
+
+
+# Exactly two zones. Each zone has one defender, named after the zone, one employee computer and three servers.
+# [zones.<zone>]
+# employee = <host id>
+# servers = [<server id>, <server id>, <server id>]
+
+# [network]
+# server_pairs = [[<server id>, <server id>], ...]   every server in exactly one pair, its partner in the other zone
+
+# [servers]
+# vulnerable_servers = [<server id>, ...]             servers the modelled exploit can infect
+
+# [initial]
+# compromised_servers = [<server id>, ...]            infected at the start of every episode
+# isolated_servers = [<server id>, ...]
+# servers_with_stopped_services = [<server id>, ...]
+
+# Optional. Without it no episode has a random intrusion.
+# [intrusion]
+# servers = [<server id>, ...]                         the intruded server is drawn evenly from these
+# start_interval_range = [<first>, <last>]             0 <= first <= last < max_steps, the interval drawn evenly
+# clean_episode_share = <number from 0 to 1>           share of episodes without an intrusion
+
+# Optional. Without it no server's service stops on its own.
+# [outages]
+# per_episode = <integer, at least 0>
+# duration_steps = <integer, at least 1>               intervals each outage keeps the service stopped
+# interval_range = [<first>, <last>]                   the start interval is drawn evenly from this range
+# servers = [<server id>, ...]                         each outage's server is drawn evenly from these

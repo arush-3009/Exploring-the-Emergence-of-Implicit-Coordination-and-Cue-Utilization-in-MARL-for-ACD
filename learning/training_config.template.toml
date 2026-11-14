@@ -1,0 +1,24 @@
+# Template for a training_config.toml.
+
+# [networks]
+# hidden_sizes = [<integer, at least 1>, ...]      hidden layer sizes of every actor and critic
+
+# [advantages]
+# gamma = <number from 0 to 1>                     discount per interval
+# gae_lambda = <number from 0 to 1>
+
+# [ppo]
+# actor_learning_rate = <number above 0>
+# critic_learning_rate = <number above 0>
+# clip_epsilon = <number between 0 and 1>
+# epochs = <integer, at least 1>                   passes over each iteration's decisions
+# minibatch_size = <integer, at least 1>
+# entropy_coefficient = <number, at least 0>
+
+# [training]
+# episodes_per_iteration = <integer, at least 1>
+# iterations = <integer, at least 1>
+
+# Optional. Listed defenders act greedily and are never updated; they need saved initial weights.
+# [fixed_defenders]
+# <defender> = "greedy"

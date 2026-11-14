@@ -1,0 +1,36 @@
+# Monitoring settings, loaded once and used after the requests of each interval.
+# Delays count intervals.
+[monitoring]
+basic_delay_steps = 6
+# The extra detector's own delay, counted from the infection.
+extra_information_delay_steps = 2
+extra_detector_zones = ["A"]
+
+# Optional [masks] table. Defenders listed in hide_peer_request_result never see how their
+# servers' requests to their partners went: those entries stay "unknown" in their observations.
+# The requests still happen, still fail and still count in the reward; only what the defender
+# knows changes. The cue-hidden arms and controls use it, for example:
+#
+# [masks]
+# hide_peer_request_result = ["A", "B"]
+
+# Optional evaluation control, also in [masks], off when omitted or []. A named
+# defender sees a failed peer request as succeeded only while its own server is
+# running and connected. Initial unknown and locally unavailable failures stay
+# unchanged. Do not enable this together with hiding for the same defender.
+# suppress_peer_failures_when_local_available = ["B"]
+
+# Optional [warnings] table: how reliable the warnings are. Without it every infection is
+# warned about at its detector's delay and no warning is ever false.
+# false_warnings_per_episode: that many warnings about a randomly drawn server at a randomly
+#   drawn interval in interval_range, delivered to the zone's defender like a real warning,
+#   whether or not the server is infected.
+# miss_share: the probability, drawn once per server per episode, that monitoring never
+#   notices that server's infection (neither detector fires for it).
+# Everything is drawn at reset, into the episode script (see world/episode_script.py), from a
+# generator of its own, so turning this on leaves the intrusions as they were. For example:
+#
+# [warnings]
+# false_warnings_per_episode = 1
+# miss_share = 0.25
+# interval_range = [0, 40]

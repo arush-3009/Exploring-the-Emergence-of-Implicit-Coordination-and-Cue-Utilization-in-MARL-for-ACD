@@ -1,0 +1,13 @@
+# Template for a world folder's action_config.toml.
+
+# Intervals each targeted job takes, counting the interval it starts 
+# in. The action "wait" does not translate to a targetted job.
+
+# [duration_steps]
+# inspect = <integer, at least 1>
+# isolate = <integer, at least 1>
+# restore = <integer, at least 1>
+# reconnect = <integer, at least 1>
+
+# [restore]
+# patches_server = <true or false>     a finished Restore also makes its server no longer vulnerable (true for all studies)

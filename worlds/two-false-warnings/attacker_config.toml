@@ -1,0 +1,5 @@
+# Timing for the scripted paired-server spread attempt.
+# This is a total duration in simulated intervals, including its starting interval.
+# New attacks copy this duration; each advancement accounts for one interval.
+[spread]
+duration_steps = 2
