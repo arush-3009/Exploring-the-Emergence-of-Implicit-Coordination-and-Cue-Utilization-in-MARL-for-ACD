@@ -1,0 +1,89 @@
+panel,series,seed,x,value,sd,numerator,count,mark
+A's average probability of interrupting a server when it sees a warning for that server,cue-visible,0,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees a warning for that server,cue-visible,0,,0.00035487270165050425,,,,team
+A's average probability of interrupting a server when it sees a warning for that server,cue-visible,1,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees a warning for that server,cue-visible,1,,0.0009334664647399418,,,,team
+A's average probability of interrupting a server when it sees a warning for that server,cue-visible,2,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees a warning for that server,cue-visible,2,,0.0009722221975191834,,,,team
+A's average probability of interrupting a server when it sees a warning for that server,cue-visible,3,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees a warning for that server,cue-visible,3,,2.628838884961722e-15,,,,team
+A's average probability of interrupting a server when it sees a warning for that server,cue-visible,4,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees a warning for that server,cue-visible,4,,0.0003340856182855598,,,,team
+A's average probability of interrupting a server when it sees a warning for that server,cue-visible,,,0.0005189294,,,5,mean
+A's average probability of interrupting a server when it sees a warning for that server,cue-hidden-failures-suppressed,0,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees a warning for that server,cue-hidden-failures-suppressed,0,,0.0009363280102406564,,,,team
+A's average probability of interrupting a server when it sees a warning for that server,cue-hidden-failures-suppressed,1,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees a warning for that server,cue-hidden-failures-suppressed,1,,0.000652534639484644,,,,team
+A's average probability of interrupting a server when it sees a warning for that server,cue-hidden-failures-suppressed,2,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees a warning for that server,cue-hidden-failures-suppressed,2,,0.00012920371144320775,,,,team
+A's average probability of interrupting a server when it sees a warning for that server,cue-hidden-failures-suppressed,3,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees a warning for that server,cue-hidden-failures-suppressed,3,,3.233192317673766e-05,,,,team
+A's average probability of interrupting a server when it sees a warning for that server,cue-hidden-failures-suppressed,4,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees a warning for that server,cue-hidden-failures-suppressed,4,,0.0007078924389413538,,,,team
+A's average probability of interrupting a server when it sees a warning for that server,cue-hidden-failures-suppressed,,,0.0004916581,,,5,mean
+A's average probability of interrupting a server when it sees an infected inspection finding for that server,cue-visible,0,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees an infected inspection finding for that server,cue-visible,0,,0.001319614704552274,,,,team
+A's average probability of interrupting a server when it sees an infected inspection finding for that server,cue-visible,1,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees an infected inspection finding for that server,cue-visible,1,,0.0003293991084434559,,,,team
+A's average probability of interrupting a server when it sees an infected inspection finding for that server,cue-visible,2,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees an infected inspection finding for that server,cue-visible,2,,0.004172171345095345,,,,team
+A's average probability of interrupting a server when it sees an infected inspection finding for that server,cue-visible,3,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees an infected inspection finding for that server,cue-visible,3,,3.613794553640229e-14,,,,team
+A's average probability of interrupting a server when it sees an infected inspection finding for that server,cue-visible,4,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees an infected inspection finding for that server,cue-visible,4,,9.835084050573846e-05,,,,team
+A's average probability of interrupting a server when it sees an infected inspection finding for that server,cue-visible,,,0.0011839072,,,5,mean
+A's average probability of interrupting a server when it sees an infected inspection finding for that server,cue-hidden-failures-suppressed,0,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees an infected inspection finding for that server,cue-hidden-failures-suppressed,0,,0.002232629166640961,,,,team
+A's average probability of interrupting a server when it sees an infected inspection finding for that server,cue-hidden-failures-suppressed,1,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees an infected inspection finding for that server,cue-hidden-failures-suppressed,1,,0.001042838421849151,,,,team
+A's average probability of interrupting a server when it sees an infected inspection finding for that server,cue-hidden-failures-suppressed,2,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees an infected inspection finding for that server,cue-hidden-failures-suppressed,2,,0.00031471873087302764,,,,team
+A's average probability of interrupting a server when it sees an infected inspection finding for that server,cue-hidden-failures-suppressed,3,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees an infected inspection finding for that server,cue-hidden-failures-suppressed,3,,0.0001587423975903161,,,,team
+A's average probability of interrupting a server when it sees an infected inspection finding for that server,cue-hidden-failures-suppressed,4,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees an infected inspection finding for that server,cue-hidden-failures-suppressed,4,,0.0014985546212468784,,,,team
+A's average probability of interrupting a server when it sees an infected inspection finding for that server,cue-hidden-failures-suppressed,,,0.0010494967,,,5,mean
+A's average probability of interrupting a server when it sees a clean inspection finding for that server,cue-visible,0,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees a clean inspection finding for that server,cue-visible,0,,0.0013526856443901501,,,,team
+A's average probability of interrupting a server when it sees a clean inspection finding for that server,cue-visible,1,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees a clean inspection finding for that server,cue-visible,1,,0.00049718787602036,,,,team
+A's average probability of interrupting a server when it sees a clean inspection finding for that server,cue-visible,2,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees a clean inspection finding for that server,cue-visible,2,,0.0037864354381451997,,,,team
+A's average probability of interrupting a server when it sees a clean inspection finding for that server,cue-visible,3,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees a clean inspection finding for that server,cue-visible,3,,4.382237843060323e-14,,,,team
+A's average probability of interrupting a server when it sees a clean inspection finding for that server,cue-visible,4,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees a clean inspection finding for that server,cue-visible,4,,0.0003358696096067656,,,,team
+A's average probability of interrupting a server when it sees a clean inspection finding for that server,cue-visible,,,0.0011944357,,,5,mean
+A's average probability of interrupting a server when it sees a clean inspection finding for that server,cue-hidden-failures-suppressed,0,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees a clean inspection finding for that server,cue-hidden-failures-suppressed,0,,0.0032131094718307654,,,,team
+A's average probability of interrupting a server when it sees a clean inspection finding for that server,cue-hidden-failures-suppressed,1,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees a clean inspection finding for that server,cue-hidden-failures-suppressed,1,,0.000939862929238001,,,,team
+A's average probability of interrupting a server when it sees a clean inspection finding for that server,cue-hidden-failures-suppressed,2,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees a clean inspection finding for that server,cue-hidden-failures-suppressed,2,,0.0003650108934186533,,,,team
+A's average probability of interrupting a server when it sees a clean inspection finding for that server,cue-hidden-failures-suppressed,3,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees a clean inspection finding for that server,cue-hidden-failures-suppressed,3,,0.00013320769813603841,,,,team
+A's average probability of interrupting a server when it sees a clean inspection finding for that server,cue-hidden-failures-suppressed,4,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees a clean inspection finding for that server,cue-hidden-failures-suppressed,4,,0.0021945770015371823,,,,team
+A's average probability of interrupting a server when it sees a clean inspection finding for that server,cue-hidden-failures-suppressed,,,0.0013691536,,,5,mean
+A's average probability of interrupting a server when it sees no warning and no finding for any of its available servers,cue-visible,0,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees no warning and no finding for any of its available servers,cue-visible,0,,0.0030076115224930418,,,,team
+A's average probability of interrupting a server when it sees no warning and no finding for any of its available servers,cue-visible,1,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees no warning and no finding for any of its available servers,cue-visible,1,,0.0005091711355214548,,,,team
+A's average probability of interrupting a server when it sees no warning and no finding for any of its available servers,cue-visible,2,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees no warning and no finding for any of its available servers,cue-visible,2,,0.006568604571068051,,,,team
+A's average probability of interrupting a server when it sees no warning and no finding for any of its available servers,cue-visible,3,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees no warning and no finding for any of its available servers,cue-visible,3,,4.394830973544041e-16,,,,team
+A's average probability of interrupting a server when it sees no warning and no finding for any of its available servers,cue-visible,4,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees no warning and no finding for any of its available servers,cue-visible,4,,0.0001303921536613929,,,,team
+A's average probability of interrupting a server when it sees no warning and no finding for any of its available servers,cue-visible,,,0.0020431559,,,5,mean
+A's average probability of interrupting a server when it sees no warning and no finding for any of its available servers,cue-hidden-failures-suppressed,0,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees no warning and no finding for any of its available servers,cue-hidden-failures-suppressed,0,,0.004291164801569656,,,,team
+A's average probability of interrupting a server when it sees no warning and no finding for any of its available servers,cue-hidden-failures-suppressed,1,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees no warning and no finding for any of its available servers,cue-hidden-failures-suppressed,1,,0.001238652149309307,,,,team
+A's average probability of interrupting a server when it sees no warning and no finding for any of its available servers,cue-hidden-failures-suppressed,2,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees no warning and no finding for any of its available servers,cue-hidden-failures-suppressed,2,,0.0006893223196764519,,,,team
+A's average probability of interrupting a server when it sees no warning and no finding for any of its available servers,cue-hidden-failures-suppressed,3,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees no warning and no finding for any of its available servers,cue-hidden-failures-suppressed,3,,0.00016569629742460448,,,,team
+A's average probability of interrupting a server when it sees no warning and no finding for any of its available servers,cue-hidden-failures-suppressed,4,,0.0,,,,greedy
+A's average probability of interrupting a server when it sees no warning and no finding for any of its available servers,cue-hidden-failures-suppressed,4,,0.0023511424202207593,,,,team
+A's average probability of interrupting a server when it sees no warning and no finding for any of its available servers,cue-hidden-failures-suppressed,,,0.0017471956,,,5,mean

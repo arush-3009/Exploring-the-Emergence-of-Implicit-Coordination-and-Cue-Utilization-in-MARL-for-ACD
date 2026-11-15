@@ -1,0 +1,69 @@
+panel,series,seed,x,value,sd,numerator,count,mark
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,0,,10.995,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,1,,1.926,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,2,,12.6995,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,3,,20.6265,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,4,,11.25175,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,,,11.49975,,,5,mean
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,0,,10.73575,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,1,,3.38275,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,2,,0.0,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,3,,27.68525,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,4,,6.029,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,,,9.56655,,,5,mean
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,0,,-6.132307692307692,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,1,,-2.4246153846153846,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,2,,-6.267076923076923,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,3,,-12.2,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,4,,-9.164307692307693,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,,,-7.2376615385,,,5,mean
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,0,,-5.912615384615385,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,1,,-1.980923076923077,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,2,,0.0,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,3,,-19.288615384615383,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,4,,-3.620923076923077,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,,,-6.1606153846,,,5,mean
+"normal minus control, A interrupted the attacked pair's server after the intrusion",cue-hidden-unknown-at-evaluation,0,,0.0,,0.0,1625,team
+"normal minus control, A interrupted the attacked pair's server after the intrusion",cue-hidden-unknown-at-evaluation,1,,0.0,,0.0,1625,team
+"normal minus control, A interrupted the attacked pair's server after the intrusion",cue-hidden-unknown-at-evaluation,2,,0.0,,0.0,1625,team
+"normal minus control, A interrupted the attacked pair's server after the intrusion",cue-hidden-unknown-at-evaluation,3,,-0.0012307692307692308,,-2.0,1625,team
+"normal minus control, A interrupted the attacked pair's server after the intrusion",cue-hidden-unknown-at-evaluation,4,,0.008615384615384615,,14.0,1625,team
+"normal minus control, A interrupted the attacked pair's server after the intrusion",cue-hidden-unknown-at-evaluation,,,0.0014769231,,,5,mean
+"normal minus control, A interrupted the attacked pair's server after the intrusion",cue-hidden-failures-suppressed-at-evaluation,0,,0.0,,0.0,1625,team
+"normal minus control, A interrupted the attacked pair's server after the intrusion",cue-hidden-failures-suppressed-at-evaluation,1,,0.0,,0.0,1625,team
+"normal minus control, A interrupted the attacked pair's server after the intrusion",cue-hidden-failures-suppressed-at-evaluation,2,,0.0,,0.0,1625,team
+"normal minus control, A interrupted the attacked pair's server after the intrusion",cue-hidden-failures-suppressed-at-evaluation,3,,0.0,,0.0,1625,team
+"normal minus control, A interrupted the attacked pair's server after the intrusion",cue-hidden-failures-suppressed-at-evaluation,4,,0.0,,0.0,1625,team
+"normal minus control, A interrupted the attacked pair's server after the intrusion",cue-hidden-failures-suppressed-at-evaluation,,,0.0,,,5,mean
+"normal minus control, B responded to A's interruption",cue-hidden-unknown-at-evaluation,0,,0.6393475864132211,,,,team
+"normal minus control, B responded to A's interruption",cue-hidden-unknown-at-evaluation,1,,0.6209150326797386,,,,team
+"normal minus control, B responded to A's interruption",cue-hidden-unknown-at-evaluation,2,,,,,,undefined
+"normal minus control, B responded to A's interruption",cue-hidden-unknown-at-evaluation,3,,0.863034117936521,,,,team
+"normal minus control, B responded to A's interruption",cue-hidden-unknown-at-evaluation,4,,0.7597232893297012,,,,team
+"normal minus control, B responded to A's interruption",cue-hidden-unknown-at-evaluation,,,0.7207550066,,,4,mean
+"normal minus control, B responded to A's interruption",cue-hidden-failures-suppressed-at-evaluation,0,,0.6319702602230483,,,,team
+"normal minus control, B responded to A's interruption",cue-hidden-failures-suppressed-at-evaluation,1,,0.6209150326797386,,,,team
+"normal minus control, B responded to A's interruption",cue-hidden-failures-suppressed-at-evaluation,2,,,,,,undefined
+"normal minus control, B responded to A's interruption",cue-hidden-failures-suppressed-at-evaluation,3,,0.9657972696454205,,,,team
+"normal minus control, B responded to A's interruption",cue-hidden-failures-suppressed-at-evaluation,4,,0.6175059952038369,,,,team
+"normal minus control, B responded to A's interruption",cue-hidden-failures-suppressed-at-evaluation,,,0.7090471394,,,4,mean
+"normal minus control, B responded to A's interruption",cue-hidden-unknown-at-evaluation,0,,0.9985130111524163,,1343.0,1345,normal
+"normal minus control, B responded to A's interruption",cue-hidden-unknown-at-evaluation,0,,0.3591654247391952,,482.0,1342,control
+"normal minus control, B responded to A's interruption",cue-hidden-unknown-at-evaluation,1,,1.0,,459.0,459,normal
+"normal minus control, B responded to A's interruption",cue-hidden-unknown-at-evaluation,1,,0.3790849673202614,,174.0,459,control
+"normal minus control, B responded to A's interruption",cue-hidden-unknown-at-evaluation,2,,,,0.0,0,normal
+"normal minus control, B responded to A's interruption",cue-hidden-unknown-at-evaluation,2,,,,0.0,0,control
+"normal minus control, B responded to A's interruption",cue-hidden-unknown-at-evaluation,3,,0.9992700729927008,,1369.0,1370,normal
+"normal minus control, B responded to A's interruption",cue-hidden-unknown-at-evaluation,3,,0.13623595505617977,,194.0,1424,control
+"normal minus control, B responded to A's interruption",cue-hidden-unknown-at-evaluation,4,,0.9988009592326139,,833.0,834,normal
+"normal minus control, B responded to A's interruption",cue-hidden-unknown-at-evaluation,4,,0.23907766990291263,,197.0,824,control
+"normal minus control, B responded to A's interruption",cue-hidden-failures-suppressed-at-evaluation,0,,0.9985130111524163,,1343.0,1345,normal
+"normal minus control, B responded to A's interruption",cue-hidden-failures-suppressed-at-evaluation,0,,0.36654275092936806,,493.0,1345,control
+"normal minus control, B responded to A's interruption",cue-hidden-failures-suppressed-at-evaluation,1,,1.0,,459.0,459,normal
+"normal minus control, B responded to A's interruption",cue-hidden-failures-suppressed-at-evaluation,1,,0.3790849673202614,,174.0,459,control
+"normal minus control, B responded to A's interruption",cue-hidden-failures-suppressed-at-evaluation,2,,,,0.0,0,normal
+"normal minus control, B responded to A's interruption",cue-hidden-failures-suppressed-at-evaluation,2,,,,0.0,0,control
+"normal minus control, B responded to A's interruption",cue-hidden-failures-suppressed-at-evaluation,3,,0.9992700729927008,,1369.0,1370,normal
+"normal minus control, B responded to A's interruption",cue-hidden-failures-suppressed-at-evaluation,3,,0.03347280334728033,,48.0,1434,control
+"normal minus control, B responded to A's interruption",cue-hidden-failures-suppressed-at-evaluation,4,,0.9988009592326139,,833.0,834,normal
+"normal minus control, B responded to A's interruption",cue-hidden-failures-suppressed-at-evaluation,4,,0.381294964028777,,318.0,834,control

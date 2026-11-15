@@ -1,0 +1,72 @@
+panel,series,seed,x,value,sd,numerator,count,mark
+A interrupted the attacked pair's server after the intrusion,cue-visible,0,,0.0,,0.0,1625,team
+A interrupted the attacked pair's server after the intrusion,cue-visible,1,,0.0,,0.0,1625,team
+A interrupted the attacked pair's server after the intrusion,cue-visible,2,,0.039384615384615386,,64.0,1625,team
+A interrupted the attacked pair's server after the intrusion,cue-visible,3,,0.0,,0.0,1625,team
+A interrupted the attacked pair's server after the intrusion,cue-visible,4,,0.0,,0.0,1625,team
+A interrupted the attacked pair's server after the intrusion,cue-visible,,,0.0078769231,,,5,mean
+A interrupted the attacked pair's server after the intrusion,cue-hidden-failures-suppressed,0,,0.0,,0.0,1625,team
+A interrupted the attacked pair's server after the intrusion,cue-hidden-failures-suppressed,1,,0.0,,0.0,1625,team
+A interrupted the attacked pair's server after the intrusion,cue-hidden-failures-suppressed,2,,0.0,,0.0,1625,team
+A interrupted the attacked pair's server after the intrusion,cue-hidden-failures-suppressed,3,,0.0,,0.0,1625,team
+A interrupted the attacked pair's server after the intrusion,cue-hidden-failures-suppressed,4,,0.0,,0.0,1625,team
+A interrupted the attacked pair's server after the intrusion,cue-hidden-failures-suppressed,,,0.0,,,5,mean
+A interrupted the attacked pair's server after the intrusion,always wait,,,0.0,,,,baseline
+A interrupted the attacked pair's server after the intrusion,inspect-first teacher,,,0.8381538461538461,,,,baseline
+A interrupted the attacked pair's server after the intrusion,restore-on-warning teacher,,,0.803076923076923,,,,baseline
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth infected",cue-visible,0,,0.0,,0.0,1273,team
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth infected",cue-visible,1,,0.0,,0.0,1183,team
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth infected",cue-visible,2,,0.04929577464788732,,63.0,1278,team
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth infected",cue-visible,3,,0.0,,0.0,1312,team
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth infected",cue-visible,4,,0.0,,0.0,1261,team
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth infected",cue-visible,,,0.0098591549,,,5,mean
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth infected",cue-hidden-failures-suppressed,0,,0.0,,0.0,1299,team
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth infected",cue-hidden-failures-suppressed,1,,0.0,,0.0,1281,team
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth infected",cue-hidden-failures-suppressed,2,,0.0,,0.0,1282,team
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth infected",cue-hidden-failures-suppressed,3,,0.0,,0.0,1272,team
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth infected",cue-hidden-failures-suppressed,4,,0.0,,0.0,1293,team
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth infected",cue-hidden-failures-suppressed,,,0.0,,,5,mean
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth infected",always wait,,,0.0,,,,baseline
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth infected",inspect-first teacher,,,1.0,,,,baseline
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth infected",restore-on-warning teacher,,,1.0,,,,baseline
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth clean",cue-visible,0,,0.0,,0.0,865,team
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth clean",cue-visible,1,,0.0,,0.0,872,team
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth clean",cue-visible,2,,0.0,,0.0,853,team
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth clean",cue-visible,3,,0.0,,0.0,865,team
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth clean",cue-visible,4,,0.0,,0.0,865,team
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth clean",cue-visible,,,0.0,,,5,mean
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth clean",cue-hidden-failures-suppressed,0,,0.0,,0.0,845,team
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth clean",cue-hidden-failures-suppressed,1,,0.0,,0.0,854,team
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth clean",cue-hidden-failures-suppressed,2,,0.0,,0.0,845,team
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth clean",cue-hidden-failures-suppressed,3,,0.0,,0.0,846,team
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth clean",cue-hidden-failures-suppressed,4,,0.0,,0.0,852,team
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth clean",cue-hidden-failures-suppressed,,,0.0,,,5,mean
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth clean",always wait,,,0.0,,,,baseline
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth clean",inspect-first teacher,,,0.0,,,,baseline
+"A interrupted a server after a warning or an infected finding about it, while the server was in truth clean",restore-on-warning teacher,,,0.9965317919075144,,,,baseline
+"when A first interrupted the attacked pair's server while B's server of the pair was running and connected, B had no warning and no infected finding of its own visible about that server",cue-visible,0,,,,0.0,0,undefined
+"when A first interrupted the attacked pair's server while B's server of the pair was running and connected, B had no warning and no infected finding of its own visible about that server",cue-visible,1,,,,0.0,0,undefined
+"when A first interrupted the attacked pair's server while B's server of the pair was running and connected, B had no warning and no infected finding of its own visible about that server",cue-visible,2,,0.5957446808510638,,28.0,47,team
+"when A first interrupted the attacked pair's server while B's server of the pair was running and connected, B had no warning and no infected finding of its own visible about that server",cue-visible,3,,,,0.0,0,undefined
+"when A first interrupted the attacked pair's server while B's server of the pair was running and connected, B had no warning and no infected finding of its own visible about that server",cue-visible,4,,,,0.0,0,undefined
+"when A first interrupted the attacked pair's server while B's server of the pair was running and connected, B had no warning and no infected finding of its own visible about that server",cue-visible,,,0.5957446809,,,1,mean
+"when A first interrupted the attacked pair's server while B's server of the pair was running and connected, B had no warning and no infected finding of its own visible about that server",cue-hidden-failures-suppressed,0,,,,0.0,0,undefined
+"when A first interrupted the attacked pair's server while B's server of the pair was running and connected, B had no warning and no infected finding of its own visible about that server",cue-hidden-failures-suppressed,1,,,,0.0,0,undefined
+"when A first interrupted the attacked pair's server while B's server of the pair was running and connected, B had no warning and no infected finding of its own visible about that server",cue-hidden-failures-suppressed,2,,,,0.0,0,undefined
+"when A first interrupted the attacked pair's server while B's server of the pair was running and connected, B had no warning and no infected finding of its own visible about that server",cue-hidden-failures-suppressed,3,,,,0.0,0,undefined
+"when A first interrupted the attacked pair's server while B's server of the pair was running and connected, B had no warning and no infected finding of its own visible about that server",cue-hidden-failures-suppressed,4,,,,0.0,0,undefined
+"when A first interrupted the attacked pair's server while B's server of the pair was running and connected, B had no warning and no infected finding of its own visible about that server",inspect-first teacher,,,0.5958395245170877,,,,baseline
+"when A first interrupted the attacked pair's server while B's server of the pair was running and connected, B had no warning and no infected finding of its own visible about that server",restore-on-warning teacher,,,0.9858490566037735,,,,baseline
+B responded to A's interruption,cue-visible,0,,,,0.0,0,undefined
+B responded to A's interruption,cue-visible,1,,,,0.0,0,undefined
+B responded to A's interruption,cue-visible,2,,0.3829787234042553,,18.0,47,team
+B responded to A's interruption,cue-visible,3,,,,0.0,0,undefined
+B responded to A's interruption,cue-visible,4,,,,0.0,0,undefined
+B responded to A's interruption,cue-visible,,,0.3829787234,,,1,mean
+B responded to A's interruption,cue-hidden-failures-suppressed,0,,,,0.0,0,undefined
+B responded to A's interruption,cue-hidden-failures-suppressed,1,,,,0.0,0,undefined
+B responded to A's interruption,cue-hidden-failures-suppressed,2,,,,0.0,0,undefined
+B responded to A's interruption,cue-hidden-failures-suppressed,3,,,,0.0,0,undefined
+B responded to A's interruption,cue-hidden-failures-suppressed,4,,,,0.0,0,undefined
+B responded to A's interruption,inspect-first teacher,,,0.40416047548291234,,,,baseline
+B responded to A's interruption,restore-on-warning teacher,,,0.017024426350851222,,,,baseline

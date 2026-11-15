@@ -1,0 +1,25 @@
+panel,series,seed,x,value,sd,numerator,count,mark
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,0,,11.67425,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,1,,6.0925,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,2,,20.888,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,3,,20.21225,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,4,,12.62275,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,,,14.29795,,,5,mean
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,0,,11.436,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,1,,7.29525,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,2,,7.91575,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,3,,27.33225,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,4,,7.06475,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,,,12.2088,,,5,mean
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,0,,-7.284307692307692,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,1,,-5.478153846153846,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,2,,-11.278153846153845,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,3,,-11.787692307692307,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,4,,-10.410461538461538,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,,,-9.2477538462,,,5,mean
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,0,,-7.065230769230769,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,1,,-5.034461538461539,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,2,,-5.011076923076923,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,3,,-18.87076923076923,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,4,,-4.907076923076923,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,,,-8.1777230769,,,5,mean

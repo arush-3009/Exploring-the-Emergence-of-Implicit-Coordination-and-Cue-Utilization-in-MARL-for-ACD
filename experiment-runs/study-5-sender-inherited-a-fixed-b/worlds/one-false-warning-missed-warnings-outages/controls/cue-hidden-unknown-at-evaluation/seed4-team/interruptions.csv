@@ -1,0 +1,9 @@
+episode,evaluation_seed,iteration,interval,target,action,target_compromised_at_start,a_warning,a_finding,paired_b_server,paired_b_compromised_at_start,paired_b_patched_at_start,paired_b_running_at_requests,paired_b_isolated_at_requests,observable,b_shown_failure,relevant,window_last_boundary,b_choice_boundary,paired_b_available_at_choice,b_choice_action,b_choice_target,b_choice_result,delay,paired_b_warning_after,paired_b_finding_after,paired_b_warning_at_choice,paired_b_finding_at_choice,b_responds_eligible,b_responds
+358,2001,,28,A2,restore,0,0,clean,B2,0,0,1,0,1,0,0,,,,,,,,,,,,,
+482,2001,,33,A2,restore,0,0,clean,B2,0,0,1,0,1,0,0,,,,,,,,,,,,,
+561,2001,,33,A2,restore,0,0,clean,B2,0,0,1,0,1,0,0,,,,,,,,,,,,,
+697,2001,,29,A2,restore,0,0,clean,B2,0,0,1,0,1,0,0,,,,,,,,,,,,,
+28,2002,,35,A2,restore,0,0,clean,B2,0,0,1,0,1,0,0,,,,,,,,,,,,,
+56,2002,,28,A2,restore,0,0,clean,B2,0,0,1,0,1,0,0,,,,,,,,,,,,,
+226,2002,,31,A2,restore,0,0,clean,B2,0,0,1,0,1,0,0,,,,,,,,,,,,,
+277,2002,,29,A2,restore,0,0,clean,B2,0,0,1,0,1,0,0,,,,,,,,,,,,,

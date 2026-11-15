@@ -1,0 +1,205 @@
+panel,series,seed,x,value,sd,numerator,count,mark
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,0,reliable-warnings,0.8203076923076923,,1333.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,1,reliable-warnings,0.8313846153846154,,1351.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,2,reliable-warnings,0.8313846153846154,,1351.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,3,reliable-warnings,0.3169230769230769,,515.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,4,reliable-warnings,0.4867692307692308,,791.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,,reliable-warnings,0.6573538462,,,5,mean
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,0,reliable-warnings,0.0,,0.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,1,reliable-warnings,0.0,,0.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,2,reliable-warnings,0.0,,0.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,3,reliable-warnings,0.0,,0.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,4,reliable-warnings,0.0,,0.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,,reliable-warnings,0.0,,,5,mean
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,0,one-false-warning,0.7458461538461538,,1212.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,1,one-false-warning,0.5809230769230769,,944.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,2,one-false-warning,0.5704615384615385,,927.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,3,one-false-warning,0.5796923076923077,,942.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,4,one-false-warning,0.7415384615384616,,1205.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,,one-false-warning,0.6436923077,,,5,mean
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,0,one-false-warning,0.008615384615384615,,14.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,1,one-false-warning,0.018461538461538463,,30.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,2,one-false-warning,0.0,,0.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,3,one-false-warning,0.038153846153846156,,62.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,4,one-false-warning,0.010461538461538461,,17.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,,one-false-warning,0.0151384615,,,5,mean
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,0,two-false-warnings,0.45784615384615385,,744.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,1,two-false-warnings,0.5052307692307693,,821.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,2,two-false-warnings,0.4473846153846154,,727.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,3,two-false-warnings,0.5236923076923077,,851.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,4,two-false-warnings,0.44061538461538463,,716.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,,two-false-warnings,0.4749538462,,,5,mean
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,0,two-false-warnings,0.015384615384615385,,25.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,1,two-false-warnings,0.020923076923076923,,34.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,2,two-false-warnings,0.040615384615384616,,66.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,3,two-false-warnings,0.025846153846153845,,42.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,4,two-false-warnings,0.08738461538461538,,142.0,1625,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,,two-false-warnings,0.0380307692,,,5,mean
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,0,one-false-warning-missed-warnings,0.6249033255993813,,808.0,1293,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,1,one-false-warning-missed-warnings,0.48646558391337974,,629.0,1293,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,2,one-false-warning-missed-warnings,0.4385150812064965,,567.0,1293,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,3,one-false-warning-missed-warnings,0.42614075792730083,,551.0,1293,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,4,one-false-warning-missed-warnings,0.42072699149265275,,544.0,1293,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,,one-false-warning-missed-warnings,0.479350348,,,5,mean
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,0,one-false-warning-missed-warnings,0.01082753286929621,,14.0,1293,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,1,one-false-warning-missed-warnings,0.0069605568445475635,,9.0,1293,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,2,one-false-warning-missed-warnings,0.14926527455529776,,193.0,1293,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,3,one-false-warning-missed-warnings,0.002320185614849188,,3.0,1293,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,4,one-false-warning-missed-warnings,0.02474864655839134,,32.0,1293,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,,one-false-warning-missed-warnings,0.0388244393,,,5,mean
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,0,one-false-warning-missed-warnings-outages,0.46635730858468677,,603.0,1293,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,1,one-false-warning-missed-warnings-outages,0.3866976024748647,,500.0,1293,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,2,one-false-warning-missed-warnings-outages,0.45552977571539055,,589.0,1293,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,3,one-false-warning-missed-warnings-outages,0.242846094354215,,314.0,1293,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,4,one-false-warning-missed-warnings-outages,0.4671307037896365,,604.0,1293,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-visible,,one-false-warning-missed-warnings-outages,0.403712297,,,5,mean
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,0,one-false-warning-missed-warnings-outages,0.18097447795823665,,234.0,1293,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,1,one-false-warning-missed-warnings-outages,0.02474864655839134,,32.0,1293,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,2,one-false-warning-missed-warnings-outages,0.01237432327919567,,16.0,1293,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,3,one-false-warning-missed-warnings-outages,0.0038669760247486465,,5.0,1293,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,4,one-false-warning-missed-warnings-outages,0.0,,0.0,1293,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server monitored",cue-hidden-unknown,,one-false-warning-missed-warnings-outages,0.0443928848,,,5,mean
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,0,reliable-warnings,1.0,,1333.0,1333,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,1,reliable-warnings,1.0,,1351.0,1351,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,2,reliable-warnings,1.0,,1351.0,1351,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,3,reliable-warnings,0.4454803404945278,,1099.0,2467,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,4,reliable-warnings,0.4986964618249534,,1339.0,2685,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,,reliable-warnings,0.7888353605,,,5,mean
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,0,one-false-warning,1.0,,2183.0,2183,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,1,one-false-warning,0.9994916115912558,,1966.0,1967,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,2,one-false-warning,1.0,,1766.0,1766,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,3,one-false-warning,0.8842398884239888,,1902.0,2151,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,4,one-false-warning,0.9995173745173745,,2071.0,2072,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,,one-false-warning,0.9766497749,,,5,mean
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,0,two-false-warnings,1.0,,1650.0,1650,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,1,two-false-warnings,0.9957163255592575,,2092.0,2101,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,2,two-false-warnings,1.0,,1605.0,1605,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,3,two-false-warnings,0.8763269639065817,,1651.0,1884,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,4,two-false-warnings,0.9359534206695779,,1929.0,2061,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,,two-false-warnings,0.961599342,,,5,mean
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,0,one-false-warning-missed-warnings,0.9823284823284824,,1890.0,1924,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,1,one-false-warning-missed-warnings,0.9857512953367875,,2283.0,2316,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,2,one-false-warning-missed-warnings,0.9905003166561115,,1564.0,1579,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,3,one-false-warning-missed-warnings,0.9971469329529244,,1398.0,1402,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,4,one-false-warning-missed-warnings,0.9986824769433466,,1516.0,1518,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,,one-false-warning-missed-warnings,0.9908819008,,,5,mean
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,0,one-false-warning-missed-warnings-outages,0.9648562300319489,,3926.0,4069,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,1,one-false-warning-missed-warnings-outages,0.5683848797250859,,3308.0,5820,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,2,one-false-warning-missed-warnings-outages,0.8964051024352532,,2319.0,2587,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,3,one-false-warning-missed-warnings-outages,0.4909510974201001,,2550.0,5194,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,4,one-false-warning-missed-warnings-outages,0.716819973718791,,3273.0,4566,team
+"B inspected, isolated or restored a running, connected server right after its request to the partner failed",cue-visible,,one-false-warning-missed-warnings-outages,0.7274834567,,,5,mean
+B's restores of clean servers per episode,cue-visible,0,reliable-warnings,0.0,,,,team
+B's restores of clean servers per episode,cue-visible,1,reliable-warnings,0.0,,,,team
+B's restores of clean servers per episode,cue-visible,2,reliable-warnings,0.0,,,,team
+B's restores of clean servers per episode,cue-visible,3,reliable-warnings,0.0,,,,team
+B's restores of clean servers per episode,cue-visible,4,reliable-warnings,0.0,,,,team
+B's restores of clean servers per episode,cue-visible,,reliable-warnings,0.0,,,5,mean
+B's restores of clean servers per episode,cue-hidden-unknown,0,reliable-warnings,0.0,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,1,reliable-warnings,0.0,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,2,reliable-warnings,0.0,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,3,reliable-warnings,0.0,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,4,reliable-warnings,0.0,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,,reliable-warnings,0.0,,,5,mean
+B's restores of clean servers per episode,cue-visible,0,one-false-warning,0.3145,,,,team
+B's restores of clean servers per episode,cue-visible,1,one-false-warning,0.0225,,,,team
+B's restores of clean servers per episode,cue-visible,2,one-false-warning,0.0945,,,,team
+B's restores of clean servers per episode,cue-visible,3,one-false-warning,0.1655,,,,team
+B's restores of clean servers per episode,cue-visible,4,one-false-warning,0.261,,,,team
+B's restores of clean servers per episode,cue-visible,,one-false-warning,0.1716,,,5,mean
+B's restores of clean servers per episode,cue-hidden-unknown,0,one-false-warning,0.0,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,1,one-false-warning,0.0,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,2,one-false-warning,0.0005,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,3,one-false-warning,0.1605,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,4,one-false-warning,0.0,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,,one-false-warning,0.0322,,,5,mean
+B's restores of clean servers per episode,cue-visible,0,two-false-warnings,0.0175,,,,team
+B's restores of clean servers per episode,cue-visible,1,two-false-warnings,0.1025,,,,team
+B's restores of clean servers per episode,cue-visible,2,two-false-warnings,0.013,,,,team
+B's restores of clean servers per episode,cue-visible,3,two-false-warnings,0.079,,,,team
+B's restores of clean servers per episode,cue-visible,4,two-false-warnings,0.0325,,,,team
+B's restores of clean servers per episode,cue-visible,,two-false-warnings,0.0489,,,5,mean
+B's restores of clean servers per episode,cue-hidden-unknown,0,two-false-warnings,0.0185,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,1,two-false-warnings,0.0,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,2,two-false-warnings,0.0135,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,3,two-false-warnings,0.0,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,4,two-false-warnings,0.0075,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,,two-false-warnings,0.0079,,,5,mean
+B's restores of clean servers per episode,cue-visible,0,one-false-warning-missed-warnings,0.309,,,,team
+B's restores of clean servers per episode,cue-visible,1,one-false-warning-missed-warnings,0.07,,,,team
+B's restores of clean servers per episode,cue-visible,2,one-false-warning-missed-warnings,0.1305,,,,team
+B's restores of clean servers per episode,cue-visible,3,one-false-warning-missed-warnings,0.008,,,,team
+B's restores of clean servers per episode,cue-visible,4,one-false-warning-missed-warnings,0.0445,,,,team
+B's restores of clean servers per episode,cue-visible,,one-false-warning-missed-warnings,0.1124,,,5,mean
+B's restores of clean servers per episode,cue-hidden-unknown,0,one-false-warning-missed-warnings,0.0,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,1,one-false-warning-missed-warnings,0.145,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,2,one-false-warning-missed-warnings,0.0,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,3,one-false-warning-missed-warnings,0.0,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,4,one-false-warning-missed-warnings,0.143,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,,one-false-warning-missed-warnings,0.0576,,,5,mean
+B's restores of clean servers per episode,cue-visible,0,one-false-warning-missed-warnings-outages,0.0,,,,team
+B's restores of clean servers per episode,cue-visible,1,one-false-warning-missed-warnings-outages,0.018,,,,team
+B's restores of clean servers per episode,cue-visible,2,one-false-warning-missed-warnings-outages,0.324,,,,team
+B's restores of clean servers per episode,cue-visible,3,one-false-warning-missed-warnings-outages,0.0255,,,,team
+B's restores of clean servers per episode,cue-visible,4,one-false-warning-missed-warnings-outages,0.0025,,,,team
+B's restores of clean servers per episode,cue-visible,,one-false-warning-missed-warnings-outages,0.074,,,5,mean
+B's restores of clean servers per episode,cue-hidden-unknown,0,one-false-warning-missed-warnings-outages,0.0,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,1,one-false-warning-missed-warnings-outages,0.0,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,2,one-false-warning-missed-warnings-outages,0.143,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,3,one-false-warning-missed-warnings-outages,0.0,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,4,one-false-warning-missed-warnings-outages,0.158,,,,team
+B's restores of clean servers per episode,cue-hidden-unknown,,one-false-warning-missed-warnings-outages,0.0602,,,5,mean
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,0,reliable-warnings,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,1,reliable-warnings,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,2,reliable-warnings,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,3,reliable-warnings,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,4,reliable-warnings,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,0,reliable-warnings,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,1,reliable-warnings,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,2,reliable-warnings,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,3,reliable-warnings,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,4,reliable-warnings,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,0,one-false-warning,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,1,one-false-warning,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,2,one-false-warning,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,3,one-false-warning,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,4,one-false-warning,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,0,one-false-warning,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,1,one-false-warning,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,2,one-false-warning,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,3,one-false-warning,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,4,one-false-warning,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,0,two-false-warnings,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,1,two-false-warnings,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,2,two-false-warnings,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,3,two-false-warnings,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,4,two-false-warnings,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,0,two-false-warnings,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,1,two-false-warnings,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,2,two-false-warnings,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,3,two-false-warnings,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,4,two-false-warnings,,,0.0,0,undefined
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,0,one-false-warning-missed-warnings,0.8403614457831325,,279.0,332,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,1,one-false-warning-missed-warnings,0.786144578313253,,261.0,332,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,2,one-false-warning-missed-warnings,0.8373493975903614,,278.0,332,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,3,one-false-warning-missed-warnings,0.8132530120481928,,270.0,332,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,4,one-false-warning-missed-warnings,0.8283132530120482,,275.0,332,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,,one-false-warning-missed-warnings,0.8210843373,,,5,mean
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,0,one-false-warning-missed-warnings,0.012048192771084338,,4.0,332,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,1,one-false-warning-missed-warnings,0.0030120481927710845,,1.0,332,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,2,one-false-warning-missed-warnings,0.15060240963855423,,50.0,332,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,3,one-false-warning-missed-warnings,0.0,,0.0,332,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,4,one-false-warning-missed-warnings,0.06927710843373494,,23.0,332,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,,one-false-warning-missed-warnings,0.0469879518,,,5,mean
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,0,one-false-warning-missed-warnings-outages,0.8102409638554217,,269.0,332,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,1,one-false-warning-missed-warnings-outages,0.6234939759036144,,207.0,332,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,2,one-false-warning-missed-warnings-outages,0.7078313253012049,,235.0,332,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,3,one-false-warning-missed-warnings-outages,0.4578313253012048,,152.0,332,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,4,one-false-warning-missed-warnings-outages,0.786144578313253,,261.0,332,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-visible,,one-false-warning-missed-warnings-outages,0.6771084337,,,5,mean
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,0,one-false-warning-missed-warnings-outages,0.18373493975903615,,61.0,332,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,1,one-false-warning-missed-warnings-outages,0.10843373493975904,,36.0,332,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,2,one-false-warning-missed-warnings-outages,0.006024096385542169,,2.0,332,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,3,one-false-warning-missed-warnings-outages,0.03614457831325301,,12.0,332,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,4,one-false-warning-missed-warnings-outages,0.0,,0.0,332,team
+"B's first action on the attacked pair's server came with no warning and no infected finding of its own visible, server's monitoring missed",cue-hidden-unknown,,one-false-warning-missed-warnings-outages,0.0668674699,,,5,mean

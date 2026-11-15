@@ -1,0 +1,9 @@
+episode,evaluation_seed,iteration,interval,target,action,target_compromised_at_start,a_warning,a_finding,paired_b_server,paired_b_compromised_at_start,paired_b_patched_at_start,paired_b_running_at_requests,paired_b_isolated_at_requests,observable,b_shown_failure,relevant,window_last_boundary,b_choice_boundary,paired_b_available_at_choice,b_choice_action,b_choice_target,b_choice_result,delay,paired_b_warning_after,paired_b_finding_after,paired_b_warning_at_choice,paired_b_finding_at_choice,b_responds_eligible,b_responds
+296,2001,,2,A1,restore,1,0,infected,B1,0,0,1,0,1,0,1,6,3,1,reconnect,B1,already_satisfied,0,0,unknown,0,unknown,1,0
+397,2001,,2,A1,restore,1,0,infected,B1,0,0,1,0,1,0,1,6,3,1,reconnect,B1,already_satisfied,0,0,unknown,0,unknown,1,0
+116,2002,,2,A1,restore,1,0,infected,B1,0,0,1,0,1,0,1,6,3,1,reconnect,B1,already_satisfied,0,0,unknown,0,unknown,1,0
+259,2002,,2,A1,restore,1,0,infected,B1,0,0,1,0,1,0,1,6,3,1,reconnect,B1,already_satisfied,0,0,unknown,0,unknown,1,0
+427,2002,,2,A1,restore,1,0,infected,B1,0,0,1,0,1,0,1,6,3,1,reconnect,B1,already_satisfied,0,0,unknown,0,unknown,1,0
+531,2002,,2,A1,restore,1,0,infected,B1,0,0,1,0,1,0,1,6,3,1,reconnect,B1,already_satisfied,0,0,unknown,0,unknown,1,0
+813,2002,,2,A1,restore,1,0,infected,B1,0,0,1,0,1,0,1,6,3,1,reconnect,B1,already_satisfied,0,0,unknown,0,unknown,1,0
+893,2002,,2,A1,restore,1,0,infected,B1,0,0,1,0,1,0,1,6,3,1,reconnect,B1,already_satisfied,0,0,unknown,0,unknown,1,0

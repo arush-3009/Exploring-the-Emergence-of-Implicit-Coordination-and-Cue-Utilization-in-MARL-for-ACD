@@ -1,0 +1,121 @@
+panel,series,seed,x,value,sd,numerator,count,mark
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,0,reliable-warnings,6.53475,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,1,reliable-warnings,10.44075,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,2,reliable-warnings,7.184,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,3,reliable-warnings,3.9315,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,4,reliable-warnings,4.14,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,,reliable-warnings,6.4462,,,5,mean
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,0,reliable-warnings,8.1275,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,1,reliable-warnings,10.44075,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,2,reliable-warnings,17.23,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,3,reliable-warnings,3.09,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,4,reliable-warnings,14.5,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,,reliable-warnings,10.67765,,,5,mean
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,0,one-false-warning,33.10225,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,1,one-false-warning,7.49675,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,2,one-false-warning,37.18775,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,3,one-false-warning,23.03225,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,4,one-false-warning,11.9435,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,,one-false-warning,22.5525,,,5,mean
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,0,one-false-warning,37.43875,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,1,one-false-warning,6.77525,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,2,one-false-warning,37.33075,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,3,one-false-warning,24.91125,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,4,one-false-warning,18.48875,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,,one-false-warning,24.98895,,,5,mean
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,0,two-false-warnings,35.214,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,1,two-false-warnings,22.76775,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,2,two-false-warnings,35.86175,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,3,two-false-warnings,34.01575,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,4,two-false-warnings,25.6255,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,,two-false-warnings,30.69695,,,5,mean
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,0,two-false-warnings,36.69025,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,1,two-false-warnings,15.1365,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,2,two-false-warnings,22.857,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,3,two-false-warnings,34.01575,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,4,two-false-warnings,17.679,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,,two-false-warnings,25.2757,,,5,mean
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,0,one-false-warning-missed-warnings,11.67425,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,1,one-false-warning-missed-warnings,6.0925,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,2,one-false-warning-missed-warnings,20.888,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,3,one-false-warning-missed-warnings,20.21225,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,4,one-false-warning-missed-warnings,12.62275,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,,one-false-warning-missed-warnings,14.29795,,,5,mean
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,0,one-false-warning-missed-warnings,11.436,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,1,one-false-warning-missed-warnings,7.29525,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,2,one-false-warning-missed-warnings,7.91575,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,3,one-false-warning-missed-warnings,27.33225,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,4,one-false-warning-missed-warnings,7.06475,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,,one-false-warning-missed-warnings,12.2088,,,5,mean
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,0,one-false-warning-missed-warnings-outages,6.1105,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,1,one-false-warning-missed-warnings-outages,8.265,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,2,one-false-warning-missed-warnings-outages,6.79725,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,3,one-false-warning-missed-warnings-outages,4.812,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,4,one-false-warning-missed-warnings-outages,8.006,,,,team
+"normal minus control, team reward per episode",cue-hidden-unknown-at-evaluation,,one-false-warning-missed-warnings-outages,6.79815,,,5,mean
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,0,one-false-warning-missed-warnings-outages,5.72925,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,1,one-false-warning-missed-warnings-outages,5.8155,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,2,one-false-warning-missed-warnings-outages,6.00775,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,3,one-false-warning-missed-warnings-outages,6.17775,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,4,one-false-warning-missed-warnings-outages,6.7415,,,,team
+"normal minus control, team reward per episode",cue-hidden-failures-suppressed-at-evaluation,,one-false-warning-missed-warnings-outages,6.09435,,,5,mean
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,0,reliable-warnings,-3.086153846153846,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,1,reliable-warnings,-3.764307692307692,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,2,reliable-warnings,-2.5667692307692307,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,3,reliable-warnings,-0.9507692307692308,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,4,reliable-warnings,-1.4258461538461538,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,,reliable-warnings,-2.3587692308,,,5,mean
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,0,reliable-warnings,-3.086153846153846,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,1,reliable-warnings,-3.764307692307692,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,2,reliable-warnings,-10.395692307692308,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,3,reliable-warnings,-0.9507692307692308,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,4,reliable-warnings,-9.390153846153845,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,,reliable-warnings,-5.5174153846,,,5,mean
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,0,one-false-warning,-23.342153846153845,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,1,one-false-warning,-2.488,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,2,one-false-warning,-26.123076923076923,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,3,one-false-warning,-15.811076923076923,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,4,one-false-warning,-6.08,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,,one-false-warning,-14.7688615385,,,5,mean
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,0,one-false-warning,-27.078153846153846,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,1,one-false-warning,-2.9747692307692306,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,2,one-false-warning,-26.278153846153845,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,3,one-false-warning,-17.214153846153845,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,4,one-false-warning,-11.23876923076923,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,,one-false-warning,-16.9568,,,5,mean
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,0,two-false-warnings,-24.105846153846155,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,1,two-false-warnings,-16.265846153846155,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,2,two-false-warnings,-25.404923076923076,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,3,two-false-warnings,-24.024,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,4,two-false-warnings,-18.06523076923077,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,,two-false-warnings,-21.5731692308,,,5,mean
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,0,two-false-warnings,-25.69723076923077,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,1,two-false-warnings,-10.71323076923077,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,2,two-false-warnings,-14.743384615384615,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,3,two-false-warnings,-24.024,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,4,two-false-warnings,-11.956307692307693,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,,two-false-warnings,-17.4268307692,,,5,mean
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,0,one-false-warning-missed-warnings,-7.284307692307692,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,1,one-false-warning-missed-warnings,-5.478153846153846,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,2,one-false-warning-missed-warnings,-11.278153846153845,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,3,one-false-warning-missed-warnings,-11.787692307692307,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,4,one-false-warning-missed-warnings,-10.410461538461538,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,,one-false-warning-missed-warnings,-9.2477538462,,,5,mean
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,0,one-false-warning-missed-warnings,-7.065230769230769,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,1,one-false-warning-missed-warnings,-5.034461538461539,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,2,one-false-warning-missed-warnings,-5.011076923076923,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,3,one-false-warning-missed-warnings,-18.87076923076923,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,4,one-false-warning-missed-warnings,-4.907076923076923,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,,one-false-warning-missed-warnings,-8.1777230769,,,5,mean
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,0,one-false-warning-missed-warnings-outages,-5.343384615384616,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,1,one-false-warning-missed-warnings-outages,-1.6227692307692307,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,2,one-false-warning-missed-warnings-outages,-6.342153846153846,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,3,one-false-warning-missed-warnings-outages,-2.7433846153846155,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,4,one-false-warning-missed-warnings-outages,-5.409230769230769,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-unknown-at-evaluation,,one-false-warning-missed-warnings-outages,-4.2921846154,,,5,mean
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,0,one-false-warning-missed-warnings-outages,-4.405538461538462,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,1,one-false-warning-missed-warnings-outages,-4.001230769230769,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,2,one-false-warning-missed-warnings-outages,-4.713846153846154,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,3,one-false-warning-missed-warnings-outages,-3.784,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,4,one-false-warning-missed-warnings-outages,-4.596307692307692,,,,team
+"normal minus control, B's infected server-intervals per intrusion episode",cue-hidden-failures-suppressed-at-evaluation,,one-false-warning-missed-warnings-outages,-4.3001846154,,,5,mean

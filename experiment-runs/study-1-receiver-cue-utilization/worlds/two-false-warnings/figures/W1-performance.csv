@@ -1,0 +1,51 @@
+panel,series,seed,x,value,sd,numerator,count,mark
+team reward per episode,cue-visible,0,,-42.2355,,,,team
+team reward per episode,cue-visible,1,,-47.52425,,,,team
+team reward per episode,cue-visible,2,,-44.74975,,,,team
+team reward per episode,cue-visible,3,,-51.033,,,,team
+team reward per episode,cue-visible,4,,-44.193,,,,team
+team reward per episode,cue-visible,,,-45.9471,,,5,mean
+team reward per episode,cue-hidden-unknown,0,,-51.1785,,,,team
+team reward per episode,cue-hidden-unknown,1,,-53.56,,,,team
+team reward per episode,cue-hidden-unknown,2,,-51.23875,,,,team
+team reward per episode,cue-hidden-unknown,3,,-50.92875,,,,team
+team reward per episode,cue-hidden-unknown,4,,-55.4565,,,,team
+team reward per episode,cue-hidden-unknown,,,-52.4725,,,5,mean
+team reward per episode,always wait,,,-112.539,,,,baseline
+team reward per episode,inspect-first teacher,,,-49.90075,,,,baseline
+team reward per episode,restore-on-warning teacher,,,-61.221,,,,baseline
+team reward per episode,uniform random,,,-475.54225,,,,baseline
+"the same rewards, zoomed to the teams and the two teachers",lower limit,,,-69.887135,,,,zoom
+"the same rewards, zoomed to the teams and the two teachers",upper limit,,,-33.569365000000005,,,,zoom
+B's infected server-intervals per intrusion episode,cue-visible,0,,8.56553846153846,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,1,,8.692307692307692,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,2,,8.949538461538461,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,3,,7.921846153846154,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,4,,9.038769230769232,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,,,8.6336,,,5,mean
+B's infected server-intervals per intrusion episode,cue-hidden-unknown,0,,10.987076923076923,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-unknown,1,,10.88923076923077,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-unknown,2,,10.881230769230768,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-unknown,3,,10.98276923076923,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-unknown,4,,10.649846153846154,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-unknown,,,10.8780307692,,,5,mean
+B's infected server-intervals per intrusion episode,always wait,,,34.64492307692308,,,,baseline
+B's infected server-intervals per intrusion episode,inspect-first teacher,,,11.280615384615384,,,,baseline
+B's infected server-intervals per intrusion episode,restore-on-warning teacher,,,8.784615384615385,,,,baseline
+B's infected server-intervals per intrusion episode,uniform random,,,10.654769230769231,,,,baseline
+intrusion episodes ending with an infected B server,cue-visible,0,,0.0012307692307692308,,,,team
+intrusion episodes ending with an infected B server,cue-visible,1,,0.003076923076923077,,,,team
+intrusion episodes ending with an infected B server,cue-visible,2,,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-visible,3,,0.0043076923076923075,,,,team
+intrusion episodes ending with an infected B server,cue-visible,4,,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-visible,,,0.0017230769,,,5,mean
+intrusion episodes ending with an infected B server,cue-hidden-unknown,0,,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-unknown,1,,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-unknown,2,,0.0012307692307692308,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-unknown,3,,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-unknown,4,,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-unknown,,,0.0002461538,,,5,mean
+intrusion episodes ending with an infected B server,always wait,,,1.0,,,,baseline
+intrusion episodes ending with an infected B server,inspect-first teacher,,,0.0,,,,baseline
+intrusion episodes ending with an infected B server,restore-on-warning teacher,,,0.0,,,,baseline
+intrusion episodes ending with an infected B server,uniform random,,,0.14276923076923076,,,,baseline

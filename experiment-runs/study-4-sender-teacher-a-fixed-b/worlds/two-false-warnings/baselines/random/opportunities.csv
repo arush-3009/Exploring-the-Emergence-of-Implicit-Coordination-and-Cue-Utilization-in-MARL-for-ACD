@@ -1,0 +1,1495 @@
+episode,evaluation_seed,iteration,server,boundary,status,a_warning,a_finding,close_interval,close_event,first_interruption_interval,score
+0,2001,,A2,10,infected,1,unknown,14,restore,11,1
+1,2001,,A3,14,clean,1,unknown,,episode end,15,1
+5,2001,,A1,44,clean,1,clean,,episode end,49,1
+5,2001,,A2,48,infected,0,infected,,episode end,48,1
+7,2001,,A1,26,infected,1,unknown,,episode end,32,1
+7,2001,,A3,2,clean,1,unknown,,episode end,12,1
+8,2001,,A3,7,clean,1,unknown,,episode end,9,1
+9,2001,,A3,11,clean,1,unknown,,episode end,11,1
+10,2001,,A2,38,clean,1,clean,,episode end,38,1
+10,2001,,A3,13,clean,1,clean,,episode end,23,1
+11,2001,,A1,4,clean,1,unknown,,episode end,21,1
+13,2001,,A2,2,clean,1,unknown,,episode end,13,1
+14,2001,,A1,35,infected,1,unknown,38,restore,35,1
+15,2001,,A1,33,clean,1,clean,,episode end,37,1
+17,2001,,A3,6,infected,1,clean,22,restore,14,1
+18,2001,,A3,20,clean,1,clean,,episode end,36,1
+20,2001,,A1,14,clean,1,clean,,episode end,15,1
+21,2001,,A3,10,infected,0,infected,45,restore,35,1
+22,2001,,A1,20,clean,1,unknown,,episode end,21,1
+22,2001,,A3,24,clean,1,unknown,26,intrusion,,0
+24,2001,,A1,4,infected,1,unknown,7,restore,4,1
+25,2001,,A2,46,clean,1,clean,,episode end,46,1
+30,2001,,A2,7,infected,1,unknown,27,restore,8,1
+31,2001,,A2,45,clean,1,unknown,,episode end,,0
+32,2001,,A2,14,clean,1,unknown,,episode end,14,1
+35,2001,,A3,10,clean,1,unknown,,episode end,35,1
+37,2001,,A2,22,infected,1,unknown,39,restore,36,1
+38,2001,,A1,18,infected,1,unknown,,episode end,38,1
+39,2001,,A3,11,clean,1,clean,,episode end,23,1
+40,2001,,A1,5,clean,1,unknown,19,intrusion,12,1
+41,2001,,A1,12,clean,1,unknown,,episode end,14,1
+43,2001,,A1,20,clean,1,clean,,episode end,27,1
+46,2001,,A2,31,clean,1,unknown,,episode end,35,1
+46,2001,,A3,7,infected,1,clean,20,restore,17,1
+47,2001,,A1,4,infected,1,unknown,23,restore,20,1
+48,2001,,A2,29,clean,1,unknown,,episode end,31,1
+49,2001,,A2,9,infected,1,clean,30,restore,9,1
+50,2001,,A1,6,clean,1,unknown,,episode end,12,1
+50,2001,,A3,16,infected,1,clean,27,restore,24,1
+51,2001,,A3,18,clean,1,unknown,,episode end,18,1
+54,2001,,A1,29,clean,1,unknown,,episode end,30,1
+54,2001,,A3,2,clean,1,unknown,16,spread,,0
+57,2001,,A2,14,infected,1,unknown,,episode end,,0
+57,2001,,A3,22,clean,1,clean,,episode end,41,1
+59,2001,,A3,27,clean,1,clean,,episode end,,0
+60,2001,,A1,6,infected,1,unknown,18,restore,15,1
+63,2001,,A2,12,clean,1,unknown,,episode end,28,1
+65,2001,,A3,7,infected,0,infected,34,restore,27,1
+68,2001,,A1,22,clean,1,clean,,episode end,22,1
+68,2001,,A2,9,infected,1,unknown,14,restore,11,1
+72,2001,,A3,12,clean,1,clean,,episode end,26,1
+76,2001,,A3,8,infected,1,unknown,11,restore,8,1
+77,2001,,A2,18,clean,1,unknown,,episode end,41,1
+78,2001,,A2,31,infected,1,clean,,episode end,,0
+79,2001,,A3,11,infected,1,unknown,24,restore,14,1
+81,2001,,A2,4,infected,1,unknown,34,restore,4,1
+82,2001,,A1,7,infected,1,unknown,14,restore,11,1
+83,2001,,A2,36,clean,1,clean,,episode end,36,1
+83,2001,,A3,4,clean,1,clean,,episode end,10,1
+84,2001,,A2,12,clean,1,unknown,,episode end,16,1
+85,2001,,A1,45,clean,1,unknown,,episode end,49,1
+87,2001,,A2,6,infected,1,unknown,10,restore,7,1
+88,2001,,A2,17,infected,1,unknown,20,restore,17,1
+92,2001,,A1,24,infected,1,clean,34,restore,31,1
+93,2001,,A1,26,clean,1,clean,,episode end,,0
+93,2001,,A2,30,infected,1,clean,46,restore,41,1
+94,2001,,A1,15,infected,1,unknown,,episode end,17,1
+95,2001,,A2,13,clean,1,unknown,,episode end,16,1
+95,2001,,A3,6,infected,0,infected,12,restore,9,1
+96,2001,,A2,21,infected,1,infected,31,restore,27,1
+97,2001,,A2,8,infected,1,unknown,15,restore,12,1
+99,2001,,A3,7,clean,1,unknown,,episode end,8,1
+101,2001,,A3,6,infected,1,unknown,12,restore,9,1
+102,2001,,A1,18,infected,1,clean,25,restore,22,1
+102,2001,,A3,7,clean,1,clean,,episode end,,0
+104,2001,,A1,4,clean,1,unknown,,episode end,5,1
+105,2001,,A2,11,infected,1,unknown,15,restore,12,1
+106,2001,,A2,6,infected,1,unknown,9,restore,6,1
+107,2001,,A1,33,clean,1,clean,,episode end,43,1
+107,2001,,A2,10,infected,1,unknown,,episode end,33,1
+111,2001,,A1,21,infected,1,unknown,39,restore,36,1
+111,2001,,A3,14,clean,1,unknown,,episode end,,0
+112,2001,,A3,46,clean,1,unknown,,episode end,47,1
+113,2001,,A3,5,infected,1,unknown,18,restore,15,1
+114,2001,,A1,14,infected,1,unknown,,episode end,26,1
+115,2001,,A3,15,infected,1,clean,,episode end,,0
+116,2001,,A2,37,clean,1,clean,,episode end,,0
+117,2001,,A3,33,infected,1,clean,42,restore,39,1
+119,2001,,A3,3,infected,1,unknown,17,restore,14,1
+120,2001,,A1,45,infected,0,infected,,episode end,49,1
+124,2001,,A1,20,clean,1,unknown,,episode end,20,1
+124,2001,,A3,19,infected,1,infected,,episode end,,0
+125,2001,,A1,30,infected,1,unknown,41,restore,38,1
+125,2001,,A3,12,clean,1,unknown,,episode end,23,1
+126,2001,,A2,21,clean,1,unknown,,episode end,25,1
+132,2001,,A2,35,clean,1,clean,,episode end,,0
+133,2001,,A1,25,clean,1,clean,,episode end,,0
+135,2001,,A3,7,clean,1,unknown,,episode end,15,1
+137,2001,,A1,9,clean,1,unknown,26,intrusion,9,1
+140,2001,,A3,14,infected,1,unknown,19,restore,15,1
+142,2001,,A2,4,infected,1,unknown,9,restore,6,1
+143,2001,,A3,35,clean,1,unknown,,episode end,38,1
+146,2001,,A2,11,clean,1,clean,,episode end,22,1
+147,2001,,A1,20,infected,1,unknown,32,restore,29,1
+147,2001,,A3,4,clean,1,unknown,,episode end,15,1
+151,2001,,A1,32,infected,1,unknown,,episode end,,0
+151,2001,,A3,16,clean,1,unknown,,episode end,30,1
+153,2001,,A2,16,infected,1,infected,22,restore,19,1
+156,2001,,A1,39,clean,1,clean,,episode end,,0
+157,2001,,A2,16,clean,1,clean,19,intrusion,,0
+157,2001,,A3,17,clean,1,unknown,,episode end,29,1
+158,2001,,A2,10,clean,1,unknown,,episode end,15,1
+163,2001,,A1,9,clean,1,unknown,,episode end,16,1
+164,2001,,A2,24,clean,1,unknown,,episode end,41,1
+167,2001,,A1,4,clean,1,unknown,,episode end,26,1
+168,2001,,A1,37,clean,1,clean,,episode end,37,1
+168,2001,,A2,16,clean,1,clean,,episode end,20,1
+170,2001,,A2,29,clean,1,clean,,episode end,33,1
+170,2001,,A3,21,clean,1,unknown,,episode end,22,1
+172,2001,,A1,14,clean,1,unknown,,episode end,31,1
+173,2001,,A3,12,clean,1,unknown,23,intrusion,,0
+174,2001,,A2,31,clean,1,clean,,episode end,45,1
+176,2001,,A1,26,clean,1,unknown,,episode end,26,1
+176,2001,,A2,5,clean,1,clean,14,intrusion,,0
+178,2001,,A1,22,infected,1,infected,37,restore,34,1
+180,2001,,A3,6,infected,1,unknown,46,restore,26,1
+182,2001,,A2,13,clean,1,clean,,episode end,17,1
+184,2001,,A1,42,clean,1,unknown,,episode end,,0
+184,2001,,A2,6,infected,1,clean,15,restore,12,1
+184,2001,,A3,16,clean,1,clean,,episode end,26,1
+186,2001,,A1,6,clean,1,clean,,episode end,10,1
+187,2001,,A2,18,clean,1,unknown,,episode end,22,1
+187,2001,,A3,28,infected,1,unknown,,episode end,,0
+188,2001,,A2,20,clean,1,unknown,,episode end,28,1
+192,2001,,A2,39,clean,1,unknown,,episode end,39,1
+193,2001,,A3,28,clean,1,clean,,episode end,31,1
+196,2001,,A1,15,infected,1,clean,33,restore,15,1
+196,2001,,A2,20,clean,1,unknown,,episode end,20,1
+197,2001,,A2,35,clean,1,unknown,,episode end,,0
+200,2001,,A3,36,clean,1,unknown,,episode end,,0
+203,2001,,A3,6,clean,1,unknown,23,intrusion,,0
+207,2001,,A3,4,clean,1,unknown,12,intrusion,,0
+208,2001,,A1,17,clean,1,unknown,27,intrusion,,0
+209,2001,,A1,3,clean,1,unknown,,episode end,11,1
+210,2001,,A2,23,infected,1,infected,29,restore,26,1
+212,2001,,A3,20,infected,1,clean,23,restore,20,1
+214,2001,,A1,15,clean,1,unknown,,episode end,29,1
+215,2001,,A1,10,clean,1,unknown,,episode end,26,1
+220,2001,,A1,11,clean,1,clean,,episode end,14,1
+223,2001,,A2,25,clean,1,clean,,episode end,31,1
+224,2001,,A3,11,infected,1,clean,,episode end,20,1
+226,2001,,A1,17,infected,1,unknown,40,restore,37,1
+226,2001,,A3,10,clean,1,clean,,episode end,14,1
+229,2001,,A2,33,clean,1,unknown,,episode end,,0
+229,2001,,A3,16,infected,1,clean,45,restore,24,1
+230,2001,,A3,24,clean,1,unknown,,episode end,44,1
+231,2001,,A1,16,clean,1,clean,,episode end,21,1
+233,2001,,A2,3,clean,1,unknown,,episode end,8,1
+234,2001,,A1,15,infected,1,unknown,21,restore,18,1
+234,2001,,A2,30,clean,1,clean,,episode end,37,1
+235,2001,,A1,31,infected,1,clean,,episode end,,0
+237,2001,,A1,16,infected,1,unknown,20,restore,17,1
+238,2001,,A1,15,infected,1,unknown,21,restore,18,1
+238,2001,,A2,15,clean,1,unknown,,episode end,22,1
+239,2001,,A1,4,infected,1,unknown,,episode end,4,1
+240,2001,,A2,5,clean,1,unknown,,episode end,5,1
+240,2001,,A3,32,infected,1,clean,49,restore,46,1
+242,2001,,A1,14,clean,1,clean,,episode end,32,1
+242,2001,,A3,10,infected,1,unknown,13,restore,10,1
+243,2001,,A1,2,clean,1,unknown,,episode end,5,1
+244,2001,,A1,27,infected,1,unknown,30,restore,27,1
+245,2001,,A2,36,clean,1,unknown,,episode end,38,1
+246,2001,,A3,37,clean,1,unknown,,episode end,37,1
+247,2001,,A3,5,clean,1,unknown,,episode end,5,1
+248,2001,,A2,11,clean,1,clean,,episode end,46,1
+249,2001,,A1,5,infected,1,unknown,20,restore,17,1
+250,2001,,A1,30,infected,1,unknown,38,restore,35,1
+250,2001,,A3,6,clean,1,clean,,episode end,7,1
+251,2001,,A1,25,clean,1,unknown,,episode end,25,1
+253,2001,,A3,6,infected,1,unknown,20,restore,17,1
+254,2001,,A2,9,infected,0,infected,43,restore,20,1
+254,2001,,A3,16,clean,1,unknown,,episode end,21,1
+255,2001,,A1,49,infected,0,infected,,episode end,,0
+257,2001,,A1,15,clean,1,unknown,,episode end,16,1
+259,2001,,A3,29,infected,1,clean,,episode end,32,1
+261,2001,,A2,27,clean,1,unknown,,episode end,47,1
+262,2001,,A2,18,clean,1,clean,,episode end,39,1
+262,2001,,A3,4,infected,1,unknown,,episode end,4,1
+263,2001,,A1,20,infected,1,unknown,28,restore,25,1
+263,2001,,A3,4,clean,1,unknown,,episode end,18,1
+264,2001,,A1,22,infected,1,unknown,25,restore,22,1
+270,2001,,A1,9,clean,1,unknown,,episode end,9,1
+270,2001,,A3,9,infected,1,unknown,,episode end,,0
+271,2001,,A1,19,clean,1,clean,,episode end,21,1
+272,2001,,A1,6,clean,1,clean,,episode end,36,1
+274,2001,,A1,29,clean,1,clean,30,intrusion,,0
+274,2001,,A2,13,clean,1,unknown,,episode end,29,1
+276,2001,,A2,4,clean,1,unknown,,episode end,9,1
+279,2001,,A1,31,clean,1,clean,,episode end,31,1
+280,2001,,A3,22,infected,1,clean,29,restore,26,1
+281,2001,,A3,3,clean,1,unknown,,episode end,3,1
+284,2001,,A1,16,infected,1,clean,24,restore,21,1
+285,2001,,A2,20,infected,0,infected,32,restore,20,1
+285,2001,,A3,33,clean,1,clean,,episode end,,0
+286,2001,,A2,21,infected,1,unknown,47,restore,21,1
+287,2001,,A1,34,clean,1,clean,,episode end,38,1
+287,2001,,A2,8,infected,1,unknown,11,restore,8,1
+288,2001,,A1,28,clean,1,clean,,episode end,28,1
+288,2001,,A2,28,infected,1,clean,42,restore,39,1
+289,2001,,A1,2,clean,1,unknown,,episode end,8,1
+291,2001,,A3,31,clean,1,unknown,,episode end,31,1
+293,2001,,A1,7,infected,1,unknown,23,restore,20,1
+297,2001,,A3,14,clean,1,clean,,episode end,,0
+298,2001,,A1,33,clean,1,unknown,,episode end,46,1
+299,2001,,A3,38,clean,1,unknown,,episode end,38,1
+300,2001,,A3,22,infected,1,unknown,25,restore,22,1
+301,2001,,A1,10,clean,1,clean,,episode end,10,1
+301,2001,,A2,6,clean,1,clean,,episode end,7,1
+304,2001,,A2,9,infected,1,unknown,33,restore,24,1
+306,2001,,A2,30,clean,1,clean,,episode end,35,1
+307,2001,,A3,36,clean,1,unknown,,episode end,,0
+309,2001,,A1,6,clean,1,unknown,,episode end,6,1
+309,2001,,A2,6,infected,1,unknown,16,restore,13,1
+310,2001,,A3,49,clean,1,clean,,episode end,,0
+312,2001,,A3,23,clean,1,unknown,,episode end,24,1
+313,2001,,A3,21,clean,1,clean,,episode end,38,1
+314,2001,,A1,13,infected,1,unknown,,episode end,14,1
+314,2001,,A3,16,clean,1,clean,,episode end,18,1
+316,2001,,A1,12,clean,1,unknown,,episode end,15,1
+316,2001,,A2,11,clean,1,unknown,,episode end,37,1
+319,2001,,A2,6,clean,1,unknown,,episode end,35,1
+319,2001,,A3,13,infected,1,infected,17,restore,14,1
+320,2001,,A2,5,clean,1,unknown,,episode end,6,1
+321,2001,,A3,10,infected,1,clean,26,restore,23,1
+322,2001,,A3,16,clean,1,unknown,,episode end,27,1
+327,2001,,A3,17,clean,1,unknown,,episode end,17,1
+328,2001,,A1,27,infected,1,clean,,episode end,29,1
+329,2001,,A2,9,infected,1,unknown,13,restore,10,1
+330,2001,,A3,25,infected,1,unknown,33,restore,30,1
+331,2001,,A1,19,clean,1,clean,,episode end,26,1
+335,2001,,A2,19,clean,1,clean,,episode end,28,1
+336,2001,,A3,16,clean,1,clean,,episode end,16,1
+340,2001,,A3,30,clean,1,unknown,,episode end,,0
+341,2001,,A1,8,infected,1,clean,22,restore,19,1
+341,2001,,A3,8,clean,1,unknown,,episode end,36,1
+342,2001,,A3,17,infected,1,unknown,20,restore,17,1
+343,2001,,A1,24,infected,1,unknown,32,restore,29,1
+343,2001,,A3,25,clean,1,unknown,,episode end,33,1
+345,2001,,A2,42,clean,1,clean,,episode end,42,1
+346,2001,,A1,4,infected,1,unknown,,episode end,,0
+347,2001,,A1,26,clean,1,clean,,episode end,26,1
+349,2001,,A1,22,infected,1,clean,28,restore,25,1
+349,2001,,A3,12,clean,1,unknown,,episode end,17,1
+351,2001,,A1,13,clean,1,unknown,,episode end,18,1
+353,2001,,A3,4,infected,1,unknown,17,restore,14,1
+357,2001,,A2,17,infected,0,infected,,episode end,33,1
+358,2001,,A3,8,clean,1,clean,24,spread,,0
+360,2001,,A2,15,infected,1,unknown,18,restore,15,1
+361,2001,,A3,5,infected,1,unknown,,episode end,7,1
+362,2001,,A2,14,infected,1,unknown,,episode end,20,1
+364,2001,,A1,14,infected,1,clean,24,restore,14,1
+365,2001,,A3,23,infected,1,unknown,42,restore,28,1
+366,2001,,A1,22,infected,1,unknown,,episode end,29,1
+367,2001,,A2,9,clean,1,unknown,,episode end,25,1
+368,2001,,A1,33,clean,1,clean,,episode end,35,1
+368,2001,,A2,6,infected,1,clean,,episode end,6,1
+370,2001,,A3,17,clean,1,clean,,episode end,20,1
+373,2001,,A3,29,infected,1,clean,36,restore,33,1
+374,2001,,A2,13,infected,1,unknown,43,restore,40,1
+375,2001,,A2,23,clean,1,clean,,episode end,23,1
+376,2001,,A2,27,infected,1,clean,,episode end,41,1
+377,2001,,A1,2,infected,1,unknown,10,restore,7,1
+377,2001,,A2,35,clean,1,clean,,episode end,38,1
+378,2001,,A1,10,clean,1,clean,,episode end,10,1
+378,2001,,A3,43,infected,0,infected,,episode end,48,1
+380,2001,,A3,40,clean,1,clean,,episode end,41,1
+381,2001,,A1,23,infected,1,unknown,29,restore,26,1
+382,2001,,A1,13,infected,1,clean,19,restore,14,1
+382,2001,,A2,14,clean,1,clean,,episode end,27,1
+385,2001,,A3,32,infected,1,unknown,,episode end,32,1
+386,2001,,A1,17,infected,1,unknown,32,restore,24,1
+388,2001,,A3,13,infected,1,unknown,,episode end,,0
+389,2001,,A2,11,clean,1,unknown,,episode end,17,1
+390,2001,,A2,37,clean,1,clean,,episode end,39,1
+392,2001,,A1,15,infected,1,infected,29,restore,21,1
+396,2001,,A3,38,clean,1,clean,,episode end,,0
+397,2001,,A1,3,infected,1,unknown,27,restore,10,1
+398,2001,,A2,29,infected,1,unknown,37,restore,29,1
+398,2001,,A3,29,clean,1,clean,,episode end,41,1
+400,2001,,A2,25,clean,1,clean,,episode end,25,1
+401,2001,,A3,12,clean,1,clean,,episode end,32,1
+404,2001,,A2,34,clean,1,unknown,,episode end,34,1
+405,2001,,A1,38,infected,1,clean,,episode end,44,1
+406,2001,,A2,27,infected,1,clean,,episode end,30,1
+409,2001,,A3,17,infected,1,unknown,43,restore,18,1
+410,2001,,A2,4,clean,1,unknown,,episode end,30,1
+411,2001,,A1,32,clean,1,unknown,,episode end,40,1
+411,2001,,A3,36,infected,1,clean,44,restore,41,1
+412,2001,,A1,9,infected,1,unknown,16,restore,13,1
+415,2001,,A1,33,clean,1,clean,,episode end,47,1
+415,2001,,A2,7,clean,1,clean,,episode end,27,1
+416,2001,,A1,43,infected,1,clean,,episode end,45,1
+418,2001,,A2,17,infected,1,infected,34,restore,29,1
+419,2001,,A2,10,clean,1,unknown,,episode end,13,1
+422,2001,,A1,20,clean,1,unknown,,episode end,22,1
+422,2001,,A3,19,clean,1,unknown,,episode end,21,1
+423,2001,,A2,5,clean,1,unknown,,episode end,7,1
+424,2001,,A3,4,clean,1,unknown,,episode end,7,1
+425,2001,,A1,39,clean,1,clean,,episode end,,0
+425,2001,,A3,2,clean,1,unknown,,episode end,2,1
+429,2001,,A3,11,clean,1,clean,,episode end,18,1
+432,2001,,A2,20,clean,1,unknown,,episode end,23,1
+433,2001,,A1,18,clean,1,unknown,,episode end,24,1
+433,2001,,A3,20,infected,1,clean,,episode end,29,1
+434,2001,,A1,5,clean,1,clean,16,spread,,0
+435,2001,,A1,32,clean,1,unknown,,episode end,35,1
+435,2001,,A2,18,clean,1,clean,,episode end,43,1
+437,2001,,A1,23,infected,1,clean,26,restore,23,1
+437,2001,,A2,22,clean,1,unknown,,episode end,,0
+439,2001,,A1,27,clean,1,clean,,episode end,35,1
+439,2001,,A2,8,infected,1,infected,23,restore,8,1
+440,2001,,A1,10,infected,1,unknown,23,restore,20,1
+442,2001,,A3,6,infected,1,unknown,10,restore,7,1
+445,2001,,A1,24,clean,1,clean,,episode end,28,1
+445,2001,,A2,28,clean,1,unknown,,episode end,32,1
+447,2001,,A1,18,clean,1,unknown,,episode end,29,1
+448,2001,,A2,7,clean,1,unknown,,episode end,7,1
+448,2001,,A3,42,infected,1,unknown,,episode end,,0
+450,2001,,A2,41,infected,1,unknown,,episode end,47,1
+451,2001,,A2,15,infected,1,unknown,,episode end,15,1
+455,2001,,A2,29,clean,1,clean,,episode end,29,1
+456,2001,,A3,33,clean,1,clean,,episode end,35,1
+458,2001,,A2,35,clean,1,clean,,episode end,45,1
+459,2001,,A1,19,clean,1,unknown,,episode end,19,1
+460,2001,,A1,15,infected,1,unknown,22,restore,19,1
+462,2001,,A2,16,clean,1,unknown,,episode end,30,1
+463,2001,,A2,20,clean,1,unknown,,episode end,25,1
+464,2001,,A1,8,clean,1,unknown,,episode end,8,1
+464,2001,,A2,24,clean,1,clean,,episode end,32,1
+467,2001,,A2,44,clean,1,unknown,,episode end,46,1
+469,2001,,A1,13,infected,1,unknown,,episode end,24,1
+471,2001,,A2,3,clean,1,clean,,episode end,3,1
+476,2001,,A1,22,infected,0,infected,30,restore,27,1
+477,2001,,A1,32,clean,1,unknown,,episode end,,0
+478,2001,,A2,38,clean,1,clean,,episode end,46,1
+479,2001,,A2,42,clean,1,unknown,,episode end,,0
+483,2001,,A3,5,clean,1,unknown,,episode end,12,1
+486,2001,,A2,7,infected,1,unknown,35,restore,16,1
+487,2001,,A1,18,clean,1,unknown,,episode end,24,1
+490,2001,,A1,25,clean,1,unknown,,episode end,31,1
+491,2001,,A3,16,clean,1,clean,,episode end,34,1
+492,2001,,A3,7,clean,1,clean,,episode end,34,1
+493,2001,,A3,7,clean,1,clean,,episode end,18,1
+494,2001,,A1,8,clean,1,clean,,episode end,12,1
+494,2001,,A2,18,infected,1,clean,26,restore,23,1
+496,2001,,A1,27,infected,1,infected,,episode end,,0
+499,2001,,A2,10,infected,1,unknown,17,restore,14,1
+499,2001,,A3,14,clean,1,clean,,episode end,24,1
+501,2001,,A1,8,infected,0,infected,32,restore,13,1
+505,2001,,A3,10,clean,1,clean,,episode end,40,1
+508,2001,,A1,5,clean,1,unknown,,episode end,14,1
+508,2001,,A3,8,infected,1,unknown,26,restore,23,1
+514,2001,,A2,28,infected,1,clean,,episode end,28,1
+515,2001,,A3,14,infected,1,unknown,42,restore,39,1
+516,2001,,A2,11,infected,1,unknown,24,restore,21,1
+517,2001,,A1,14,infected,1,clean,,episode end,19,1
+518,2001,,A3,9,clean,1,clean,,episode end,12,1
+519,2001,,A2,9,clean,1,unknown,,episode end,14,1
+521,2001,,A1,15,infected,1,unknown,,episode end,20,1
+521,2001,,A3,36,clean,1,clean,,episode end,42,1
+523,2001,,A3,25,clean,1,clean,,episode end,25,1
+524,2001,,A2,27,infected,1,clean,,episode end,48,1
+525,2001,,A1,24,clean,1,clean,,episode end,43,1
+529,2001,,A1,27,clean,1,unknown,,episode end,30,1
+530,2001,,A2,7,clean,1,unknown,,episode end,11,1
+531,2001,,A3,21,clean,1,clean,,episode end,34,1
+532,2001,,A3,12,infected,1,unknown,38,restore,35,1
+533,2001,,A1,49,clean,1,unknown,,episode end,,0
+533,2001,,A2,9,infected,1,clean,12,restore,9,1
+534,2001,,A1,20,clean,1,clean,,episode end,29,1
+535,2001,,A1,33,clean,1,unknown,,episode end,37,1
+535,2001,,A2,13,infected,1,unknown,26,restore,23,1
+536,2001,,A3,22,clean,1,unknown,,episode end,,0
+538,2001,,A2,8,infected,1,unknown,17,restore,14,1
+539,2001,,A1,17,clean,1,unknown,,episode end,18,1
+540,2001,,A2,22,clean,1,unknown,,episode end,22,1
+541,2001,,A3,35,clean,1,unknown,,episode end,35,1
+544,2001,,A1,18,infected,1,unknown,34,restore,31,1
+544,2001,,A3,29,clean,1,unknown,,episode end,49,1
+545,2001,,A3,35,clean,1,unknown,,episode end,35,1
+548,2001,,A1,40,clean,1,unknown,,episode end,,0
+549,2001,,A1,32,clean,1,unknown,,episode end,39,1
+550,2001,,A1,7,infected,1,clean,18,restore,14,1
+552,2001,,A1,25,clean,1,unknown,,episode end,25,1
+552,2001,,A3,25,infected,1,clean,42,restore,28,1
+555,2001,,A1,33,clean,1,unknown,,episode end,37,1
+557,2001,,A1,12,infected,1,clean,,episode end,,0
+558,2001,,A3,6,clean,1,unknown,,episode end,28,1
+559,2001,,A3,35,infected,0,infected,47,restore,36,1
+560,2001,,A3,30,clean,1,unknown,,episode end,30,1
+561,2001,,A2,13,clean,1,clean,,episode end,32,1
+566,2001,,A2,13,infected,1,unknown,16,restore,13,1
+566,2001,,A3,24,clean,1,clean,,episode end,30,1
+567,2001,,A1,32,clean,1,unknown,,episode end,,0
+568,2001,,A2,35,infected,0,infected,,episode end,,0
+571,2001,,A2,4,infected,1,unknown,9,restore,6,1
+573,2001,,A1,33,clean,1,clean,,episode end,36,1
+575,2001,,A2,5,infected,1,unknown,22,restore,12,1
+577,2001,,A1,7,infected,0,infected,41,restore,38,1
+579,2001,,A3,21,clean,1,unknown,27,intrusion,25,1
+580,2001,,A2,4,clean,1,unknown,,episode end,4,1
+581,2001,,A2,15,clean,1,unknown,,episode end,24,1
+582,2001,,A1,19,clean,1,unknown,,episode end,31,1
+583,2001,,A1,33,clean,1,unknown,,episode end,33,1
+583,2001,,A3,2,infected,1,unknown,13,restore,10,1
+584,2001,,A2,28,infected,1,unknown,,episode end,32,1
+584,2001,,A3,34,clean,1,clean,,episode end,43,1
+585,2001,,A3,5,infected,1,unknown,45,restore,42,1
+588,2001,,A3,10,clean,1,clean,14,intrusion,,0
+589,2001,,A3,28,clean,1,unknown,,episode end,42,1
+590,2001,,A3,38,clean,1,unknown,,episode end,44,1
+592,2001,,A3,4,clean,1,unknown,,episode end,24,1
+593,2001,,A1,21,clean,1,unknown,,episode end,30,1
+593,2001,,A3,19,infected,1,unknown,36,restore,31,1
+594,2001,,A3,41,infected,1,clean,48,restore,45,1
+595,2001,,A2,32,clean,1,clean,,episode end,38,1
+596,2001,,A3,7,clean,1,unknown,8,intrusion,7,1
+598,2001,,A2,6,infected,1,unknown,16,restore,8,1
+599,2001,,A2,5,clean,1,unknown,,episode end,16,1
+600,2001,,A2,18,infected,1,unknown,,episode end,,0
+601,2001,,A3,38,clean,1,clean,,episode end,46,1
+602,2001,,A2,32,clean,1,clean,,episode end,39,1
+603,2001,,A1,12,clean,1,unknown,,episode end,14,1
+604,2001,,A2,3,clean,1,unknown,25,intrusion,3,1
+605,2001,,A3,28,clean,1,unknown,,episode end,45,1
+606,2001,,A1,19,infected,1,unknown,25,restore,22,1
+606,2001,,A2,33,clean,1,unknown,,episode end,,0
+607,2001,,A2,22,infected,1,unknown,37,restore,34,1
+608,2001,,A2,13,infected,1,unknown,40,restore,18,1
+611,2001,,A1,26,clean,1,clean,,episode end,49,1
+611,2001,,A2,30,clean,1,clean,,episode end,33,1
+612,2001,,A2,14,clean,1,unknown,,episode end,22,1
+613,2001,,A2,24,infected,1,unknown,46,restore,35,1
+614,2001,,A3,17,infected,1,clean,32,restore,29,1
+615,2001,,A1,6,clean,1,unknown,,episode end,22,1
+615,2001,,A2,6,infected,1,clean,21,restore,10,1
+615,2001,,A3,36,clean,1,unknown,,episode end,48,1
+616,2001,,A1,13,clean,1,unknown,,episode end,13,1
+616,2001,,A3,27,infected,1,unknown,39,restore,28,1
+617,2001,,A1,28,infected,1,unknown,35,restore,32,1
+619,2001,,A1,26,clean,1,clean,,episode end,28,1
+620,2001,,A3,14,infected,1,clean,44,restore,31,1
+622,2001,,A1,16,infected,1,clean,,episode end,16,1
+622,2001,,A2,19,clean,1,unknown,,episode end,29,1
+624,2001,,A2,16,clean,1,unknown,,episode end,17,1
+624,2001,,A3,22,clean,1,clean,,episode end,28,1
+627,2001,,A3,22,clean,1,clean,,episode end,26,1
+629,2001,,A2,4,clean,1,unknown,,episode end,34,1
+629,2001,,A3,24,infected,1,clean,31,restore,28,1
+631,2001,,A3,27,clean,1,clean,,episode end,,0
+633,2001,,A1,14,clean,1,unknown,,episode end,44,1
+634,2001,,A2,25,clean,1,unknown,,episode end,27,1
+634,2001,,A3,21,infected,1,infected,,episode end,26,1
+635,2001,,A2,11,clean,1,unknown,,episode end,,0
+636,2001,,A3,2,clean,1,clean,9,spread,,0
+637,2001,,A2,4,clean,1,clean,,episode end,6,1
+639,2001,,A1,23,clean,1,unknown,,episode end,27,1
+641,2001,,A1,17,infected,1,unknown,,episode end,22,1
+641,2001,,A2,17,clean,1,unknown,,episode end,27,1
+642,2001,,A2,35,clean,1,unknown,,episode end,35,1
+644,2001,,A1,16,clean,1,unknown,,episode end,19,1
+646,2001,,A2,26,infected,1,clean,,episode end,47,1
+646,2001,,A3,4,clean,1,unknown,,episode end,5,1
+647,2001,,A1,36,clean,1,unknown,,episode end,,0
+650,2001,,A2,6,infected,1,unknown,,episode end,37,1
+656,2001,,A1,28,infected,1,clean,40,restore,37,1
+658,2001,,A3,35,clean,1,unknown,,episode end,37,1
+659,2001,,A3,12,infected,1,unknown,20,restore,16,1
+660,2001,,A3,7,clean,1,unknown,,episode end,7,1
+662,2001,,A1,8,infected,1,clean,39,restore,36,1
+663,2001,,A1,38,clean,1,clean,,episode end,44,1
+664,2001,,A2,37,clean,1,unknown,,episode end,,0
+665,2001,,A3,17,infected,1,unknown,46,restore,43,1
+666,2001,,A1,2,clean,1,unknown,,episode end,24,1
+666,2001,,A3,7,infected,1,unknown,14,restore,11,1
+668,2001,,A2,27,clean,1,clean,,episode end,43,1
+669,2001,,A3,40,clean,1,clean,,episode end,43,1
+670,2001,,A3,15,clean,1,clean,,episode end,22,1
+673,2001,,A3,18,clean,1,unknown,,episode end,21,1
+678,2001,,A2,24,infected,1,unknown,,episode end,,0
+681,2001,,A3,12,infected,1,unknown,,episode end,12,1
+683,2001,,A1,27,clean,1,clean,,episode end,,0
+687,2001,,A2,13,infected,1,unknown,33,restore,30,1
+687,2001,,A3,29,clean,1,clean,,episode end,,0
+689,2001,,A3,9,infected,1,unknown,14,restore,11,1
+690,2001,,A3,23,clean,1,clean,,episode end,25,1
+691,2001,,A1,28,infected,1,clean,47,restore,37,1
+693,2001,,A1,5,infected,0,infected,12,restore,9,1
+694,2001,,A2,13,clean,1,unknown,,episode end,16,1
+695,2001,,A1,23,infected,0,infected,,episode end,24,1
+696,2001,,A3,22,clean,1,clean,,episode end,26,1
+697,2001,,A1,12,clean,1,unknown,,episode end,18,1
+697,2001,,A3,11,clean,1,clean,26,intrusion,14,1
+698,2001,,A1,34,clean,1,clean,,episode end,,0
+700,2001,,A1,21,clean,1,clean,,episode end,24,1
+701,2001,,A1,45,clean,1,unknown,,episode end,,0
+703,2001,,A1,35,clean,1,clean,,episode end,38,1
+705,2001,,A2,26,infected,1,clean,40,restore,28,1
+707,2001,,A1,41,infected,0,infected,,episode end,48,1
+709,2001,,A1,30,clean,1,clean,,episode end,43,1
+710,2001,,A1,20,clean,1,unknown,,episode end,23,1
+710,2001,,A2,28,clean,1,unknown,,episode end,,0
+713,2001,,A3,22,clean,1,clean,,episode end,28,1
+715,2001,,A2,7,infected,1,unknown,,episode end,18,1
+717,2001,,A2,24,infected,1,clean,34,restore,31,1
+718,2001,,A2,31,infected,1,unknown,41,restore,32,1
+719,2001,,A1,10,infected,1,unknown,18,restore,15,1
+721,2001,,A2,15,infected,1,unknown,27,restore,15,1
+721,2001,,A3,39,clean,1,unknown,,episode end,,0
+722,2001,,A2,17,infected,1,unknown,24,restore,20,1
+723,2001,,A3,3,infected,1,unknown,22,restore,12,1
+724,2001,,A1,9,clean,1,unknown,,episode end,15,1
+725,2001,,A1,28,infected,1,clean,,episode end,43,1
+727,2001,,A3,9,clean,1,unknown,,episode end,26,1
+730,2001,,A1,4,clean,1,clean,,episode end,12,1
+730,2001,,A2,29,infected,1,infected,36,restore,33,1
+732,2001,,A1,7,clean,1,unknown,,episode end,9,1
+732,2001,,A2,31,infected,1,clean,42,restore,39,1
+733,2001,,A3,31,clean,1,unknown,,episode end,31,1
+734,2001,,A3,23,clean,1,unknown,,episode end,28,1
+735,2001,,A3,20,clean,1,clean,,episode end,21,1
+737,2001,,A1,14,infected,1,unknown,42,restore,16,1
+738,2001,,A1,9,clean,1,unknown,,episode end,12,1
+738,2001,,A3,8,infected,1,unknown,32,restore,24,1
+739,2001,,A2,4,clean,1,unknown,,episode end,6,1
+740,2001,,A3,25,clean,1,unknown,26,intrusion,,0
+741,2001,,A1,24,infected,1,unknown,48,restore,33,1
+741,2001,,A3,38,clean,1,clean,,episode end,42,1
+742,2001,,A2,39,clean,1,clean,,episode end,,0
+743,2001,,A1,7,infected,1,unknown,25,restore,22,1
+743,2001,,A2,27,clean,1,clean,,episode end,27,1
+744,2001,,A1,6,infected,1,unknown,35,restore,14,1
+745,2001,,A2,6,clean,1,unknown,,episode end,18,1
+746,2001,,A2,25,clean,1,clean,,episode end,25,1
+747,2001,,A2,4,infected,1,unknown,8,restore,4,1
+747,2001,,A3,14,clean,1,unknown,,episode end,16,1
+748,2001,,A2,24,clean,1,unknown,,episode end,33,1
+751,2001,,A2,14,clean,1,unknown,,episode end,19,1
+752,2001,,A1,23,clean,1,clean,,episode end,24,1
+752,2001,,A3,33,infected,1,clean,,episode end,,0
+753,2001,,A1,27,infected,1,clean,,episode end,46,1
+753,2001,,A2,11,clean,1,unknown,,episode end,14,1
+754,2001,,A2,28,infected,1,unknown,34,restore,28,1
+755,2001,,A1,42,clean,1,clean,,episode end,,0
+755,2001,,A2,30,infected,1,infected,,episode end,30,1
+756,2001,,A3,3,clean,1,unknown,,episode end,35,1
+757,2001,,A3,35,clean,1,clean,,episode end,,0
+758,2001,,A3,13,clean,1,clean,,episode end,20,1
+760,2001,,A2,18,clean,1,unknown,,episode end,35,1
+760,2001,,A3,10,infected,1,unknown,17,restore,14,1
+761,2001,,A1,30,clean,1,unknown,,episode end,49,1
+763,2001,,A3,5,clean,1,unknown,,episode end,20,1
+764,2001,,A3,27,clean,1,clean,,episode end,38,1
+765,2001,,A2,9,infected,1,unknown,29,restore,13,1
+767,2001,,A3,6,infected,1,unknown,21,restore,17,1
+768,2001,,A3,4,clean,1,unknown,,episode end,12,1
+769,2001,,A3,26,clean,1,clean,,episode end,29,1
+771,2001,,A1,4,clean,1,unknown,,episode end,29,1
+774,2001,,A3,8,infected,0,infected,26,restore,23,1
+778,2001,,A2,30,infected,1,clean,47,restore,30,1
+780,2001,,A1,6,clean,1,unknown,,episode end,7,1
+781,2001,,A1,7,clean,1,unknown,,episode end,20,1
+783,2001,,A2,16,clean,1,clean,,episode end,,0
+786,2001,,A1,18,clean,1,clean,,episode end,18,1
+788,2001,,A3,21,clean,1,clean,,episode end,21,1
+789,2001,,A2,31,infected,0,infected,34,restore,31,1
+789,2001,,A3,4,clean,1,unknown,,episode end,16,1
+790,2001,,A2,29,clean,1,unknown,,episode end,30,1
+794,2001,,A2,9,infected,1,unknown,14,restore,11,1
+795,2001,,A2,13,clean,1,unknown,,episode end,14,1
+795,2001,,A3,13,infected,1,unknown,37,restore,34,1
+796,2001,,A3,16,infected,1,clean,,episode end,43,1
+797,2001,,A2,27,infected,1,infected,30,restore,27,1
+797,2001,,A3,42,clean,1,clean,,episode end,,0
+798,2001,,A3,37,clean,1,clean,,episode end,37,1
+799,2001,,A1,35,clean,1,clean,,episode end,41,1
+800,2001,,A1,25,clean,1,unknown,,episode end,29,1
+801,2001,,A3,2,clean,1,unknown,,episode end,15,1
+802,2001,,A1,28,infected,1,unknown,49,restore,46,1
+802,2001,,A3,38,clean,1,unknown,,episode end,38,1
+803,2001,,A2,4,infected,1,unknown,21,restore,18,1
+805,2001,,A2,14,infected,1,unknown,24,restore,21,1
+807,2001,,A2,6,infected,1,unknown,33,restore,11,1
+808,2001,,A3,27,infected,1,unknown,39,restore,28,1
+809,2001,,A3,7,clean,1,unknown,11,intrusion,9,1
+810,2001,,A3,22,infected,1,unknown,,episode end,,0
+811,2001,,A2,33,clean,1,unknown,,episode end,36,1
+811,2001,,A3,14,infected,1,unknown,,episode end,22,1
+812,2001,,A3,12,infected,1,unknown,35,restore,29,1
+815,2001,,A1,39,clean,1,unknown,,episode end,,0
+818,2001,,A2,37,clean,1,clean,,episode end,,0
+819,2001,,A1,37,clean,1,unknown,,episode end,37,1
+819,2001,,A3,5,infected,1,unknown,25,restore,22,1
+820,2001,,A1,26,clean,1,unknown,,episode end,40,1
+821,2001,,A1,30,clean,1,clean,,episode end,48,1
+822,2001,,A1,12,infected,1,clean,,episode end,48,1
+822,2001,,A2,12,clean,1,unknown,,episode end,12,1
+825,2001,,A3,16,clean,1,unknown,,episode end,21,1
+826,2001,,A3,25,infected,1,unknown,,episode end,,0
+827,2001,,A1,13,infected,1,unknown,19,restore,13,1
+827,2001,,A3,9,clean,1,unknown,,episode end,9,1
+831,2001,,A1,26,clean,1,unknown,,episode end,49,1
+832,2001,,A2,20,clean,1,unknown,,episode end,25,1
+833,2001,,A2,36,clean,1,unknown,,episode end,39,1
+835,2001,,A2,33,clean,1,unknown,,episode end,34,1
+836,2001,,A2,31,infected,0,infected,47,restore,34,1
+838,2001,,A2,17,infected,1,unknown,20,restore,17,1
+840,2001,,A3,24,infected,1,clean,,episode end,,0
+842,2001,,A1,41,infected,1,clean,,episode end,47,1
+842,2001,,A2,33,clean,1,clean,,episode end,38,1
+843,2001,,A2,28,clean,1,clean,,episode end,,0
+843,2001,,A3,42,infected,0,infected,,episode end,47,1
+845,2001,,A2,9,clean,1,clean,28,intrusion,15,1
+846,2001,,A2,19,infected,0,infected,36,restore,33,1
+846,2001,,A3,17,clean,1,unknown,,episode end,19,1
+851,2001,,A2,39,clean,1,clean,,episode end,,0
+852,2001,,A2,14,clean,1,clean,,episode end,26,1
+853,2001,,A2,15,infected,1,unknown,21,restore,18,1
+854,2001,,A2,35,clean,1,clean,,episode end,35,1
+854,2001,,A3,30,clean,1,clean,,episode end,33,1
+855,2001,,A2,9,clean,1,clean,,episode end,21,1
+856,2001,,A1,4,clean,1,unknown,,episode end,4,1
+856,2001,,A3,4,clean,1,unknown,,episode end,16,1
+858,2001,,A1,4,infected,1,unknown,14,restore,5,1
+858,2001,,A2,36,clean,1,unknown,,episode end,,0
+859,2001,,A2,19,clean,1,unknown,,episode end,19,1
+860,2001,,A1,37,infected,1,unknown,48,restore,45,1
+861,2001,,A2,31,infected,1,infected,35,restore,32,1
+862,2001,,A1,10,infected,1,clean,,episode end,28,1
+863,2001,,A1,15,infected,1,unknown,,episode end,20,1
+864,2001,,A2,13,clean,1,unknown,,episode end,23,1
+865,2001,,A1,32,clean,1,clean,,episode end,34,1
+866,2001,,A2,34,clean,1,unknown,,episode end,43,1
+866,2001,,A3,7,infected,1,unknown,,episode end,27,1
+867,2001,,A2,16,clean,1,clean,,episode end,20,1
+872,2001,,A2,30,clean,1,clean,,episode end,44,1
+874,2001,,A1,4,clean,1,unknown,,episode end,4,1
+876,2001,,A1,17,clean,1,clean,,episode end,19,1
+876,2001,,A3,22,clean,1,unknown,,episode end,24,1
+877,2001,,A1,27,clean,1,unknown,,episode end,35,1
+878,2001,,A2,16,clean,1,unknown,,episode end,34,1
+880,2001,,A2,12,clean,1,unknown,,episode end,12,1
+881,2001,,A2,12,clean,1,unknown,,episode end,19,1
+882,2001,,A2,6,clean,1,unknown,,episode end,7,1
+884,2001,,A3,45,clean,1,clean,,episode end,,0
+887,2001,,A2,2,clean,1,unknown,,episode end,21,1
+888,2001,,A1,18,clean,1,clean,,episode end,36,1
+889,2001,,A1,5,infected,1,clean,10,restore,7,1
+892,2001,,A2,11,clean,1,clean,26,intrusion,11,1
+893,2001,,A1,31,clean,1,clean,,episode end,34,1
+894,2001,,A1,12,clean,1,unknown,,episode end,23,1
+895,2001,,A1,21,infected,1,clean,38,restore,35,1
+895,2001,,A2,8,clean,1,clean,,episode end,21,1
+897,2001,,A3,37,infected,0,infected,,episode end,,0
+900,2001,,A3,19,infected,0,infected,40,restore,36,1
+902,2001,,A3,33,clean,1,clean,,episode end,,0
+905,2001,,A1,4,clean,1,unknown,,episode end,4,1
+905,2001,,A2,26,infected,0,infected,38,restore,27,1
+907,2001,,A2,35,clean,1,clean,,episode end,,0
+908,2001,,A2,15,infected,1,clean,33,restore,24,1
+912,2001,,A3,15,clean,1,clean,,episode end,27,1
+916,2001,,A3,35,infected,1,unknown,,episode end,,0
+917,2001,,A1,18,clean,1,clean,,episode end,18,1
+918,2001,,A2,15,clean,1,unknown,17,intrusion,,0
+921,2001,,A1,16,clean,1,unknown,,episode end,41,1
+922,2001,,A2,16,infected,1,unknown,19,restore,16,1
+923,2001,,A1,42,infected,1,unknown,,episode end,,0
+924,2001,,A3,10,clean,1,unknown,10,intrusion,,0
+925,2001,,A1,10,clean,1,unknown,23,intrusion,14,1
+927,2001,,A2,21,infected,1,unknown,,episode end,,0
+927,2001,,A3,24,clean,1,unknown,,episode end,27,1
+928,2001,,A2,29,infected,1,clean,,episode end,47,1
+930,2001,,A1,39,clean,1,clean,,episode end,39,1
+931,2001,,A2,37,clean,1,unknown,,episode end,49,1
+933,2001,,A3,13,infected,1,unknown,37,restore,34,1
+934,2001,,A1,2,clean,1,unknown,,episode end,4,1
+935,2001,,A2,7,infected,0,infected,39,restore,9,1
+938,2001,,A1,11,clean,1,unknown,,episode end,,0
+938,2001,,A2,38,clean,1,unknown,,episode end,38,1
+941,2001,,A1,24,infected,1,unknown,,episode end,,0
+944,2001,,A2,11,infected,1,clean,14,restore,11,1
+944,2001,,A3,26,clean,1,unknown,,episode end,45,1
+947,2001,,A1,8,infected,1,unknown,31,restore,28,1
+948,2001,,A3,32,clean,1,clean,,episode end,34,1
+949,2001,,A1,27,infected,1,unknown,,episode end,,0
+949,2001,,A3,12,clean,1,unknown,,episode end,16,1
+952,2001,,A2,4,infected,0,infected,17,restore,14,1
+953,2001,,A1,10,clean,1,unknown,,episode end,14,1
+954,2001,,A2,5,clean,1,unknown,9,intrusion,,0
+957,2001,,A3,31,clean,1,clean,,episode end,32,1
+958,2001,,A3,17,infected,1,unknown,,episode end,,0
+960,2001,,A1,28,infected,1,infected,32,restore,29,1
+960,2001,,A2,11,clean,1,unknown,,episode end,19,1
+962,2001,,A1,22,infected,1,clean,33,restore,30,1
+963,2001,,A1,36,clean,1,unknown,,episode end,38,1
+965,2001,,A2,26,clean,1,clean,,episode end,26,1
+966,2001,,A2,45,infected,1,unknown,49,restore,46,1
+967,2001,,A3,48,clean,1,clean,,episode end,48,1
+968,2001,,A2,20,clean,1,unknown,,episode end,25,1
+968,2001,,A3,16,clean,1,clean,,episode end,16,1
+969,2001,,A3,8,clean,1,unknown,,episode end,12,1
+971,2001,,A2,20,infected,1,unknown,,episode end,44,1
+973,2001,,A3,28,clean,1,unknown,,episode end,29,1
+974,2001,,A3,18,clean,1,unknown,,episode end,28,1
+975,2001,,A1,38,infected,1,unknown,,episode end,38,1
+976,2001,,A1,6,clean,1,unknown,,episode end,25,1
+977,2001,,A1,38,clean,1,clean,,episode end,,0
+978,2001,,A2,16,infected,1,clean,22,restore,18,1
+978,2001,,A3,2,clean,1,unknown,,episode end,31,1
+981,2001,,A3,22,infected,1,clean,26,restore,23,1
+982,2001,,A1,36,clean,1,unknown,,episode end,38,1
+984,2001,,A1,19,clean,1,clean,20,intrusion,,0
+986,2001,,A1,27,infected,1,unknown,42,restore,39,1
+988,2001,,A1,16,infected,1,unknown,39,restore,33,1
+988,2001,,A3,12,clean,1,clean,,episode end,16,1
+989,2001,,A2,12,infected,1,unknown,15,restore,12,1
+990,2001,,A2,27,clean,1,clean,,episode end,44,1
+992,2001,,A1,24,infected,1,unknown,44,restore,34,1
+993,2001,,A1,6,clean,1,unknown,,episode end,9,1
+994,2001,,A1,14,infected,0,infected,,episode end,30,1
+996,2001,,A1,12,infected,1,unknown,,episode end,15,1
+0,2002,,A1,24,infected,1,unknown,32,restore,24,1
+1,2002,,A2,18,clean,1,unknown,,episode end,19,1
+2,2002,,A2,20,clean,1,unknown,,episode end,35,1
+3,2002,,A1,21,infected,1,infected,34,restore,31,1
+5,2002,,A1,9,infected,0,infected,38,restore,17,1
+10,2002,,A2,30,infected,1,unknown,35,restore,32,1
+10,2002,,A3,16,clean,1,clean,,episode end,16,1
+11,2002,,A3,2,infected,1,unknown,10,restore,7,1
+12,2002,,A3,24,clean,1,clean,,episode end,24,1
+15,2002,,A2,33,infected,1,clean,41,restore,33,1
+16,2002,,A2,4,clean,1,clean,,episode end,4,1
+18,2002,,A3,5,clean,1,unknown,,episode end,8,1
+19,2002,,A1,24,clean,1,unknown,25,spread,,0
+22,2002,,A1,14,clean,1,unknown,,episode end,26,1
+25,2002,,A1,37,clean,1,unknown,,episode end,37,1
+26,2002,,A3,33,infected,1,infected,,episode end,,0
+27,2002,,A1,23,clean,1,clean,,episode end,47,1
+27,2002,,A2,23,infected,1,unknown,35,restore,24,1
+28,2002,,A1,33,clean,1,unknown,,episode end,40,1
+28,2002,,A3,27,clean,1,clean,,episode end,27,1
+29,2002,,A1,4,clean,1,unknown,,episode end,10,1
+30,2002,,A3,7,clean,1,unknown,,episode end,12,1
+31,2002,,A3,18,infected,1,clean,,episode end,,0
+32,2002,,A1,26,clean,1,clean,,episode end,34,1
+33,2002,,A1,11,infected,1,clean,20,restore,17,1
+34,2002,,A1,23,clean,1,clean,,episode end,,0
+36,2002,,A3,10,infected,1,clean,,episode end,15,1
+37,2002,,A1,17,infected,0,infected,46,restore,33,1
+37,2002,,A2,24,clean,1,clean,,episode end,29,1
+38,2002,,A2,22,clean,1,unknown,,episode end,29,1
+38,2002,,A3,18,clean,1,unknown,,episode end,42,1
+40,2002,,A1,37,clean,1,unknown,,episode end,,0
+41,2002,,A1,12,infected,1,unknown,29,restore,26,1
+42,2002,,A2,4,infected,1,clean,7,restore,4,1
+44,2002,,A3,11,infected,1,clean,24,restore,21,1
+46,2002,,A1,3,infected,0,infected,23,restore,15,1
+46,2002,,A3,10,clean,1,unknown,,episode end,24,1
+50,2002,,A3,22,clean,1,unknown,,episode end,22,1
+51,2002,,A2,26,clean,1,unknown,,episode end,26,1
+51,2002,,A3,7,clean,1,unknown,,episode end,7,1
+54,2002,,A2,21,infected,1,unknown,,episode end,28,1
+55,2002,,A3,29,clean,1,unknown,,episode end,,0
+56,2002,,A3,19,clean,1,unknown,,episode end,20,1
+58,2002,,A2,32,clean,1,clean,,episode end,47,1
+60,2002,,A1,16,infected,1,unknown,,episode end,23,1
+60,2002,,A3,17,clean,1,unknown,,episode end,29,1
+63,2002,,A1,40,clean,1,unknown,,episode end,41,1
+64,2002,,A3,33,clean,1,clean,,episode end,43,1
+65,2002,,A3,13,clean,1,unknown,,episode end,22,1
+67,2002,,A1,38,clean,1,clean,,episode end,46,1
+68,2002,,A2,12,infected,1,unknown,,episode end,16,1
+68,2002,,A3,28,clean,1,unknown,,episode end,39,1
+69,2002,,A1,30,clean,1,unknown,,episode end,41,1
+70,2002,,A3,9,infected,1,unknown,21,restore,18,1
+71,2002,,A1,37,clean,1,unknown,,episode end,,0
+71,2002,,A3,20,clean,1,unknown,28,intrusion,,0
+74,2002,,A2,6,infected,1,unknown,10,restore,7,1
+75,2002,,A1,4,clean,1,unknown,,episode end,28,1
+76,2002,,A3,12,infected,1,unknown,17,restore,13,1
+78,2002,,A3,25,infected,1,clean,46,restore,43,1
+81,2002,,A1,13,clean,1,clean,,episode end,19,1
+82,2002,,A3,16,infected,1,infected,32,restore,29,1
+83,2002,,A1,37,clean,1,unknown,,episode end,42,1
+85,2002,,A2,9,infected,1,unknown,21,restore,13,1
+86,2002,,A2,16,clean,1,unknown,,episode end,40,1
+86,2002,,A3,30,clean,1,unknown,,episode end,32,1
+88,2002,,A1,30,infected,1,infected,43,restore,40,1
+89,2002,,A2,27,clean,1,clean,,episode end,,0
+91,2002,,A3,7,clean,1,unknown,,episode end,30,1
+92,2002,,A1,11,clean,1,unknown,,episode end,26,1
+93,2002,,A1,17,infected,1,clean,21,restore,18,1
+93,2002,,A3,15,clean,1,unknown,,episode end,16,1
+94,2002,,A3,16,infected,1,unknown,39,restore,16,1
+95,2002,,A1,20,infected,1,clean,,episode end,32,1
+96,2002,,A3,12,clean,1,clean,,episode end,18,1
+97,2002,,A1,9,clean,1,clean,,episode end,45,1
+97,2002,,A3,9,infected,1,unknown,17,restore,14,1
+98,2002,,A3,5,clean,1,unknown,,episode end,6,1
+99,2002,,A3,15,clean,1,clean,,episode end,31,1
+100,2002,,A1,27,infected,1,clean,38,restore,35,1
+102,2002,,A1,3,clean,1,unknown,,episode end,7,1
+102,2002,,A2,5,infected,1,infected,46,restore,19,1
+103,2002,,A1,27,infected,1,clean,,episode end,34,1
+103,2002,,A2,16,clean,1,unknown,,episode end,16,1
+103,2002,,A3,6,clean,1,unknown,,episode end,23,1
+104,2002,,A3,31,infected,1,infected,,episode end,31,1
+105,2002,,A2,41,clean,1,clean,,episode end,,0
+105,2002,,A3,8,clean,1,clean,32,spread,,0
+109,2002,,A1,33,clean,1,unknown,,episode end,,0
+112,2002,,A1,32,clean,1,clean,,episode end,43,1
+113,2002,,A2,24,infected,1,infected,38,restore,35,1
+113,2002,,A3,9,clean,1,unknown,,episode end,15,1
+114,2002,,A1,16,infected,1,unknown,19,restore,16,1
+115,2002,,A2,28,clean,1,unknown,,episode end,28,1
+115,2002,,A3,9,infected,1,unknown,27,restore,24,1
+116,2002,,A1,2,infected,0,infected,,episode end,3,1
+116,2002,,A2,34,clean,1,clean,,episode end,45,1
+117,2002,,A2,6,infected,1,unknown,18,restore,15,1
+119,2002,,A1,17,clean,1,unknown,,episode end,22,1
+120,2002,,A2,29,clean,1,unknown,,episode end,31,1
+121,2002,,A3,4,clean,1,unknown,23,intrusion,5,1
+122,2002,,A3,35,clean,1,unknown,,episode end,35,1
+123,2002,,A1,17,clean,1,unknown,,episode end,41,1
+124,2002,,A1,20,infected,1,unknown,45,restore,38,1
+125,2002,,A2,22,clean,1,unknown,,episode end,25,1
+126,2002,,A2,13,clean,1,unknown,,episode end,,0
+127,2002,,A3,4,clean,1,unknown,,episode end,21,1
+128,2002,,A2,10,clean,1,clean,,episode end,49,1
+132,2002,,A2,4,clean,1,unknown,,episode end,17,1
+132,2002,,A3,17,clean,1,clean,,episode end,27,1
+133,2002,,A2,23,clean,1,unknown,,episode end,35,1
+134,2002,,A3,13,clean,1,unknown,,episode end,30,1
+138,2002,,A1,23,clean,1,clean,,episode end,38,1
+138,2002,,A3,13,clean,1,unknown,,episode end,19,1
+139,2002,,A1,20,clean,1,clean,,episode end,32,1
+139,2002,,A2,12,infected,1,clean,29,restore,25,1
+139,2002,,A3,3,clean,1,unknown,,episode end,8,1
+141,2002,,A1,34,infected,1,unknown,38,restore,35,1
+143,2002,,A1,25,infected,1,clean,38,restore,35,1
+144,2002,,A1,36,clean,1,clean,,episode end,42,1
+144,2002,,A2,32,infected,1,unknown,,episode end,,0
+144,2002,,A3,14,clean,1,clean,,episode end,25,1
+146,2002,,A2,13,clean,1,unknown,23,intrusion,13,1
+147,2002,,A2,6,clean,1,unknown,,episode end,9,1
+148,2002,,A3,35,infected,0,infected,46,restore,43,1
+149,2002,,A2,5,clean,1,unknown,,episode end,9,1
+150,2002,,A1,38,clean,1,clean,,episode end,,0
+151,2002,,A2,20,clean,1,unknown,,episode end,28,1
+151,2002,,A3,6,infected,1,unknown,38,restore,32,1
+153,2002,,A2,26,clean,1,clean,28,intrusion,,0
+154,2002,,A1,15,clean,1,clean,,episode end,19,1
+154,2002,,A2,20,clean,1,clean,,episode end,29,1
+154,2002,,A3,14,infected,1,unknown,23,restore,20,1
+155,2002,,A2,6,clean,1,clean,,episode end,9,1
+156,2002,,A3,22,clean,1,unknown,,episode end,27,1
+157,2002,,A3,21,infected,1,unknown,28,restore,25,1
+159,2002,,A1,2,infected,1,infected,,episode end,32,1
+160,2002,,A2,7,infected,0,infected,10,restore,7,1
+161,2002,,A3,20,clean,1,clean,,episode end,22,1
+162,2002,,A2,7,clean,1,unknown,,episode end,26,1
+162,2002,,A3,20,clean,1,unknown,,episode end,28,1
+163,2002,,A1,4,clean,1,unknown,19,intrusion,10,1
+165,2002,,A2,26,clean,1,unknown,,episode end,37,1
+167,2002,,A1,27,infected,0,infected,,episode end,47,1
+167,2002,,A3,25,clean,1,clean,,episode end,29,1
+169,2002,,A1,14,infected,0,infected,20,restore,16,1
+170,2002,,A1,18,clean,1,unknown,,episode end,21,1
+172,2002,,A3,5,clean,1,unknown,,episode end,10,1
+173,2002,,A2,16,clean,1,unknown,,episode end,19,1
+174,2002,,A1,28,infected,1,unknown,33,restore,30,1
+175,2002,,A2,13,clean,1,unknown,,episode end,24,1
+176,2002,,A2,26,clean,1,unknown,,episode end,49,1
+179,2002,,A3,4,clean,1,clean,22,intrusion,10,1
+182,2002,,A1,13,clean,1,clean,,episode end,32,1
+182,2002,,A3,37,clean,1,unknown,,episode end,,0
+183,2002,,A3,23,infected,1,infected,37,restore,23,1
+185,2002,,A2,39,clean,1,clean,,episode end,39,1
+187,2002,,A3,35,clean,1,clean,,episode end,49,1
+189,2002,,A1,7,infected,1,unknown,49,restore,35,1
+190,2002,,A3,34,clean,1,unknown,,episode end,40,1
+191,2002,,A2,14,infected,1,unknown,39,restore,18,1
+192,2002,,A2,15,infected,1,unknown,27,restore,18,1
+193,2002,,A2,9,infected,0,infected,12,restore,9,1
+194,2002,,A3,31,clean,1,clean,,episode end,40,1
+195,2002,,A2,11,clean,1,unknown,,episode end,17,1
+196,2002,,A2,13,clean,1,unknown,,episode end,21,1
+197,2002,,A1,9,clean,1,unknown,,episode end,38,1
+198,2002,,A2,26,clean,1,clean,,episode end,38,1
+198,2002,,A3,4,clean,1,unknown,,episode end,6,1
+199,2002,,A2,20,infected,1,unknown,33,restore,21,1
+202,2002,,A1,5,clean,1,unknown,29,intrusion,5,1
+203,2002,,A3,11,infected,1,clean,24,restore,17,1
+204,2002,,A1,4,infected,1,unknown,32,restore,29,1
+204,2002,,A2,27,clean,1,clean,,episode end,,0
+205,2002,,A1,7,clean,1,unknown,,episode end,11,1
+209,2002,,A1,49,infected,1,unknown,,episode end,,0
+209,2002,,A2,3,clean,1,unknown,,episode end,7,1
+211,2002,,A2,22,infected,1,unknown,25,restore,22,1
+212,2002,,A2,20,clean,1,clean,,episode end,24,1
+213,2002,,A2,14,infected,1,clean,,episode end,24,1
+214,2002,,A3,8,infected,1,unknown,22,restore,17,1
+216,2002,,A1,9,infected,1,unknown,21,restore,18,1
+216,2002,,A2,7,clean,1,unknown,,episode end,17,1
+218,2002,,A2,5,clean,1,unknown,11,intrusion,,0
+220,2002,,A2,9,clean,1,unknown,,episode end,17,1
+222,2002,,A3,22,clean,1,unknown,,episode end,22,1
+224,2002,,A3,18,infected,1,clean,,episode end,,0
+227,2002,,A2,20,clean,1,unknown,,episode end,20,1
+229,2002,,A3,32,infected,1,unknown,,episode end,,0
+230,2002,,A2,21,clean,1,unknown,,episode end,23,1
+232,2002,,A3,27,infected,1,clean,38,restore,35,1
+234,2002,,A1,13,clean,1,unknown,,episode end,14,1
+236,2002,,A1,31,clean,1,unknown,,episode end,,0
+238,2002,,A2,4,infected,1,unknown,28,restore,11,1
+239,2002,,A3,14,clean,1,unknown,,episode end,16,1
+244,2002,,A2,21,clean,1,clean,,episode end,22,1
+245,2002,,A3,7,infected,1,unknown,32,restore,15,1
+247,2002,,A1,3,infected,0,infected,13,restore,9,1
+247,2002,,A2,31,clean,1,clean,,episode end,31,1
+248,2002,,A1,46,infected,0,infected,,episode end,,0
+249,2002,,A2,8,clean,1,unknown,,episode end,8,1
+251,2002,,A1,17,infected,1,unknown,40,restore,37,1
+251,2002,,A2,27,clean,1,unknown,,episode end,41,1
+252,2002,,A2,32,clean,1,unknown,,episode end,36,1
+254,2002,,A1,10,clean,1,unknown,,episode end,29,1
+257,2002,,A1,7,infected,1,unknown,10,restore,7,1
+258,2002,,A2,21,infected,1,clean,,episode end,23,1
+259,2002,,A1,2,infected,0,infected,,episode end,,0
+259,2002,,A2,39,clean,1,clean,,episode end,,0
+263,2002,,A2,14,infected,0,infected,,episode end,37,1
+265,2002,,A2,4,infected,1,unknown,9,restore,6,1
+266,2002,,A1,3,clean,1,unknown,,episode end,3,1
+267,2002,,A1,9,clean,1,unknown,27,intrusion,10,1
+269,2002,,A2,6,infected,1,unknown,10,restore,7,1
+269,2002,,A3,41,clean,1,clean,,episode end,45,1
+272,2002,,A3,4,clean,1,unknown,,episode end,10,1
+273,2002,,A2,5,infected,1,unknown,12,restore,9,1
+277,2002,,A3,14,clean,1,unknown,,episode end,27,1
+282,2002,,A2,33,clean,1,unknown,,episode end,40,1
+282,2002,,A3,12,infected,1,unknown,39,restore,36,1
+283,2002,,A3,11,clean,1,unknown,,episode end,13,1
+286,2002,,A3,47,clean,1,clean,,episode end,47,1
+287,2002,,A1,35,clean,1,unknown,,episode end,39,1
+288,2002,,A1,21,clean,1,clean,,episode end,22,1
+289,2002,,A3,35,clean,1,clean,,episode end,39,1
+291,2002,,A2,35,clean,1,unknown,,episode end,,0
+293,2002,,A1,22,clean,1,clean,30,intrusion,,0
+293,2002,,A2,12,clean,1,clean,,episode end,21,1
+294,2002,,A1,19,clean,1,clean,,episode end,24,1
+296,2002,,A1,8,infected,1,unknown,34,restore,14,1
+296,2002,,A2,30,clean,1,clean,,episode end,35,1
+297,2002,,A1,45,infected,0,infected,,episode end,,0
+299,2002,,A2,41,infected,1,clean,,episode end,47,1
+299,2002,,A3,27,clean,1,clean,,episode end,31,1
+301,2002,,A3,33,clean,1,unknown,,episode end,37,1
+302,2002,,A3,32,infected,0,infected,,episode end,,0
+306,2002,,A3,3,clean,1,unknown,20,intrusion,3,1
+307,2002,,A3,33,clean,1,unknown,,episode end,,0
+309,2002,,A2,28,clean,1,clean,,episode end,33,1
+309,2002,,A3,33,infected,1,unknown,,episode end,45,1
+314,2002,,A1,3,clean,1,unknown,,episode end,8,1
+315,2002,,A3,23,infected,1,unknown,,episode end,44,1
+318,2002,,A3,27,clean,1,unknown,,episode end,31,1
+319,2002,,A1,30,clean,1,unknown,,episode end,32,1
+321,2002,,A1,5,clean,1,unknown,,episode end,11,1
+321,2002,,A3,41,infected,0,infected,,episode end,46,1
+322,2002,,A1,20,clean,1,clean,,episode end,28,1
+324,2002,,A1,6,clean,1,unknown,,episode end,14,1
+326,2002,,A2,9,infected,1,unknown,27,restore,24,1
+327,2002,,A3,31,clean,1,clean,,episode end,,0
+328,2002,,A1,20,clean,1,clean,,episode end,28,1
+332,2002,,A3,13,clean,1,unknown,,episode end,30,1
+333,2002,,A1,8,infected,1,unknown,14,restore,11,1
+334,2002,,A2,5,clean,1,unknown,,episode end,7,1
+334,2002,,A3,17,clean,1,clean,,episode end,26,1
+338,2002,,A1,30,infected,1,clean,39,restore,31,1
+338,2002,,A3,25,clean,1,clean,,episode end,26,1
+339,2002,,A2,25,clean,1,unknown,,episode end,30,1
+340,2002,,A2,8,clean,1,unknown,,episode end,8,1
+340,2002,,A3,28,clean,1,unknown,,episode end,29,1
+342,2002,,A1,7,clean,1,unknown,,episode end,9,1
+343,2002,,A2,6,clean,1,unknown,,episode end,20,1
+344,2002,,A2,6,clean,1,unknown,,episode end,15,1
+345,2002,,A2,41,infected,1,clean,,episode end,45,1
+348,2002,,A3,17,clean,1,unknown,,episode end,31,1
+349,2002,,A1,2,clean,1,unknown,,episode end,34,1
+350,2002,,A3,39,clean,1,clean,,episode end,,0
+351,2002,,A1,3,clean,1,unknown,,episode end,3,1
+352,2002,,A1,34,clean,1,unknown,,episode end,34,1
+357,2002,,A2,2,clean,1,unknown,2,spread,,0
+358,2002,,A3,8,infected,0,infected,,episode end,,0
+359,2002,,A2,4,infected,1,unknown,41,restore,19,1
+360,2002,,A1,45,clean,1,unknown,,episode end,,0
+361,2002,,A1,35,clean,1,unknown,,episode end,44,1
+361,2002,,A2,9,infected,1,infected,12,restore,9,1
+362,2002,,A2,4,clean,1,unknown,,episode end,8,1
+362,2002,,A3,22,clean,1,unknown,,episode end,23,1
+363,2002,,A3,22,clean,1,clean,,episode end,28,1
+364,2002,,A2,6,infected,1,unknown,10,restore,6,1
+364,2002,,A3,15,clean,1,clean,,episode end,37,1
+365,2002,,A1,19,clean,1,clean,,episode end,22,1
+365,2002,,A3,27,infected,1,clean,,episode end,40,1
+366,2002,,A2,17,infected,1,clean,33,restore,30,1
+368,2002,,A2,7,clean,1,clean,28,intrusion,20,1
+370,2002,,A1,14,clean,1,unknown,,episode end,34,1
+371,2002,,A1,4,infected,1,unknown,11,restore,8,1
+371,2002,,A3,30,clean,1,unknown,,episode end,30,1
+372,2002,,A3,30,infected,1,infected,,episode end,48,1
+373,2002,,A1,4,clean,1,unknown,34,spread,,0
+375,2002,,A1,29,infected,0,infected,,episode end,29,1
+378,2002,,A2,23,clean,1,clean,,episode end,27,1
+379,2002,,A1,12,infected,1,unknown,,episode end,49,1
+381,2002,,A1,20,infected,1,unknown,35,restore,32,1
+384,2002,,A2,27,clean,1,unknown,,episode end,46,1
+386,2002,,A1,21,infected,1,unknown,,episode end,,0
+388,2002,,A2,28,infected,0,infected,,episode end,33,1
+389,2002,,A3,4,clean,1,unknown,,episode end,14,1
+390,2002,,A2,39,clean,1,unknown,,episode end,,0
+390,2002,,A3,38,infected,1,unknown,,episode end,43,1
+391,2002,,A1,17,infected,1,clean,21,restore,18,1
+391,2002,,A3,10,clean,1,clean,,episode end,26,1
+395,2002,,A1,9,clean,1,unknown,,episode end,12,1
+398,2002,,A2,32,clean,1,clean,,episode end,39,1
+399,2002,,A3,7,clean,1,clean,,episode end,13,1
+401,2002,,A2,34,clean,1,unknown,,episode end,36,1
+402,2002,,A2,16,infected,1,unknown,34,restore,31,1
+402,2002,,A3,5,clean,1,unknown,,episode end,20,1
+403,2002,,A1,6,infected,1,unknown,9,restore,6,1
+406,2002,,A2,24,clean,1,clean,,episode end,26,1
+406,2002,,A3,11,infected,1,unknown,30,restore,27,1
+407,2002,,A1,26,infected,1,unknown,37,restore,32,1
+407,2002,,A2,13,clean,1,clean,,episode end,20,1
+410,2002,,A2,44,infected,1,clean,,episode end,48,1
+411,2002,,A3,20,clean,1,clean,,episode end,22,1
+412,2002,,A1,12,infected,1,unknown,29,restore,26,1
+412,2002,,A3,36,clean,1,unknown,,episode end,,0
+413,2002,,A2,6,clean,1,unknown,30,intrusion,6,1
+414,2002,,A3,5,clean,1,unknown,,episode end,6,1
+415,2002,,A2,15,clean,1,unknown,38,spread,19,1
+417,2002,,A1,11,clean,1,unknown,,episode end,22,1
+418,2002,,A3,46,infected,0,infected,,episode end,,0
+419,2002,,A1,30,clean,1,clean,,episode end,33,1
+420,2002,,A2,13,clean,1,unknown,,episode end,19,1
+421,2002,,A3,25,clean,1,clean,,episode end,43,1
+423,2002,,A2,23,clean,1,clean,,episode end,25,1
+424,2002,,A3,5,infected,1,unknown,8,restore,5,1
+425,2002,,A3,36,infected,0,infected,,episode end,36,1
+426,2002,,A2,28,clean,1,unknown,,episode end,45,1
+426,2002,,A3,10,infected,1,clean,,episode end,10,1
+427,2002,,A1,5,infected,1,unknown,21,restore,6,1
+427,2002,,A2,22,clean,1,clean,,episode end,22,1
+428,2002,,A3,36,clean,1,clean,,episode end,36,1
+429,2002,,A3,11,infected,1,clean,32,restore,29,1
+431,2002,,A1,14,infected,0,infected,17,restore,14,1
+433,2002,,A2,18,clean,1,unknown,,episode end,22,1
+434,2002,,A1,8,clean,1,unknown,,episode end,8,1
+434,2002,,A3,4,infected,1,unknown,27,restore,17,1
+435,2002,,A3,5,clean,1,unknown,,episode end,16,1
+436,2002,,A3,29,clean,1,unknown,,episode end,33,1
+437,2002,,A1,13,clean,1,clean,,episode end,13,1
+437,2002,,A2,16,infected,1,clean,33,restore,30,1
+440,2002,,A3,11,clean,1,clean,,episode end,40,1
+441,2002,,A1,7,clean,1,clean,,episode end,39,1
+442,2002,,A1,26,clean,1,clean,,episode end,27,1
+442,2002,,A3,35,infected,0,infected,,episode end,,0
+443,2002,,A2,32,clean,1,clean,,episode end,,0
+443,2002,,A3,3,infected,0,infected,12,restore,6,1
+447,2002,,A1,8,clean,1,unknown,,episode end,27,1
+447,2002,,A2,17,clean,1,unknown,,episode end,37,1
+448,2002,,A3,26,clean,1,clean,,episode end,32,1
+449,2002,,A1,22,clean,1,clean,,episode end,24,1
+451,2002,,A3,27,clean,1,unknown,,episode end,39,1
+452,2002,,A2,5,clean,1,unknown,,episode end,33,1
+454,2002,,A2,8,infected,1,infected,47,restore,25,1
+457,2002,,A2,9,clean,1,unknown,,episode end,32,1
+458,2002,,A2,19,infected,1,infected,37,restore,32,1
+458,2002,,A3,17,clean,1,unknown,,episode end,38,1
+460,2002,,A1,5,clean,1,unknown,,episode end,38,1
+462,2002,,A2,2,clean,1,unknown,,episode end,2,1
+464,2002,,A3,8,clean,1,unknown,27,intrusion,8,1
+465,2002,,A1,22,infected,1,clean,,episode end,47,1
+465,2002,,A3,34,clean,1,clean,,episode end,34,1
+466,2002,,A2,38,clean,1,clean,,episode end,38,1
+466,2002,,A3,33,infected,1,infected,44,restore,41,1
+467,2002,,A2,7,clean,1,clean,,episode end,36,1
+471,2002,,A1,43,clean,1,unknown,,episode end,48,1
+473,2002,,A1,15,clean,1,unknown,,episode end,44,1
+473,2002,,A3,39,infected,1,unknown,,episode end,49,1
+474,2002,,A2,22,infected,1,unknown,36,restore,33,1
+475,2002,,A3,7,clean,1,unknown,,episode end,8,1
+477,2002,,A3,20,clean,1,clean,,episode end,20,1
+480,2002,,A1,39,clean,1,clean,,episode end,,0
+480,2002,,A2,21,infected,1,clean,33,restore,30,1
+482,2002,,A1,12,infected,1,unknown,,episode end,35,1
+482,2002,,A2,14,clean,1,unknown,,episode end,17,1
+483,2002,,A1,13,infected,1,clean,37,restore,34,1
+484,2002,,A3,3,clean,1,unknown,8,intrusion,,0
+485,2002,,A2,42,infected,1,unknown,,episode end,,0
+485,2002,,A3,7,clean,1,unknown,,episode end,18,1
+486,2002,,A2,24,clean,1,clean,,episode end,29,1
+487,2002,,A2,4,clean,1,unknown,9,intrusion,7,1
+489,2002,,A2,26,clean,1,unknown,,episode end,34,1
+489,2002,,A3,28,clean,1,clean,,episode end,45,1
+491,2002,,A2,27,clean,1,unknown,,episode end,38,1
+493,2002,,A3,31,infected,1,infected,,episode end,45,1
+496,2002,,A3,4,clean,1,unknown,,episode end,8,1
+498,2002,,A2,18,infected,1,infected,44,restore,20,1
+500,2002,,A2,4,clean,1,unknown,,episode end,4,1
+501,2002,,A3,14,infected,1,unknown,,episode end,15,1
+502,2002,,A3,31,clean,1,unknown,,episode end,44,1
+503,2002,,A2,16,infected,1,unknown,26,restore,23,1
+503,2002,,A3,31,clean,1,clean,,episode end,,0
+504,2002,,A2,12,clean,1,unknown,,episode end,38,1
+505,2002,,A2,18,infected,1,infected,32,restore,29,1
+505,2002,,A3,14,clean,1,clean,,episode end,19,1
+507,2002,,A1,32,clean,1,unknown,,episode end,37,1
+507,2002,,A2,5,infected,1,unknown,,episode end,20,1
+509,2002,,A2,46,infected,0,infected,,episode end,46,1
+513,2002,,A3,16,infected,1,clean,25,restore,22,1
+515,2002,,A1,39,clean,1,unknown,,episode end,,0
+517,2002,,A1,10,infected,1,unknown,,episode end,10,1
+518,2002,,A1,8,clean,1,unknown,,episode end,14,1
+520,2002,,A1,6,clean,1,unknown,,episode end,20,1
+520,2002,,A3,30,infected,1,clean,,episode end,,0
+522,2002,,A1,11,clean,1,unknown,,episode end,11,1
+523,2002,,A3,15,clean,1,unknown,,episode end,17,1
+525,2002,,A2,15,clean,1,unknown,,episode end,19,1
+529,2002,,A2,13,infected,1,unknown,23,restore,20,1
+531,2002,,A3,27,clean,1,unknown,,episode end,37,1
+532,2002,,A2,8,infected,1,unknown,24,restore,21,1
+534,2002,,A1,6,infected,1,unknown,,episode end,17,1
+535,2002,,A2,7,clean,1,unknown,,episode end,13,1
+536,2002,,A3,14,infected,1,unknown,,episode end,19,1
+537,2002,,A2,27,clean,1,unknown,,episode end,36,1
+537,2002,,A3,26,infected,0,infected,30,restore,27,1
+538,2002,,A3,17,clean,1,clean,,episode end,25,1
+540,2002,,A2,3,infected,1,unknown,45,restore,5,1
+540,2002,,A3,48,clean,1,unknown,,episode end,,0
+541,2002,,A1,16,clean,1,unknown,,episode end,28,1
+541,2002,,A2,10,infected,1,unknown,,episode end,39,1
+542,2002,,A2,10,clean,1,unknown,,episode end,10,1
+544,2002,,A2,6,infected,1,unknown,10,restore,6,1
+545,2002,,A3,15,clean,1,unknown,,episode end,15,1
+546,2002,,A1,4,clean,1,unknown,,episode end,22,1
+547,2002,,A3,33,clean,1,unknown,,episode end,,0
+549,2002,,A3,16,clean,1,unknown,,episode end,16,1
+550,2002,,A3,12,infected,1,clean,,episode end,,0
+551,2002,,A3,28,clean,1,unknown,,episode end,28,1
+552,2002,,A2,36,clean,1,unknown,,episode end,,0
+553,2002,,A2,10,clean,1,unknown,,episode end,13,1
+555,2002,,A3,6,infected,1,unknown,9,restore,6,1
+556,2002,,A1,11,infected,1,clean,36,restore,20,1
+558,2002,,A2,23,infected,0,infected,26,restore,23,1
+559,2002,,A1,18,clean,1,clean,,episode end,22,1
+559,2002,,A2,22,clean,1,clean,,episode end,39,1
+560,2002,,A3,20,infected,1,unknown,23,restore,20,1
+562,2002,,A3,25,clean,1,unknown,,episode end,35,1
+563,2002,,A2,20,clean,1,unknown,23,intrusion,,0
+564,2002,,A2,13,infected,1,unknown,,episode end,22,1
+564,2002,,A3,11,clean,1,unknown,,episode end,11,1
+568,2002,,A3,39,clean,1,clean,,episode end,39,1
+569,2002,,A2,26,clean,1,clean,,episode end,35,1
+570,2002,,A3,37,clean,1,unknown,,episode end,44,1
+571,2002,,A1,49,clean,1,unknown,,episode end,,0
+573,2002,,A3,30,infected,1,infected,41,restore,38,1
+574,2002,,A2,6,clean,1,unknown,24,intrusion,14,1
+578,2002,,A3,23,infected,0,infected,,episode end,25,1
+579,2002,,A1,48,infected,0,infected,,episode end,,0
+579,2002,,A2,16,clean,1,unknown,,episode end,20,1
+580,2002,,A1,16,clean,1,clean,,episode end,26,1
+583,2002,,A2,8,infected,1,unknown,20,restore,17,1
+586,2002,,A1,41,infected,1,clean,,episode end,,0
+587,2002,,A3,6,clean,1,unknown,,episode end,15,1
+589,2002,,A2,35,clean,1,unknown,,episode end,43,1
+590,2002,,A1,24,clean,1,unknown,,episode end,25,1
+591,2002,,A3,17,clean,1,clean,,episode end,22,1
+592,2002,,A3,22,clean,1,unknown,,episode end,,0
+593,2002,,A1,20,infected,1,unknown,37,restore,34,1
+594,2002,,A1,20,clean,1,unknown,,episode end,30,1
+597,2002,,A2,38,clean,1,unknown,,episode end,42,1
+599,2002,,A2,25,clean,1,unknown,,episode end,42,1
+600,2002,,A1,4,clean,1,unknown,,episode end,33,1
+600,2002,,A2,4,clean,1,clean,,episode end,5,1
+602,2002,,A3,23,clean,1,clean,,episode end,26,1
+603,2002,,A1,16,clean,1,unknown,21,intrusion,,0
+607,2002,,A2,6,infected,1,unknown,13,restore,10,1
+611,2002,,A1,22,clean,1,unknown,,episode end,27,1
+611,2002,,A2,22,clean,1,clean,,episode end,40,1
+614,2002,,A3,19,clean,1,clean,,episode end,19,1
+615,2002,,A2,35,clean,1,unknown,,episode end,36,1
+615,2002,,A3,20,clean,1,unknown,,episode end,37,1
+616,2002,,A3,9,clean,1,unknown,,episode end,11,1
+619,2002,,A1,28,infected,1,infected,,episode end,34,1
+620,2002,,A2,24,clean,1,unknown,,episode end,49,1
+622,2002,,A2,32,infected,1,clean,,episode end,,0
+623,2002,,A3,6,infected,1,clean,9,restore,6,1
+624,2002,,A3,35,clean,1,clean,,episode end,,0
+625,2002,,A2,10,infected,1,clean,33,restore,15,1
+631,2002,,A3,14,clean,1,clean,23,intrusion,21,1
+633,2002,,A1,27,clean,1,unknown,,episode end,27,1
+634,2002,,A1,24,clean,1,unknown,,episode end,31,1
+634,2002,,A2,19,infected,1,unknown,,episode end,47,1
+635,2002,,A3,10,infected,1,clean,47,restore,43,1
+637,2002,,A3,19,clean,1,unknown,22,intrusion,,0
+638,2002,,A2,34,clean,1,clean,,episode end,46,1
+639,2002,,A1,5,clean,1,unknown,,episode end,5,1
+639,2002,,A2,6,infected,1,unknown,26,restore,23,1
+640,2002,,A3,6,infected,1,unknown,10,restore,7,1
+641,2002,,A1,13,clean,1,unknown,,episode end,26,1
+643,2002,,A2,21,clean,1,unknown,23,intrusion,,0
+643,2002,,A3,6,clean,1,unknown,,episode end,10,1
+644,2002,,A2,40,infected,0,infected,49,restore,46,1
+645,2002,,A2,26,infected,1,clean,,episode end,34,1
+645,2002,,A3,22,clean,1,unknown,,episode end,28,1
+647,2002,,A3,18,infected,1,unknown,42,restore,39,1
+648,2002,,A3,30,clean,1,unknown,,episode end,,0
+649,2002,,A2,24,infected,1,unknown,41,restore,38,1
+649,2002,,A3,16,clean,1,unknown,,episode end,23,1
+652,2002,,A1,11,clean,1,unknown,,episode end,16,1
+653,2002,,A2,22,clean,1,unknown,,episode end,22,1
+654,2002,,A2,5,clean,1,unknown,,episode end,30,1
+656,2002,,A3,38,clean,1,unknown,,episode end,39,1
+658,2002,,A3,10,clean,1,unknown,,episode end,26,1
+659,2002,,A2,19,infected,1,unknown,,episode end,19,1
+660,2002,,A2,11,clean,1,unknown,,episode end,12,1
+663,2002,,A2,17,clean,1,clean,,episode end,27,1
+663,2002,,A3,11,clean,1,unknown,,episode end,11,1
+664,2002,,A2,6,clean,1,clean,,episode end,6,1
+666,2002,,A1,5,clean,1,unknown,22,intrusion,12,1
+667,2002,,A2,42,clean,1,unknown,,episode end,42,1
+668,2002,,A3,19,clean,1,clean,,episode end,27,1
+669,2002,,A1,35,infected,1,clean,,episode end,,0
+671,2002,,A1,13,clean,1,unknown,,episode end,26,1
+672,2002,,A3,4,clean,1,unknown,,episode end,,0
+673,2002,,A1,6,infected,1,unknown,25,restore,22,1
+675,2002,,A2,17,clean,1,unknown,48,spread,17,1
+677,2002,,A1,31,infected,1,unknown,42,restore,39,1
+678,2002,,A3,8,infected,1,clean,11,restore,8,1
+680,2002,,A2,34,infected,1,unknown,37,restore,34,1
+682,2002,,A1,6,clean,1,clean,,episode end,18,1
+684,2002,,A3,40,infected,1,unknown,,episode end,,0
+685,2002,,A3,4,infected,1,unknown,,episode end,32,1
+686,2002,,A1,6,infected,1,unknown,12,restore,9,1
+688,2002,,A1,16,clean,1,clean,,episode end,,0
+688,2002,,A2,12,infected,1,unknown,31,restore,28,1
+690,2002,,A3,29,clean,1,clean,,episode end,32,1
+691,2002,,A3,20,clean,1,unknown,,episode end,,0
+693,2002,,A1,15,infected,1,infected,33,restore,30,1
+696,2002,,A1,35,infected,1,clean,45,restore,42,1
+697,2002,,A3,7,clean,1,clean,14,spread,,0
+698,2002,,A1,14,clean,1,clean,,episode end,19,1
+698,2002,,A2,31,clean,1,unknown,,episode end,43,1
+698,2002,,A3,14,infected,1,clean,,episode end,18,1
+701,2002,,A1,38,clean,1,clean,,episode end,40,1
+702,2002,,A2,43,clean,1,unknown,,episode end,49,1
+703,2002,,A2,26,infected,1,clean,,episode end,,0
+703,2002,,A3,18,clean,1,unknown,,episode end,22,1
+704,2002,,A1,5,clean,1,unknown,,episode end,28,1
+705,2002,,A2,29,clean,1,clean,,episode end,35,1
+707,2002,,A1,15,clean,1,unknown,,episode end,23,1
+710,2002,,A2,11,clean,1,unknown,,episode end,28,1
+711,2002,,A2,7,infected,1,unknown,,episode end,30,1
+712,2002,,A2,7,clean,1,unknown,,episode end,27,1
+713,2002,,A1,28,clean,1,unknown,,episode end,,0
+713,2002,,A2,6,clean,1,unknown,28,intrusion,22,1
+716,2002,,A3,8,infected,1,unknown,22,restore,19,1
+717,2002,,A1,16,infected,1,clean,19,restore,16,1
+721,2002,,A2,11,clean,1,clean,24,intrusion,19,1
+723,2002,,A2,38,clean,1,unknown,,episode end,,0
+726,2002,,A2,23,infected,0,infected,38,restore,34,1
+727,2002,,A2,4,clean,1,unknown,,episode end,10,1
+728,2002,,A2,34,infected,0,infected,,episode end,48,1
+729,2002,,A3,30,clean,1,clean,,episode end,40,1
+731,2002,,A3,14,infected,1,unknown,,episode end,19,1
+732,2002,,A3,37,clean,1,clean,,episode end,39,1
+733,2002,,A2,4,clean,1,unknown,,episode end,8,1
+735,2002,,A1,36,clean,1,unknown,,episode end,43,1
+738,2002,,A2,37,clean,1,unknown,,episode end,41,1
+738,2002,,A3,35,infected,1,clean,45,restore,38,1
+740,2002,,A1,15,clean,1,clean,,episode end,37,1
+740,2002,,A2,9,infected,1,unknown,25,restore,12,1
+741,2002,,A2,35,infected,1,unknown,44,restore,41,1
+742,2002,,A1,10,clean,1,unknown,28,intrusion,15,1
+742,2002,,A2,6,clean,1,unknown,,episode end,11,1
+746,2002,,A3,48,clean,1,unknown,,episode end,,0
+748,2002,,A3,10,clean,1,unknown,,episode end,19,1
+750,2002,,A1,43,clean,1,unknown,,episode end,45,1
+750,2002,,A2,21,clean,1,unknown,,episode end,36,1
+751,2002,,A3,22,clean,1,clean,,episode end,33,1
+752,2002,,A1,10,clean,1,clean,,episode end,26,1
+753,2002,,A1,30,clean,1,clean,36,spread,,0
+754,2002,,A2,12,infected,1,unknown,20,restore,17,1
+755,2002,,A1,27,clean,1,unknown,,episode end,40,1
+755,2002,,A2,6,infected,1,unknown,47,restore,6,1
+756,2002,,A1,18,clean,1,clean,,episode end,21,1
+757,2002,,A1,33,clean,1,unknown,,episode end,41,1
+757,2002,,A2,47,clean,1,unknown,,episode end,,0
+759,2002,,A1,8,clean,1,unknown,18,intrusion,8,1
+760,2002,,A1,24,infected,0,infected,38,restore,35,1
+761,2002,,A1,21,infected,1,unknown,24,restore,21,1
+761,2002,,A2,25,clean,1,unknown,,episode end,42,1
+762,2002,,A2,32,clean,1,clean,,episode end,33,1
+763,2002,,A2,22,infected,1,infected,,episode end,49,1
+764,2002,,A1,39,clean,1,unknown,,episode end,,0
+766,2002,,A2,8,clean,1,unknown,,episode end,10,1
+766,2002,,A3,14,infected,1,clean,34,restore,14,1
+768,2002,,A1,8,clean,1,unknown,,episode end,44,1
+768,2002,,A3,8,clean,1,unknown,25,intrusion,8,1
+771,2002,,A2,37,clean,1,unknown,,episode end,40,1
+772,2002,,A2,11,clean,1,clean,,episode end,27,1
+774,2002,,A3,30,clean,1,unknown,,episode end,30,1
+775,2002,,A3,38,infected,1,unknown,,episode end,41,1
+779,2002,,A1,35,infected,0,infected,42,restore,39,1
+781,2002,,A1,15,clean,1,unknown,,episode end,15,1
+783,2002,,A2,22,clean,1,unknown,,episode end,22,1
+784,2002,,A2,19,clean,1,unknown,,episode end,21,1
+784,2002,,A3,15,clean,1,unknown,,episode end,32,1
+786,2002,,A2,35,clean,1,clean,,episode end,44,1
+786,2002,,A3,4,clean,1,unknown,,episode end,4,1
+788,2002,,A1,15,infected,1,infected,49,restore,33,1
+789,2002,,A1,15,infected,1,clean,28,restore,16,1
+789,2002,,A2,29,clean,1,unknown,,episode end,31,1
+791,2002,,A3,19,clean,1,unknown,,episode end,19,1
+793,2002,,A3,17,clean,1,unknown,,episode end,29,1
+795,2002,,A3,23,infected,1,unknown,35,restore,32,1
+796,2002,,A1,8,clean,1,unknown,16,intrusion,12,1
+797,2002,,A1,34,clean,1,clean,,episode end,34,1
+797,2002,,A3,31,clean,1,unknown,,episode end,,0
+798,2002,,A3,49,infected,0,infected,,episode end,49,1
+799,2002,,A2,27,clean,1,unknown,,episode end,27,1
+801,2002,,A3,34,clean,1,clean,,episode end,37,1
+803,2002,,A2,32,clean,1,unknown,,episode end,32,1
+804,2002,,A1,9,infected,1,unknown,36,restore,33,1
+805,2002,,A3,4,clean,1,unknown,,episode end,8,1
+808,2002,,A1,12,infected,1,infected,32,restore,29,1
+810,2002,,A3,22,clean,1,clean,,episode end,22,1
+811,2002,,A3,34,clean,1,unknown,,episode end,41,1
+812,2002,,A3,3,infected,1,unknown,,episode end,7,1
+813,2002,,A1,4,infected,1,unknown,20,restore,17,1
+814,2002,,A1,2,infected,1,unknown,10,restore,7,1
+815,2002,,A3,16,infected,1,clean,44,restore,35,1
+816,2002,,A1,24,clean,1,unknown,,episode end,34,1
+817,2002,,A1,7,infected,1,unknown,10,restore,7,1
+817,2002,,A2,18,clean,1,unknown,,episode end,18,1
+818,2002,,A2,31,clean,1,unknown,,episode end,35,1
+819,2002,,A3,28,clean,1,clean,,episode end,29,1
+821,2002,,A1,8,infected,1,unknown,11,restore,8,1
+823,2002,,A1,22,infected,0,infected,29,restore,26,1
+824,2002,,A3,23,infected,1,clean,32,restore,29,1
+825,2002,,A2,31,infected,1,clean,34,restore,31,1
+825,2002,,A3,41,clean,1,unknown,,episode end,42,1
+826,2002,,A1,34,clean,1,unknown,,episode end,35,1
+829,2002,,A1,38,clean,1,unknown,,episode end,38,1
+831,2002,,A3,13,infected,1,unknown,,episode end,29,1
+833,2002,,A3,13,clean,1,unknown,,episode end,33,1
+836,2002,,A1,4,clean,1,unknown,24,intrusion,9,1
+837,2002,,A1,12,infected,1,unknown,,episode end,,0
+838,2002,,A1,26,infected,1,unknown,45,restore,41,1
+839,2002,,A3,28,infected,1,unknown,,episode end,37,1
+841,2002,,A3,23,clean,1,unknown,,episode end,31,1
+842,2002,,A3,30,clean,1,clean,,episode end,38,1
+843,2002,,A1,23,infected,1,clean,40,restore,37,1
+844,2002,,A1,21,clean,1,unknown,,episode end,23,1
+845,2002,,A1,41,clean,1,unknown,,episode end,46,1
+846,2002,,A1,32,infected,1,clean,,episode end,44,1
+846,2002,,A3,7,clean,1,clean,,episode end,7,1
+849,2002,,A2,11,infected,1,unknown,22,restore,19,1
+850,2002,,A1,35,clean,1,clean,,episode end,38,1
+851,2002,,A1,31,infected,1,unknown,44,restore,38,1
+852,2002,,A3,16,infected,1,clean,,episode end,27,1
+853,2002,,A1,4,clean,1,unknown,,episode end,4,1
+854,2002,,A1,31,infected,1,clean,39,restore,36,1
+858,2002,,A1,35,clean,1,clean,,episode end,,0
+859,2002,,A2,13,clean,1,clean,,episode end,23,1
+862,2002,,A2,25,clean,1,unknown,,episode end,31,1
+862,2002,,A3,4,clean,1,unknown,,episode end,26,1
+864,2002,,A1,11,clean,1,clean,24,intrusion,11,1
+868,2002,,A1,33,clean,1,unknown,,episode end,46,1
+868,2002,,A2,10,clean,1,unknown,,episode end,42,1
+871,2002,,A1,29,clean,1,clean,,episode end,,0
+874,2002,,A2,9,clean,1,unknown,20,intrusion,,0
+875,2002,,A3,28,clean,1,unknown,,episode end,46,1
+876,2002,,A2,20,infected,1,clean,28,restore,25,1
+877,2002,,A2,25,infected,1,unknown,,episode end,26,1
+878,2002,,A2,40,clean,1,clean,,episode end,44,1
+880,2002,,A3,28,infected,1,clean,,episode end,,0
+881,2002,,A1,5,infected,1,unknown,38,restore,5,1
+881,2002,,A3,15,clean,1,unknown,,episode end,,0
+883,2002,,A3,13,infected,1,clean,,episode end,17,1
+884,2002,,A1,9,infected,1,unknown,21,restore,18,1
+888,2002,,A3,7,infected,1,unknown,47,restore,40,1
+889,2002,,A1,25,infected,1,clean,,episode end,47,1
+891,2002,,A1,45,clean,1,unknown,,episode end,45,1
+893,2002,,A1,4,infected,1,unknown,,episode end,40,1
+895,2002,,A2,13,clean,1,unknown,,episode end,15,1
+895,2002,,A3,36,clean,1,clean,,episode end,,0
+896,2002,,A3,21,clean,1,unknown,,episode end,28,1
+898,2002,,A1,25,clean,1,unknown,,episode end,38,1
+899,2002,,A1,28,clean,1,clean,,episode end,30,1
+900,2002,,A2,18,clean,1,clean,,episode end,40,1
+900,2002,,A3,7,infected,1,unknown,17,restore,7,1
+901,2002,,A1,33,clean,1,unknown,,episode end,33,1
+901,2002,,A2,14,infected,1,clean,21,restore,18,1
+901,2002,,A3,22,clean,1,clean,,episode end,25,1
+905,2002,,A3,18,clean,1,clean,,episode end,22,1
+906,2002,,A2,29,clean,1,clean,,episode end,44,1
+906,2002,,A3,30,infected,0,infected,37,restore,30,1
+907,2002,,A2,28,infected,1,unknown,,episode end,36,1
+908,2002,,A2,38,clean,1,unknown,,episode end,39,1
+909,2002,,A1,10,clean,1,unknown,,episode end,26,1
+909,2002,,A3,17,infected,1,unknown,25,restore,22,1
+911,2002,,A2,12,clean,1,unknown,27,spread,14,1
+913,2002,,A1,2,clean,1,clean,,episode end,13,1
+914,2002,,A1,6,clean,1,clean,,episode end,11,1
+914,2002,,A2,11,clean,1,unknown,,episode end,12,1
+915,2002,,A1,2,clean,1,unknown,,episode end,6,1
+916,2002,,A1,21,clean,1,clean,26,intrusion,,0
+917,2002,,A1,26,infected,1,unknown,35,restore,32,1
+918,2002,,A1,32,clean,1,unknown,,episode end,35,1
+919,2002,,A1,18,infected,1,clean,21,restore,18,1
+920,2002,,A2,11,clean,1,unknown,,episode end,13,1
+921,2002,,A2,29,infected,1,infected,,episode end,37,1
+921,2002,,A3,34,clean,1,unknown,,episode end,41,1
+922,2002,,A3,17,clean,1,unknown,,episode end,37,1
+923,2002,,A1,14,clean,1,unknown,,episode end,28,1
+924,2002,,A1,16,infected,1,infected,21,restore,18,1
+925,2002,,A2,13,clean,1,unknown,,episode end,18,1
+927,2002,,A2,34,clean,1,unknown,,episode end,34,1
+929,2002,,A1,5,infected,1,unknown,13,restore,9,1
+932,2002,,A2,3,clean,1,unknown,,episode end,5,1
+932,2002,,A3,29,infected,1,clean,,episode end,35,1
+933,2002,,A2,24,clean,1,unknown,,episode end,31,1
+934,2002,,A1,29,clean,1,clean,,episode end,29,1
+934,2002,,A2,26,infected,1,clean,38,restore,35,1
+935,2002,,A3,15,clean,1,unknown,,episode end,30,1
+936,2002,,A3,32,clean,1,clean,,episode end,32,1
+937,2002,,A1,11,infected,1,unknown,34,restore,31,1
+939,2002,,A2,27,infected,1,infected,34,restore,31,1
+939,2002,,A3,4,clean,1,clean,,episode end,9,1
+940,2002,,A1,39,clean,1,unknown,,episode end,,0
+940,2002,,A2,37,infected,1,clean,,episode end,,0
+942,2002,,A3,22,clean,1,unknown,,episode end,40,1
+943,2002,,A2,9,clean,1,unknown,25,intrusion,11,1
+944,2002,,A1,26,infected,1,unknown,35,restore,32,1
+945,2002,,A1,4,clean,1,unknown,,episode end,4,1
+945,2002,,A3,4,infected,1,unknown,,episode end,5,1
+946,2002,,A1,10,infected,1,unknown,13,restore,10,1
+946,2002,,A3,24,clean,1,unknown,,episode end,,0
+948,2002,,A1,24,infected,1,unknown,35,restore,25,1
+949,2002,,A1,12,clean,1,unknown,,episode end,17,1
+950,2002,,A2,12,infected,1,clean,15,restore,12,1
+951,2002,,A2,26,clean,1,clean,,episode end,30,1
+952,2002,,A1,34,infected,1,unknown,,episode end,39,1
+952,2002,,A2,15,clean,1,clean,,episode end,30,1
+953,2002,,A1,24,clean,1,unknown,,episode end,30,1
+954,2002,,A1,12,infected,1,unknown,15,restore,12,1
+957,2002,,A1,12,clean,1,unknown,,episode end,30,1
+959,2002,,A1,2,infected,1,unknown,18,restore,15,1
+959,2002,,A2,19,clean,1,clean,,episode end,27,1
+960,2002,,A3,12,clean,1,unknown,,episode end,13,1
+961,2002,,A3,8,clean,1,clean,,episode end,14,1
+964,2002,,A3,11,clean,1,unknown,,episode end,14,1
+966,2002,,A1,27,clean,1,unknown,,episode end,,0
+966,2002,,A2,20,clean,1,clean,,episode end,20,1
+967,2002,,A3,16,clean,1,unknown,,episode end,16,1
+972,2002,,A1,31,clean,1,clean,,episode end,42,1
+974,2002,,A2,27,clean,1,unknown,,episode end,27,1
+977,2002,,A1,3,clean,1,clean,,episode end,10,1
+978,2002,,A3,10,infected,1,unknown,27,restore,19,1
+983,2002,,A3,43,infected,0,infected,,episode end,,0
+984,2002,,A1,21,infected,1,unknown,24,restore,21,1
+985,2002,,A3,13,clean,1,clean,,episode end,26,1
+986,2002,,A3,27,infected,1,unknown,31,restore,28,1
+987,2002,,A1,27,clean,1,unknown,,episode end,28,1
+988,2002,,A3,8,infected,1,unknown,16,restore,13,1
+991,2002,,A1,19,clean,1,unknown,,episode end,35,1
+991,2002,,A2,35,clean,1,unknown,,episode end,36,1
+992,2002,,A2,4,clean,1,unknown,,episode end,,0
+995,2002,,A2,34,clean,1,unknown,,episode end,36,1
+995,2002,,A3,27,infected,1,clean,47,restore,30,1
+996,2002,,A2,41,clean,1,unknown,,episode end,,0
+996,2002,,A3,20,infected,1,unknown,24,restore,21,1
+999,2002,,A3,20,clean,1,unknown,,episode end,30,1

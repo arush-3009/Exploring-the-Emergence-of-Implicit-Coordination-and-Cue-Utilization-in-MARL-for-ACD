@@ -1,0 +1,507 @@
+{
+  "kind": "team",
+  "study": "study-1-receiver-cue-utilization",
+  "world": "one-false-warning-missed-warnings",
+  "arm": "cue-hidden-unknown",
+  "seed": 0,
+  "settings": {
+    "world": {
+      "episode": {
+        "max_steps": 50
+      },
+      "zones": {
+        "A": {
+          "employee": "EA",
+          "servers": [
+            "A1",
+            "A2",
+            "A3"
+          ]
+        },
+        "B": {
+          "employee": "EB",
+          "servers": [
+            "B1",
+            "B2",
+            "B3"
+          ]
+        }
+      },
+      "network": {
+        "server_pairs": [
+          [
+            "A1",
+            "B1"
+          ],
+          [
+            "A2",
+            "B2"
+          ],
+          [
+            "A3",
+            "B3"
+          ]
+        ]
+      },
+      "servers": {
+        "vulnerable_servers": [
+          "A1",
+          "A2",
+          "A3",
+          "B1",
+          "B2",
+          "B3"
+        ]
+      },
+      "initial": {
+        "compromised_servers": [],
+        "isolated_servers": [],
+        "servers_with_stopped_services": []
+      },
+      "intrusion": {
+        "servers": [
+          "A1",
+          "A2",
+          "A3",
+          "B1",
+          "B2",
+          "B3"
+        ],
+        "start_interval_range": [
+          0,
+          30
+        ],
+        "clean_episode_share": 0.2
+      }
+    },
+    "actions": {
+      "duration_steps": {
+        "inspect": 2,
+        "isolate": 1,
+        "restore": 4,
+        "reconnect": 1
+      },
+      "restore": {
+        "patches_server": true
+      }
+    },
+    "attacker": {
+      "spread": {
+        "duration_steps": 2
+      }
+    },
+    "workload": {
+      "requests": {
+        "per_route_per_interval": 1
+      }
+    },
+    "observations": {
+      "monitoring": {
+        "basic_delay_steps": 6,
+        "extra_information_delay_steps": 2,
+        "extra_detector_zones": [
+          "A"
+        ]
+      },
+      "warnings": {
+        "false_warnings_per_episode": 1,
+        "miss_share": 0.2,
+        "interval_range": [
+          1,
+          37
+        ]
+      },
+      "masks": {
+        "hide_peer_request_result": [
+          "B"
+        ]
+      }
+    },
+    "rewards": {
+      "penalties": {
+        "per_compromised_server": 2.0,
+        "per_failed_request": 1.0,
+        "per_inspection": 0.5
+      }
+    }
+  },
+  "training": {
+    "type": "IPPOTrainer",
+    "seed": 0,
+    "defender_seeds": {
+      "A": {
+        "weights": 1654615998,
+        "sampling": 1806341205,
+        "shuffling": 173879092
+      },
+      "B": {
+        "weights": 1112038970,
+        "sampling": 2087043557,
+        "shuffling": 1739178872
+      }
+    },
+    "initial_weights": "experiment-runs/study-1-receiver-cue-utilization/worlds/one-false-warning-missed-warnings/training-arms/cue-hidden-unknown/teams/seed0-team/weights/initial.pt",
+    "fixed_defenders": {},
+    "settings": {
+      "networks": {
+        "hidden_sizes": [
+          64,
+          64
+        ]
+      },
+      "advantages": {
+        "gamma": 0.99,
+        "gae_lambda": 0.95
+      },
+      "ppo": {
+        "actor_learning_rate": 0.0003,
+        "critic_learning_rate": 0.01,
+        "clip_epsilon": 0.2,
+        "epochs": 4,
+        "minibatch_size": 64,
+        "entropy_coefficient": 0.001
+      },
+      "training": {
+        "episodes_per_iteration": 16,
+        "iterations": 3000
+      }
+    }
+  },
+  "world_seed": 1302718217,
+  "initial_weights": {
+    "seed": 0,
+    "defenders": {
+      "A": {
+        "start": "warm-start",
+        "source": "runs/study-1-receiver-cue-utilization/worlds/one-false-warning-missed-warnings/training-arms/cue-hidden-unknown/teams/seed0-team/weights/warm_start.pt",
+        "source_sha256": "d62fa2711f90ef28dd50071c3da0b1fd54c4955841bdecbae3debe840285b67b",
+        "weights_hash": "580606f650e95cf1ea79ea64696a14972ab66f83f49f6cc2022c02a4f74935ac"
+      },
+      "B": {
+        "start": "warm-start",
+        "source": "runs/study-1-receiver-cue-utilization/worlds/one-false-warning-missed-warnings/training-arms/cue-hidden-unknown/teams/seed0-team/weights/warm_start.pt",
+        "source_sha256": "d62fa2711f90ef28dd50071c3da0b1fd54c4955841bdecbae3debe840285b67b",
+        "weights_hash": "8a51c71a5a57ad5a7b6c905bb3160a67449fa490a428ffa4910de16b744ac224"
+      }
+    },
+    "warm_start": {
+      "seed": 0,
+      "defender_seeds": {
+        "A": {
+          "weights": 1654615998,
+          "sampling": 1806341205,
+          "actor_fit": 173879092,
+          "critic_fit": 1112038970
+        },
+        "B": {
+          "weights": 2087043557,
+          "sampling": 1739178872,
+          "actor_fit": 1302718217,
+          "critic_fit": 2046968324
+        }
+      },
+      "world_seed": 1537810351,
+      "fitted": [
+        "A",
+        "B"
+      ],
+      "teacher_mean_reward": -61.39666666666667,
+      "fit": {
+        "A": {
+          "actor": {
+            "loss": 1.5975993871688843,
+            "agreement": 1.0,
+            "action_agreement": 1.0,
+            "decisions": 28148,
+            "action_decisions": 1455
+          },
+          "critic": {
+            "loss": 571.5804443359375
+          }
+        },
+        "B": {
+          "actor": {
+            "loss": 1.596169114112854,
+            "agreement": 1.0,
+            "action_agreement": 1.0,
+            "decisions": 28116,
+            "action_decisions": 1481
+          },
+          "critic": {
+            "loss": 567.7372436523438
+          }
+        }
+      },
+      "imitation": {
+        "teacher": {
+          "rule": "inspect-then-restore",
+          "episodes": 600
+        },
+        "actor_fit": {
+          "epochs": 300,
+          "learning_rate": 0.001,
+          "minibatch_size": 256,
+          "action_target_weight": 0.95,
+          "wait_target_weight": 0.6
+        },
+        "critic_fit": {
+          "epochs": 30,
+          "learning_rate": 0.001,
+          "minibatch_size": 256
+        }
+      },
+      "imitation_by_defender": {
+        "A": {
+          "teacher": {
+            "rule": "inspect-then-restore",
+            "episodes": 600
+          },
+          "actor_fit": {
+            "epochs": 300,
+            "learning_rate": 0.001,
+            "minibatch_size": 256,
+            "action_target_weight": 0.95,
+            "wait_target_weight": 0.6
+          },
+          "critic_fit": {
+            "epochs": 30,
+            "learning_rate": 0.001,
+            "minibatch_size": 256
+          }
+        },
+        "B": {
+          "teacher": {
+            "rule": "inspect-then-restore",
+            "episodes": 600
+          },
+          "actor_fit": {
+            "epochs": 300,
+            "learning_rate": 0.001,
+            "minibatch_size": 256,
+            "action_target_weight": 0.95,
+            "wait_target_weight": 0.6
+          },
+          "critic_fit": {
+            "epochs": 30,
+            "learning_rate": 0.001,
+            "minibatch_size": 256
+          }
+        }
+      },
+      "networks": {
+        "hidden_sizes": [
+          64,
+          64
+        ]
+      },
+      "gamma": 0.99,
+      "weights_sha256": "d62fa2711f90ef28dd50071c3da0b1fd54c4955841bdecbae3debe840285b67b",
+      "code": {
+        "commit": "5bdbe4d783e394db215aa7425e71df4668877871",
+        "changed_files": []
+      },
+      "platform": {
+        "python": "3.12.15",
+        "torch": "2.15.0+cpu",
+        "numpy": "2.5.3",
+        "system": "Linux-6.8.0-138-generic-x86_64-with-glibc2.39"
+      },
+      "started": "2026-11-15T03:01:06+00:00",
+      "finished": "2026-11-15T03:03:05+00:00"
+    },
+    "file": "experiment-runs/study-1-receiver-cue-utilization/worlds/one-false-warning-missed-warnings/training-arms/cue-hidden-unknown/teams/seed0-team/weights/initial.pt",
+    "sha256": "38af7cea65addca6c3f20c62eca02f5bfb463868e2d00ddb114e0d38f6a58b2e",
+    "code": {
+      "commit": "5bdbe4d783e394db215aa7425e71df4668877871",
+      "changed_files": []
+    },
+    "started": "2026-11-15T03:17:11+00:00",
+    "finished": "2026-11-15T03:17:11+00:00"
+  },
+  "weights": {
+    "initial": {
+      "file": "experiment-runs/study-1-receiver-cue-utilization/worlds/one-false-warning-missed-warnings/training-arms/cue-hidden-unknown/teams/seed0-team/weights/initial.pt",
+      "sha256": "38af7cea65addca6c3f20c62eca02f5bfb463868e2d00ddb114e0d38f6a58b2e",
+      "A": "580606f650e95cf1ea79ea64696a14972ab66f83f49f6cc2022c02a4f74935ac",
+      "B": "8a51c71a5a57ad5a7b6c905bb3160a67449fa490a428ffa4910de16b744ac224"
+    },
+    "final": {
+      "file": "experiment-runs/study-1-receiver-cue-utilization/worlds/one-false-warning-missed-warnings/training-arms/cue-hidden-unknown/teams/seed0-team/weights/final.pt",
+      "sha256": "a85eb02edce2efb770dd3c1d3e0f161bb1abf90e05a08c46a030ed27786ac963",
+      "A": "babb3fa4ac9f1634153e3f1575944b12b19118f3d1cad3c90e46a50c398ab2f1",
+      "B": "0c49b4da4b009ec15888947616dcb2033172839db4dab48a5fc0b1f7621eb126"
+    }
+  },
+  "fixed_defenders": {},
+  "probe_list": null,
+  "schema": {
+    "observation_features": {
+      "A": [
+        "elapsed_fraction",
+        "extra_detector_available",
+        "job_action.no_job",
+        "job_action.inspect",
+        "job_action.isolate",
+        "job_action.restore",
+        "job_action.reconnect",
+        "job_target.none",
+        "job_target.server_1",
+        "job_target.server_2",
+        "job_target.server_3",
+        "job_remaining_fraction",
+        "last_command_feedback.none",
+        "last_command_feedback.completed",
+        "last_command_feedback.accepted",
+        "last_command_feedback.already_satisfied",
+        "last_command_feedback.rejected",
+        "server_1.service_running",
+        "server_1.isolated",
+        "server_1.employee_request_result.unknown",
+        "server_1.employee_request_result.failed",
+        "server_1.employee_request_result.succeeded",
+        "server_1.peer_request_result.unknown",
+        "server_1.peer_request_result.failed",
+        "server_1.peer_request_result.succeeded",
+        "server_1.warning_received",
+        "server_1.warning_age_fraction",
+        "server_1.inspection_finding.unknown",
+        "server_1.inspection_finding.clean",
+        "server_1.inspection_finding.compromised",
+        "server_1.inspection_age_fraction",
+        "server_2.service_running",
+        "server_2.isolated",
+        "server_2.employee_request_result.unknown",
+        "server_2.employee_request_result.failed",
+        "server_2.employee_request_result.succeeded",
+        "server_2.peer_request_result.unknown",
+        "server_2.peer_request_result.failed",
+        "server_2.peer_request_result.succeeded",
+        "server_2.warning_received",
+        "server_2.warning_age_fraction",
+        "server_2.inspection_finding.unknown",
+        "server_2.inspection_finding.clean",
+        "server_2.inspection_finding.compromised",
+        "server_2.inspection_age_fraction",
+        "server_3.service_running",
+        "server_3.isolated",
+        "server_3.employee_request_result.unknown",
+        "server_3.employee_request_result.failed",
+        "server_3.employee_request_result.succeeded",
+        "server_3.peer_request_result.unknown",
+        "server_3.peer_request_result.failed",
+        "server_3.peer_request_result.succeeded",
+        "server_3.warning_received",
+        "server_3.warning_age_fraction",
+        "server_3.inspection_finding.unknown",
+        "server_3.inspection_finding.clean",
+        "server_3.inspection_finding.compromised",
+        "server_3.inspection_age_fraction"
+      ],
+      "B": [
+        "elapsed_fraction",
+        "extra_detector_available",
+        "job_action.no_job",
+        "job_action.inspect",
+        "job_action.isolate",
+        "job_action.restore",
+        "job_action.reconnect",
+        "job_target.none",
+        "job_target.server_1",
+        "job_target.server_2",
+        "job_target.server_3",
+        "job_remaining_fraction",
+        "last_command_feedback.none",
+        "last_command_feedback.completed",
+        "last_command_feedback.accepted",
+        "last_command_feedback.already_satisfied",
+        "last_command_feedback.rejected",
+        "server_1.service_running",
+        "server_1.isolated",
+        "server_1.employee_request_result.unknown",
+        "server_1.employee_request_result.failed",
+        "server_1.employee_request_result.succeeded",
+        "server_1.peer_request_result.unknown",
+        "server_1.peer_request_result.failed",
+        "server_1.peer_request_result.succeeded",
+        "server_1.warning_received",
+        "server_1.warning_age_fraction",
+        "server_1.inspection_finding.unknown",
+        "server_1.inspection_finding.clean",
+        "server_1.inspection_finding.compromised",
+        "server_1.inspection_age_fraction",
+        "server_2.service_running",
+        "server_2.isolated",
+        "server_2.employee_request_result.unknown",
+        "server_2.employee_request_result.failed",
+        "server_2.employee_request_result.succeeded",
+        "server_2.peer_request_result.unknown",
+        "server_2.peer_request_result.failed",
+        "server_2.peer_request_result.succeeded",
+        "server_2.warning_received",
+        "server_2.warning_age_fraction",
+        "server_2.inspection_finding.unknown",
+        "server_2.inspection_finding.clean",
+        "server_2.inspection_finding.compromised",
+        "server_2.inspection_age_fraction",
+        "server_3.service_running",
+        "server_3.isolated",
+        "server_3.employee_request_result.unknown",
+        "server_3.employee_request_result.failed",
+        "server_3.employee_request_result.succeeded",
+        "server_3.peer_request_result.unknown",
+        "server_3.peer_request_result.failed",
+        "server_3.peer_request_result.succeeded",
+        "server_3.warning_received",
+        "server_3.warning_age_fraction",
+        "server_3.inspection_finding.unknown",
+        "server_3.inspection_finding.clean",
+        "server_3.inspection_finding.compromised",
+        "server_3.inspection_age_fraction"
+      ]
+    },
+    "action_choices": {
+      "A": [
+        "wait",
+        "inspect_A1",
+        "isolate_A1",
+        "restore_A1",
+        "reconnect_A1",
+        "inspect_A2",
+        "isolate_A2",
+        "restore_A2",
+        "reconnect_A2",
+        "inspect_A3",
+        "isolate_A3",
+        "restore_A3",
+        "reconnect_A3"
+      ],
+      "B": [
+        "wait",
+        "inspect_B1",
+        "isolate_B1",
+        "restore_B1",
+        "reconnect_B1",
+        "inspect_B2",
+        "isolate_B2",
+        "restore_B2",
+        "reconnect_B2",
+        "inspect_B3",
+        "isolate_B3",
+        "restore_B3",
+        "reconnect_B3"
+      ]
+    }
+  },
+  "code": {
+    "commit": "5bdbe4d783e394db215aa7425e71df4668877871",
+    "changed_files": []
+  },
+  "platform": {
+    "python": "3.12.15",
+    "torch": "2.15.0+cpu",
+    "numpy": "2.5.3",
+    "system": "Linux-6.8.0-138-generic-x86_64-with-glibc2.39"
+  },
+  "started": "2026-11-15T04:39:05+00:00",
+  "finished": "2026-11-15T05:19:50+00:00"
+}

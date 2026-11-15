@@ -1,0 +1,81 @@
+panel,series,seed,x,value,sd,numerator,count,mark
+team reward per episode,cue-visible,0,,-37.2895,,,,before
+team reward per episode,cue-visible,0,,-27.906,,,,team
+team reward per episode,cue-visible,1,,-37.2895,,,,before
+team reward per episode,cue-visible,1,,-27.8985,,,,team
+team reward per episode,cue-visible,2,,-37.2895,,,,before
+team reward per episode,cue-visible,2,,-26.03525,,,,team
+team reward per episode,cue-visible,3,,-37.2895,,,,before
+team reward per episode,cue-visible,3,,-32.55375,,,,team
+team reward per episode,cue-visible,4,,-37.2895,,,,before
+team reward per episode,cue-visible,4,,-26.3945,,,,team
+team reward per episode,cue-visible,,,-28.1576,,,5,mean
+team reward per episode,cue-hidden-failures-suppressed,0,,-37.2895,,,,before
+team reward per episode,cue-hidden-failures-suppressed,0,,-27.56,,,,team
+team reward per episode,cue-hidden-failures-suppressed,1,,-37.2895,,,,before
+team reward per episode,cue-hidden-failures-suppressed,1,,-30.608,,,,team
+team reward per episode,cue-hidden-failures-suppressed,2,,-37.2895,,,,before
+team reward per episode,cue-hidden-failures-suppressed,2,,-25.9525,,,,team
+team reward per episode,cue-hidden-failures-suppressed,3,,-37.2895,,,,before
+team reward per episode,cue-hidden-failures-suppressed,3,,-27.566,,,,team
+team reward per episode,cue-hidden-failures-suppressed,4,,-37.2895,,,,before
+team reward per episode,cue-hidden-failures-suppressed,4,,-29.55425,,,,team
+team reward per episode,cue-hidden-failures-suppressed,,,-28.24815,,,5,mean
+team reward per episode,always wait,,,-56.298,,,,baseline
+team reward per episode,inspect-first teacher,,,-37.2895,,,,baseline
+team reward per episode,restore-on-warning teacher,,,-33.227,,,,baseline
+team reward per episode,uniform random,,,-458.87125,,,,baseline
+"the same rewards, zoomed to the teams, their initial teams and the two teachers",lower limit,,,-45.947874999999996,,,,zoom
+"the same rewards, zoomed to the teams, their initial teams and the two teachers",upper limit,,,-17.294125,,,,zoom
+B's infected server-intervals per intrusion episode,cue-visible,0,,11.48246153846154,,,,before
+B's infected server-intervals per intrusion episode,cue-visible,0,,10.561846153846155,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,1,,11.48246153846154,,,,before
+B's infected server-intervals per intrusion episode,cue-visible,1,,10.149538461538462,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,2,,11.48246153846154,,,,before
+B's infected server-intervals per intrusion episode,cue-visible,2,,9.48246153846154,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,3,,11.48246153846154,,,,before
+B's infected server-intervals per intrusion episode,cue-visible,3,,12.907076923076923,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,4,,11.48246153846154,,,,before
+B's infected server-intervals per intrusion episode,cue-visible,4,,9.48246153846154,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,,,10.5166769231,,,5,mean
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,0,,11.48246153846154,,,,before
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,0,,10.149538461538462,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,1,,11.48246153846154,,,,before
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,1,,11.48246153846154,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,2,,11.48246153846154,,,,before
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,2,,9.48246153846154,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,3,,11.48246153846154,,,,before
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,3,,10.149538461538462,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,4,,11.48246153846154,,,,before
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,4,,10.84,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,,,10.4208,,,5,mean
+B's infected server-intervals per intrusion episode,always wait,,,34.64492307692308,,,,baseline
+B's infected server-intervals per intrusion episode,inspect-first teacher,,,11.48246153846154,,,,baseline
+B's infected server-intervals per intrusion episode,restore-on-warning teacher,,,9.48246153846154,,,,baseline
+B's infected server-intervals per intrusion episode,uniform random,,,10.654769230769231,,,,baseline
+intrusion episodes ending with an infected B server,cue-visible,0,,0.0,,,,before
+intrusion episodes ending with an infected B server,cue-visible,0,,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-visible,1,,0.0,,,,before
+intrusion episodes ending with an infected B server,cue-visible,1,,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-visible,2,,0.0,,,,before
+intrusion episodes ending with an infected B server,cue-visible,2,,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-visible,3,,0.0,,,,before
+intrusion episodes ending with an infected B server,cue-visible,3,,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-visible,4,,0.0,,,,before
+intrusion episodes ending with an infected B server,cue-visible,4,,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-visible,,,0.0,,,5,mean
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,0,,0.0,,,,before
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,0,,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,1,,0.0,,,,before
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,1,,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,2,,0.0,,,,before
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,2,,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,3,,0.0,,,,before
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,3,,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,4,,0.0,,,,before
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,4,,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,,,0.0,,,5,mean
+intrusion episodes ending with an infected B server,always wait,,,1.0,,,,baseline
+intrusion episodes ending with an infected B server,inspect-first teacher,,,0.0,,,,baseline
+intrusion episodes ending with an infected B server,restore-on-warning teacher,,,0.0,,,,baseline
+intrusion episodes ending with an infected B server,uniform random,,,0.14276923076923076,,,,baseline

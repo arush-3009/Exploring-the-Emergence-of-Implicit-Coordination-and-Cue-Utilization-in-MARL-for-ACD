@@ -1,0 +1,241 @@
+panel,series,seed,x,value,sd,numerator,count,mark
+team reward per episode,cue-visible,0,reliable-warnings,-30.0935,,,,team
+team reward per episode,cue-visible,1,reliable-warnings,-25.62125,,,,team
+team reward per episode,cue-visible,2,reliable-warnings,-27.79725,,,,team
+team reward per episode,cue-visible,3,reliable-warnings,-27.89925,,,,team
+team reward per episode,cue-visible,4,reliable-warnings,-27.2095,,,,team
+team reward per episode,cue-visible,,reliable-warnings,-27.72415,,,5,mean
+team reward per episode,cue-hidden-failures-suppressed,0,reliable-warnings,-29.945,,,,team
+team reward per episode,cue-hidden-failures-suppressed,1,reliable-warnings,-28.38975,,,,team
+team reward per episode,cue-hidden-failures-suppressed,2,reliable-warnings,-36.0565,,,,team
+team reward per episode,cue-hidden-failures-suppressed,3,reliable-warnings,-27.73075,,,,team
+team reward per episode,cue-hidden-failures-suppressed,4,reliable-warnings,-37.3815,,,,team
+team reward per episode,cue-hidden-failures-suppressed,,reliable-warnings,-31.9007,,,5,mean
+team reward per episode,cue-visible,0,one-false-warning,-29.096,,,,team
+team reward per episode,cue-visible,1,one-false-warning,-30.522,,,,team
+team reward per episode,cue-visible,2,one-false-warning,-28.3245,,,,team
+team reward per episode,cue-visible,3,one-false-warning,-33.47375,,,,team
+team reward per episode,cue-visible,4,one-false-warning,-32.09225,,,,team
+team reward per episode,cue-visible,,one-false-warning,-30.7017,,,5,mean
+team reward per episode,cue-hidden-failures-suppressed,0,one-false-warning,-56.2995,,,,team
+team reward per episode,cue-hidden-failures-suppressed,1,one-false-warning,-33.03525,,,,team
+team reward per episode,cue-hidden-failures-suppressed,2,one-false-warning,-56.30075,,,,team
+team reward per episode,cue-hidden-failures-suppressed,3,one-false-warning,-46.96425,,,,team
+team reward per episode,cue-hidden-failures-suppressed,4,one-false-warning,-40.30225,,,,team
+team reward per episode,cue-hidden-failures-suppressed,,one-false-warning,-46.5804,,,5,mean
+team reward per episode,cue-visible,0,two-false-warnings,-29.947,,,,team
+team reward per episode,cue-visible,1,two-false-warnings,-32.757,,,,team
+team reward per episode,cue-visible,2,two-false-warnings,-32.46375,,,,team
+team reward per episode,cue-visible,3,two-false-warnings,-35.362,,,,team
+team reward per episode,cue-visible,4,two-false-warnings,-32.4755,,,,team
+team reward per episode,cue-visible,,two-false-warnings,-32.60105,,,5,mean
+team reward per episode,cue-hidden-failures-suppressed,0,two-false-warnings,-57.2465,,,,team
+team reward per episode,cue-hidden-failures-suppressed,1,two-false-warnings,-42.0645,,,,team
+team reward per episode,cue-hidden-failures-suppressed,2,two-false-warnings,-45.23425,,,,team
+team reward per episode,cue-hidden-failures-suppressed,3,two-false-warnings,-56.298,,,,team
+team reward per episode,cue-hidden-failures-suppressed,4,two-false-warnings,-41.25475,,,,team
+team reward per episode,cue-hidden-failures-suppressed,,two-false-warnings,-48.4196,,,5,mean
+team reward per episode,cue-visible,0,one-false-warning-missed-warnings,-34.92625,,,,team
+team reward per episode,cue-visible,1,one-false-warning-missed-warnings,-34.9855,,,,team
+team reward per episode,cue-visible,2,one-false-warning-missed-warnings,-38.1595,,,,team
+team reward per episode,cue-visible,3,one-false-warning-missed-warnings,-35.80325,,,,team
+team reward per episode,cue-visible,4,one-false-warning-missed-warnings,-37.61875,,,,team
+team reward per episode,cue-visible,,one-false-warning-missed-warnings,-36.29865,,,5,mean
+team reward per episode,cue-hidden-failures-suppressed,0,one-false-warning-missed-warnings,-35.49975,,,,team
+team reward per episode,cue-hidden-failures-suppressed,1,one-false-warning-missed-warnings,-38.29075,,,,team
+team reward per episode,cue-hidden-failures-suppressed,2,one-false-warning-missed-warnings,-51.34975,,,,team
+team reward per episode,cue-hidden-failures-suppressed,3,one-false-warning-missed-warnings,-53.9595,,,,team
+team reward per episode,cue-hidden-failures-suppressed,4,one-false-warning-missed-warnings,-40.09075,,,,team
+team reward per episode,cue-hidden-failures-suppressed,,one-false-warning-missed-warnings,-43.8381,,,5,mean
+team reward per episode,cue-visible,0,one-false-warning-missed-warnings-outages,-46.8805,,,,team
+team reward per episode,cue-visible,1,one-false-warning-missed-warnings-outages,-46.1635,,,,team
+team reward per episode,cue-visible,2,one-false-warning-missed-warnings-outages,-51.58675,,,,team
+team reward per episode,cue-visible,3,one-false-warning-missed-warnings-outages,-47.8385,,,,team
+team reward per episode,cue-visible,4,one-false-warning-missed-warnings-outages,-43.06225,,,,team
+team reward per episode,cue-visible,,one-false-warning-missed-warnings-outages,-47.1063,,,5,mean
+team reward per episode,cue-hidden-failures-suppressed,0,one-false-warning-missed-warnings-outages,-47.807,,,,team
+team reward per episode,cue-hidden-failures-suppressed,1,one-false-warning-missed-warnings-outages,-43.595,,,,team
+team reward per episode,cue-hidden-failures-suppressed,2,one-false-warning-missed-warnings-outages,-50.72075,,,,team
+team reward per episode,cue-hidden-failures-suppressed,3,one-false-warning-missed-warnings-outages,-47.179,,,,team
+team reward per episode,cue-hidden-failures-suppressed,4,one-false-warning-missed-warnings-outages,-44.84375,,,,team
+team reward per episode,cue-hidden-failures-suppressed,,one-false-warning-missed-warnings-outages,-46.8291,,,5,mean
+team reward per episode,inspect-first teacher,,reliable-warnings,-37.2895,,,,baseline
+team reward per episode,restore-on-warning teacher,,reliable-warnings,-33.227,,,,baseline
+team reward per episode,cue-visible,,reliable-warnings,-30.6937,,,,a-waits
+team reward per episode,cue-hidden-failures-suppressed,,reliable-warnings,-30.6937,,,,a-waits
+team reward per episode,inspect-first teacher,,one-false-warning,-37.50375,,,,baseline
+team reward per episode,restore-on-warning teacher,,one-false-warning,-43.195,,,,baseline
+team reward per episode,cue-visible,,one-false-warning,-45.4261,,,,a-waits
+team reward per episode,cue-hidden-failures-suppressed,,one-false-warning,-45.4261,,,,a-waits
+team reward per episode,inspect-first teacher,,two-false-warnings,-37.73975,,,,baseline
+team reward per episode,restore-on-warning teacher,,two-false-warnings,-52.73,,,,baseline
+team reward per episode,cue-visible,,two-false-warnings,-47.4,,,,a-waits
+team reward per episode,cue-hidden-failures-suppressed,,two-false-warnings,-47.4,,,,a-waits
+team reward per episode,inspect-first teacher,,one-false-warning-missed-warnings,-41.65175,,,,baseline
+team reward per episode,restore-on-warning teacher,,one-false-warning-missed-warnings,-47.756,,,,baseline
+team reward per episode,cue-visible,,one-false-warning-missed-warnings,-39.83295,,,,a-waits
+team reward per episode,cue-hidden-failures-suppressed,,one-false-warning-missed-warnings,-39.83295,,,,a-waits
+team reward per episode,inspect-first teacher,,one-false-warning-missed-warnings-outages,-50.3095,,,,baseline
+team reward per episode,restore-on-warning teacher,,one-false-warning-missed-warnings-outages,-56.2195,,,,baseline
+team reward per episode,cue-visible,,one-false-warning-missed-warnings-outages,-45.45265,,,,a-waits
+team reward per episode,cue-hidden-failures-suppressed,,one-false-warning-missed-warnings-outages,-45.54005,,,,a-waits
+B's infected server-intervals per intrusion episode,cue-visible,0,reliable-warnings,9.693538461538461,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,1,reliable-warnings,7.545846153846154,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,2,reliable-warnings,8.204307692307692,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,3,reliable-warnings,8.728615384615384,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,4,reliable-warnings,9.227692307692308,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,,reliable-warnings,8.68,,,5,mean
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,0,reliable-warnings,10.149538461538462,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,1,reliable-warnings,10.815384615384616,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,2,reliable-warnings,17.44676923076923,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,3,reliable-warnings,10.172923076923077,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,4,reliable-warnings,18.113846153846154,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,,reliable-warnings,13.3396923077,,,5,mean
+B's infected server-intervals per intrusion episode,cue-visible,0,one-false-warning,8.661538461538461,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,1,one-false-warning,11.833846153846153,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,2,one-false-warning,8.084923076923078,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,3,one-false-warning,9.947076923076922,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,4,one-false-warning,10.832,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,,one-false-warning,9.8718769231,,,5,mean
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,0,one-false-warning,34.64492307692308,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,1,one-false-warning,11.833846153846153,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,2,one-false-warning,34.64492307692308,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,3,one-false-warning,25.72923076923077,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,4,one-false-warning,18.863384615384614,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,,one-false-warning,25.1432615385,,,5,mean
+B's infected server-intervals per intrusion episode,cue-visible,0,two-false-warnings,8.650461538461538,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,1,two-false-warnings,10.77476923076923,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,2,two-false-warnings,12.069538461538462,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,3,two-false-warnings,8.200615384615384,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,4,two-false-warnings,12.964307692307692,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,,two-false-warnings,10.5319384615,,,5,mean
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,0,two-false-warnings,34.40430769230769,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,1,two-false-warnings,19.368615384615385,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,2,two-false-warnings,23.825846153846154,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,3,two-false-warnings,34.64492307692308,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,4,two-false-warnings,20.755692307692307,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,,two-false-warnings,26.5998769231,,,5,mean
+B's infected server-intervals per intrusion episode,cue-visible,0,one-false-warning-missed-warnings,15.772923076923076,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,1,one-false-warning-missed-warnings,11.20923076923077,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,2,one-false-warning-missed-warnings,14.606769230769231,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,3,one-false-warning-missed-warnings,12.24,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,4,one-false-warning-missed-warnings,11.934153846153846,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,,one-false-warning-missed-warnings,13.1526153846,,,5,mean
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,0,one-false-warning-missed-warnings,15.772923076923076,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,1,one-false-warning-missed-warnings,14.833846153846153,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,2,one-false-warning-missed-warnings,14.605538461538462,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,3,one-false-warning-missed-warnings,31.65353846153846,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,4,one-false-warning-missed-warnings,14.987692307692308,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,,one-false-warning-missed-warnings,18.3707076923,,,5,mean
+B's infected server-intervals per intrusion episode,cue-visible,0,one-false-warning-missed-warnings-outages,13.697846153846154,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,1,one-false-warning-missed-warnings-outages,14.824615384615385,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,2,one-false-warning-missed-warnings-outages,12.923076923076923,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,3,one-false-warning-missed-warnings-outages,16.97046153846154,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,4,one-false-warning-missed-warnings-outages,14.612923076923076,,,,team
+B's infected server-intervals per intrusion episode,cue-visible,,one-false-warning-missed-warnings-outages,14.6057846154,,,5,mean
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,0,one-false-warning-missed-warnings-outages,14.627692307692307,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,1,one-false-warning-missed-warnings-outages,15.374153846153845,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,2,one-false-warning-missed-warnings-outages,13.558769230769231,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,3,one-false-warning-missed-warnings-outages,16.913846153846155,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,4,one-false-warning-missed-warnings-outages,15.350769230769231,,,,team
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,,one-false-warning-missed-warnings-outages,15.1650461538,,,5,mean
+B's infected server-intervals per intrusion episode,inspect-first teacher,,reliable-warnings,11.48246153846154,,,,baseline
+B's infected server-intervals per intrusion episode,restore-on-warning teacher,,reliable-warnings,9.48246153846154,,,,baseline
+B's infected server-intervals per intrusion episode,cue-visible,,reliable-warnings,13.3396923077,,,,a-waits
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,,reliable-warnings,13.3396923077,,,,a-waits
+B's infected server-intervals per intrusion episode,inspect-first teacher,,one-false-warning,11.372307692307693,,,,baseline
+B's infected server-intervals per intrusion episode,restore-on-warning teacher,,one-false-warning,9.172307692307692,,,,baseline
+B's infected server-intervals per intrusion episode,cue-visible,,one-false-warning,25.1432615385,,,,a-waits
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,,one-false-warning,25.1432615385,,,,a-waits
+B's infected server-intervals per intrusion episode,inspect-first teacher,,two-false-warnings,11.280615384615384,,,,baseline
+B's infected server-intervals per intrusion episode,restore-on-warning teacher,,two-false-warnings,8.784615384615385,,,,baseline
+B's infected server-intervals per intrusion episode,cue-visible,,two-false-warnings,26.7003076923,,,,a-waits
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,,two-false-warnings,26.7003076923,,,,a-waits
+B's infected server-intervals per intrusion episode,inspect-first teacher,,one-false-warning-missed-warnings,15.723692307692307,,,,baseline
+B's infected server-intervals per intrusion episode,restore-on-warning teacher,,one-false-warning-missed-warnings,13.77476923076923,,,,baseline
+B's infected server-intervals per intrusion episode,cue-visible,,one-false-warning-missed-warnings,18.4182153846,,,,a-waits
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,,one-false-warning-missed-warnings,18.4182153846,,,,a-waits
+B's infected server-intervals per intrusion episode,inspect-first teacher,,one-false-warning-missed-warnings-outages,15.696,,,,baseline
+B's infected server-intervals per intrusion episode,restore-on-warning teacher,,one-false-warning-missed-warnings-outages,13.731076923076923,,,,baseline
+B's infected server-intervals per intrusion episode,cue-visible,,one-false-warning-missed-warnings-outages,14.6057846154,,,,a-waits
+B's infected server-intervals per intrusion episode,cue-hidden-failures-suppressed,,one-false-warning-missed-warnings-outages,15.1650461538,,,,a-waits
+intrusion episodes ending with an infected B server,cue-visible,0,reliable-warnings,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-visible,1,reliable-warnings,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-visible,2,reliable-warnings,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-visible,3,reliable-warnings,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-visible,4,reliable-warnings,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-visible,,reliable-warnings,0.0,,,5,mean
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,0,reliable-warnings,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,1,reliable-warnings,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,2,reliable-warnings,0.3212307692307692,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,3,reliable-warnings,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,4,reliable-warnings,0.3212307692307692,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,,reliable-warnings,0.1284923077,,,5,mean
+intrusion episodes ending with an infected B server,cue-visible,0,one-false-warning,0.025846153846153845,,,,team
+intrusion episodes ending with an infected B server,cue-visible,1,one-false-warning,0.04246153846153846,,,,team
+intrusion episodes ending with an infected B server,cue-visible,2,one-false-warning,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-visible,3,one-false-warning,0.08369230769230769,,,,team
+intrusion episodes ending with an infected B server,cue-visible,4,one-false-warning,0.032,,,,team
+intrusion episodes ending with an infected B server,cue-visible,,one-false-warning,0.0368,,,5,mean
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,0,one-false-warning,1.0,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,1,one-false-warning,0.04246153846153846,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,2,one-false-warning,1.0,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,3,one-false-warning,0.6473846153846153,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,4,one-false-warning,0.28307692307692306,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,,one-false-warning,0.5945846154,,,5,mean
+intrusion episodes ending with an infected B server,cue-visible,0,two-false-warnings,0.0,,,,team
+intrusion episodes ending with an infected B server,cue-visible,1,two-false-warnings,0.07323076923076922,,,,team
+intrusion episodes ending with an infected B server,cue-visible,2,two-false-warnings,0.13538461538461538,,,,team
+intrusion episodes ending with an infected B server,cue-visible,3,two-false-warnings,0.012307692307692308,,,,team
+intrusion episodes ending with an infected B server,cue-visible,4,two-false-warnings,0.13907692307692307,,,,team
+intrusion episodes ending with an infected B server,cue-visible,,two-false-warnings,0.072,,,5,mean
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,0,two-false-warnings,0.9926153846153846,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,1,two-false-warnings,0.40184615384615385,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,2,two-false-warnings,0.5433846153846154,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,3,two-false-warnings,1.0,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,4,two-false-warnings,0.4449230769230769,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,,two-false-warnings,0.6765538462,,,5,mean
+intrusion episodes ending with an infected B server,cue-visible,0,one-false-warning-missed-warnings,0.18461538461538463,,,,team
+intrusion episodes ending with an infected B server,cue-visible,1,one-false-warning-missed-warnings,0.064,,,,team
+intrusion episodes ending with an infected B server,cue-visible,2,one-false-warning-missed-warnings,0.16,,,,team
+intrusion episodes ending with an infected B server,cue-visible,3,one-false-warning-missed-warnings,0.1076923076923077,,,,team
+intrusion episodes ending with an infected B server,cue-visible,4,one-false-warning-missed-warnings,0.06461538461538462,,,,team
+intrusion episodes ending with an infected B server,cue-visible,,one-false-warning-missed-warnings,0.1161846154,,,5,mean
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,0,one-false-warning-missed-warnings,0.18461538461538463,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,1,one-false-warning-missed-warnings,0.152,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,2,one-false-warning-missed-warnings,0.16,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,3,one-false-warning-missed-warnings,0.8578461538461538,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,4,one-false-warning-missed-warnings,0.15815384615384614,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,,one-false-warning-missed-warnings,0.3025230769,,,5,mean
+intrusion episodes ending with an infected B server,cue-visible,0,one-false-warning-missed-warnings-outages,0.11569230769230769,,,,team
+intrusion episodes ending with an infected B server,cue-visible,1,one-false-warning-missed-warnings-outages,0.1636923076923077,,,,team
+intrusion episodes ending with an infected B server,cue-visible,2,one-false-warning-missed-warnings-outages,0.1636923076923077,,,,team
+intrusion episodes ending with an infected B server,cue-visible,3,one-false-warning-missed-warnings-outages,0.24553846153846154,,,,team
+intrusion episodes ending with an infected B server,cue-visible,4,one-false-warning-missed-warnings-outages,0.14646153846153845,,,,team
+intrusion episodes ending with an infected B server,cue-visible,,one-false-warning-missed-warnings-outages,0.1670153846,,,5,mean
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,0,one-false-warning-missed-warnings-outages,0.14646153846153845,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,1,one-false-warning-missed-warnings-outages,0.17846153846153845,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,2,one-false-warning-missed-warnings-outages,0.18153846153846154,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,3,one-false-warning-missed-warnings-outages,0.23015384615384615,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,4,one-false-warning-missed-warnings-outages,0.17107692307692307,,,,team
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,,one-false-warning-missed-warnings-outages,0.1815384615,,,5,mean
+intrusion episodes ending with an infected B server,inspect-first teacher,,reliable-warnings,0.0,,,,baseline
+intrusion episodes ending with an infected B server,restore-on-warning teacher,,reliable-warnings,0.0,,,,baseline
+intrusion episodes ending with an infected B server,cue-visible,,reliable-warnings,0.1284923077,,,,a-waits
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,,reliable-warnings,0.1284923077,,,,a-waits
+intrusion episodes ending with an infected B server,inspect-first teacher,,one-false-warning,0.0,,,,baseline
+intrusion episodes ending with an infected B server,restore-on-warning teacher,,one-false-warning,0.0,,,,baseline
+intrusion episodes ending with an infected B server,cue-visible,,one-false-warning,0.5945846154,,,,a-waits
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,,one-false-warning,0.5945846154,,,,a-waits
+intrusion episodes ending with an infected B server,inspect-first teacher,,two-false-warnings,0.0,,,,baseline
+intrusion episodes ending with an infected B server,restore-on-warning teacher,,two-false-warnings,0.0,,,,baseline
+intrusion episodes ending with an infected B server,cue-visible,,two-false-warnings,0.6786461538,,,,a-waits
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,,two-false-warnings,0.6786461538,,,,a-waits
+intrusion episodes ending with an infected B server,inspect-first teacher,,one-false-warning-missed-warnings,0.1833846153846154,,,,baseline
+intrusion episodes ending with an infected B server,restore-on-warning teacher,,one-false-warning-missed-warnings,0.17784615384615385,,,,baseline
+intrusion episodes ending with an infected B server,cue-visible,,one-false-warning-missed-warnings,0.3035076923,,,,a-waits
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,,one-false-warning-missed-warnings,0.3035076923,,,,a-waits
+intrusion episodes ending with an infected B server,inspect-first teacher,,one-false-warning-missed-warnings-outages,0.18276923076923077,,,,baseline
+intrusion episodes ending with an infected B server,restore-on-warning teacher,,one-false-warning-missed-warnings-outages,0.17723076923076922,,,,baseline
+intrusion episodes ending with an infected B server,cue-visible,,one-false-warning-missed-warnings-outages,0.1670153846,,,,a-waits
+intrusion episodes ending with an infected B server,cue-hidden-failures-suppressed,,one-false-warning-missed-warnings-outages,0.1815384615,,,,a-waits
