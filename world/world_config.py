@@ -95,7 +95,7 @@ def validate_world_config(config: dict) -> None:
 
     zones = config["zones"]
     if not isinstance(zones, dict) or len(zones) != 2:
-        raise ValueError("zones must contain exactly two zone tables for this MVP")
+        raise ValueError("zones must contain exactly two zone tables.")
 
     host_ids = set()
     server_zones = {}
@@ -106,7 +106,7 @@ def validate_world_config(config: dict) -> None:
         _check_id(zone["employee"], f"{label}.employee")
         _check_id_list(zone["servers"], f"{label}.servers")
         if len(zone["servers"]) != 3:
-            raise ValueError(f"{label}.servers must contain three servers for this MVP")
+            raise ValueError(f"{label}.servers must contain three servers.")
 
         for host_id in [zone["employee"], *zone["servers"]]:
             if host_id in host_ids:
