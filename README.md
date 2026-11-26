@@ -64,4 +64,4 @@ Results for the main, complete run are produced in 2 folders. `runs/` is private
 uv run --locked python -m studies.launch --all --only measure,draw --jobs 8
 ```
 
-Every team folder under `experiment-runs/` has a `run.json` that names the commit the code was at. The launcher refuses to start with uncommitted changes, so every `run.json` always names one clean commit.
+Every team folder under `experiment-runs/` has a `run.json` that mentions the commit the code was at. The launcher cannot start with uncommitted changes, so every `run.json` always names one clean commit.
